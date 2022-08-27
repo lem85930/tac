@@ -9,7 +9,7 @@
 //"wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "wallpaper": "#3C3F41",
 //"spider":"clan://cat/bd/dxa_custom_spider.jar",
-"spider":"https://github.com/sqspot/tac/blob/main/top921.jar",
+"spider":"https://raw.githubusercontent.com/sqspot/tac/main/top921.jar",
 
 //   "spider": [
 //        { "n": "default", "v": "clan://cat/bd/top921.jar" }, //默认jar
@@ -33,13 +33,13 @@
 
 "sites":[
 {"key":"csp_Auete","name":"👍Auete(SP)顯示全集","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/sqspot/tac/main/MeowXP/bili.json","jar":"https://github.com/sqspot/tac/blob/main/gg.jar"},
+{"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/sqspot/tac/main/MeowXP/bili.json","jar":"https://raw.githubusercontent.com/sqspot/tac/main/gg.jar"},
 {"key":"量子资源","name":"🌈量子资源(CDN)","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_Ole","name":"🌈欧乐(XPF)(播放器Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/sqspot/tac/main/MeowXP/olevod.json"},
 {"key":"csp_xpath_唐人街","name":"🇺🇲唐人街(評分)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/sqspot/tac/main/MeowXP/Renjie.json"},
 {"key":"csp_xpath_独播库","name":"🇲🇨独播库(評分)(系统播放器)(短劇)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/sqspot/tac/main/MeowXP/duboku.json"},
 {"key":"csp_Nbys","name":"🇨🇦泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"If101","name":"🇮🇸If101(評分)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/sqspot/tac/blob/main/dxa_custom_spider.jar"},
+{"key":"If101","name":"🇮🇸If101(評分)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/sqspot/tac/main/dxa_custom_spider.jar"},
 {"key":"if101资源","name":"🇮🇸if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"映迷繁體","name":"映迷(🇨🇦繁體搜索)(IJK)","type":0,"api":"https://www.inmi.app/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🇺🇲Cokemv(評分)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
@@ -54,7 +54,7 @@
 {"key":"卧龙资源","name":"卧龙资源(電影解說)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_555电影(Netflix)","name": "555电影(Netflix)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://home.jundie.top:81/Cat/MaooXB/555电影.json"},
 {"key": "Ikan","name": "👍爱看(評分)(有全集)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_SP360","name":"👍360(評分)(有繁體)(愛奇藝)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/sqspot/tac/blob/main/gg.jar"},  
+{"key":"csp_SP360","name":"👍360(評分)(有繁體)(愛奇藝)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/sqspot/tac/main/gg.jar"},  
 {"key":"293视频","name":"👍293视频(有全集)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"","plugin":"https://shuyuan.miaogongzi.net/shuyuan/1658535854.txt"},
 {"key":"天堂资源","name":"👍天堂资源(有全集)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"忆梦","name":"👍忆梦(有全集)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
