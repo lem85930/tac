@@ -7,8 +7,8 @@
         "剧集": "2",
         "综艺": "3",
         "动漫": "4"
-        "三級": "61"
-//    },
+//        "三級": "61"
+   },
     // Home Summary =====================================================
     "homeVodNode": "//ul[@class='vodlist vodlist_wi  clearfix']/li",
     "homeVodName": "/a/@title",
