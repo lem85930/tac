@@ -18,7 +18,7 @@
 {"key":"csp_xpath_ttsp","name":"🌈天天视频(評分)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/sqspot/tac/main/MeowXP/ttsp.json"},
 {"key":"csp_xpath_唐人街","name":"🇺🇲唐人街(評分)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/sqspot/tac/main/MeowXP/Renjie.json"},
 {"key":"csp_xpath_独播库","name":"🇲🇨独播库(評分)(系统播放器)(短劇)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/sqspot/tac/main/MeowXP/duboku.json"},
-{"key":"csp_Nbys","name":"🇨🇦泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Nbys","name":"🇨🇦泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"🇮🇸If101(評分)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/sqspot/tac/main/dxa_custom_spider.jar"},
 {"key":"if101资源","name":"🇮🇸if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"映迷繁體","name":"映迷(🇨🇦繁體搜索)(IJK)","type":0,"api":"https://www.inmi.app/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
