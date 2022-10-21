@@ -12,6 +12,7 @@
 "rating":[{"name":"rating","request":{"method":"GET","url":{"raw":"https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"}},"response":{"result":"this","data":[{"key":"rating","value":"doubanRating"}]}}],
 
 "sites":[
+{"key":"csp_SP360","name":"👍360(評分)(有繁體)(愛奇藝)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/sqspot/tac/main/gg.jar"},  
 {"key":"csp_Auete","name":"👍Auete(SP)顯示全集","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "桉t4","name": "豆瓣榜单（桉T4）","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=6","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"量子资源","name":"🌈量子资源(CDN)","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
@@ -35,7 +36,6 @@
 {"key":"卧龙资源","name":"卧龙资源(電影解說)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_555电影(Netflix)","name": "555电影(Netflix)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://home.jundie.top:81/Cat/MaooXB/555电影.json"},
 {"key": "Ikan","name": "👍爱看(評分)(有全集)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_SP360","name":"👍360(評分)(有繁體)(愛奇藝)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/sqspot/tac/main/gg.jar"},  
 {"key":"293视频","name":"👍293视频(有全集)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"","plugin":"https://shuyuan.miaogongzi.net/shuyuan/1658535854.txt"},
 {"key":"天堂资源","name":"👍天堂资源(有全集)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"忆梦","name":"👍忆梦(有全集)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
