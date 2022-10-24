@@ -3,6 +3,8 @@
 {
 //    "spider" : "https://raw.githubusercontent.com/sqspot/tac/main/proxy.jar",
     "sites" : [
+{"key" : "量子影视","name" : "🌈量子影视","type" : 3,"api" : "https://raw.githubusercontent.com/sqspot/tac/main//lib/drpy.ym.js","ext" : "https://raw.githubusercontent.com/sqspot/tac/main//js/量子影视.js"},
+{"key" : "量子影视2","name" : "量子影视","type" : 3,"api" : "https://raw.githubusercontent.com/sqspot/tac/main//lib/drpy.ym.js","ext" : "https://raw.githubusercontent.com/sqspot/tac/main//js/量子影视2.js"},
             {
             "key" : "drpy_js_360影视",
             "name" : "360影视[DRPY]",
