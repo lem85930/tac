@@ -229,9 +229,7 @@ filter:{
                          {'n': '评分', 'v': '/by/score'}
                           ]}]},
                           
-//filter_url:'地区={{fl.a}}&排序={{fl.by}}&类型={{fl.id}}&年代={{fl.y}}'
+
 filter_url:'http://www.lzizy9.com/index.php/vod/show{{fl.a}}{{fl.by}}/id/{{fl.id}}/page/fypage{{fl.y}}.html'
-//filter_url:'http://www.lzizy9.com/index.php/vod/show{{fl.a}}{{fl.by}}/id/fyclass/page/fypage{{fl.y}}.html'
-//class_name:'电影&連續劇&動漫&綜藝',
-//class_url:'1&2&3&/4'
+
 });
