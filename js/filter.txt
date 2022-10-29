@@ -1,11 +1,3 @@
-var rule = Object.assign(muban.mxone5,{
-//模板:'mxone5',
-title:'量子影视',
-host:'http://www.lzizy9.com',
-url:'/index.php/vod/show{{fl.a}}{{fl.by}}{{fl.c}}/id/fyclass/page/fypage.html',
-searchUrl:'/index.php/vod/search.html?wd=**',
-cate_exclude:'网址',
-
 filter:{
 	1: [
 		{'key': 'id', 	
@@ -333,4 +325,3 @@ filter:{
 filter_url:'/\{{fl.id}}/page/fypage{{fl.y}}.html'
 //filter_url:'http://www.lzizy9.com/index.php/vod/show{{fl.a}}{{fl.by}}{{fl.c}}/id/fyclass/page/fypage{{fl.y}}.html'
 
-});
