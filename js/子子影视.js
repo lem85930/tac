@@ -1,9 +1,9 @@
 var rule={
     title:'子子影视',
-    host:'https://www.ziziys.com/',
+    host:'https://www.ziziys.com',
     // homeUrl:'/',
     url:'/list/fyclass/page/fypage.html',
-    searchUrl:'/vsearch/**fypage.html',
+    searchUrl:'/vsearch/--.html?wd=**',
     searchable:2,//是否启用全局搜索,
     quickSearch:0,//是否启用快速搜索,
     filterable:0,//是否启用分类筛选,
@@ -19,5 +19,5 @@ var rule={
     double:true, // 推荐内容是否双层定位
     一级:'.module-item;a&&title;.lazyloaded&&data-src;.module-item-text&&Text;a&&href',
     二级:{"title":"h1&&Text;.video-info-header&&Text","img":".lazyload&&data-src","desc":".video-info-items:eq(1)&&Text;.video-info-items:eq(2)&&Text;.video-info-items:eq(3)&&Text","content":".vod_content&&Text","tabs":".module-tab-item","lists":".sort-item:eq(#id) a"},
-    搜索:'.video-info;a&&title;.lazyload&&data-src;.video-info-items&&Text',
+    搜索:'.module-items;.lazyload&&alt;.lazyload&&data-src;.tag-link&&Text;*',
 }
