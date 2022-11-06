@@ -7,6 +7,7 @@
 {'key':'量子影视_sq','name':'🌎量子影视_sq','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/量子影视_sq.js'},
 {'key':'量子影视','name':'🌎量子影视','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/量子影视.js'},
 {'key':'if101[飞]','name':'🌎if101[飞]','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/if101[飞].js'},
+{'key':'海兔影院','name':'🌎海兔影院','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/海兔影院.js'},
 {'key':'独播库[飞]','name':'🌎独播库[飞]','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/独播库[飞].js'},
 {'key':'小宝影院[飞]','name':'🌎小宝影院[飞]','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/小宝影院[飞].js'},
 {'key':'吼吼[飞]','name':'🌎吼吼[飞]','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/吼吼[飞].js'},
@@ -148,7 +149,6 @@
 {'key':'首播影院','name':'首播影院','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/首播影院.js'},
 {'key':'凌云影视','name':'凌云影视','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/凌云影视.js'},
 {'key':'剧荒','name':'剧荒','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/剧荒.js'},
-{'key':'海兔影院','name':'海兔影院','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/海兔影院.js'},
 {'key':'海盗听书','name':'海盗听书','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/海盗听书.js'},
 {'key':'爱车MV','name':'爱车MV','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/爱车MV.js'},
 {'key':'爱看电影','name':'爱看电影','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/爱看电影.js'},
@@ -195,6 +195,7 @@
 {'key':'vidhub','name':'vidhub','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/vidhub.js'},
 {'key':'vip影院','name':'vip影院','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/vip影院.js'}
 ],
+//"lives": [    {      "name": "直播",      "type": 3,      "url": "https://raw.githubusercontent.com/sqspot/tac/main/js/lives.txt"    }  ],
 "lives" : [{"group" : "redirect","channels" : [{"name" : "live","urls" : ["proxy://do=live&type=txt&ext=http://111.67.196.181/mtv/zhibo.txt"]}]}],
 "rules" : [{"host" : "*","rule" : ["douyinvod.com","/video/tos/cn/"]},{"host" : "*","rule" : ["default.365yg.com","/video/tos/cn/"]},{"host" : "*","rule" : ["ysting.ysxs8.vip","m4a"]},{"host" : "www.agemys.cc","rule" : ["cdn-tos","obj/tos-cn"]},{"host" : "*","rule" : ["/m3u8.php","path="]},{"host" : "zjmiao.com","rule" : ["play.videomiao.vip/API.php","time=","key=","path="]}],
 "parses" : [{"name" : "解析聚合","type" : 3,"url" : "Demo"},{"name" : "Json并发","type" : 2,"url" : "Parallel"},{"name" : "Json轮询","type" : 2,"url" : "Sequence"},{"name" : "江湖1080","type" : 1,"url" : "http://211.99.99.236:4567/jhjson/ceshi.php?url="},{"name" : "keyu","type" : 1,"url" : "http://newjiexi.gotka.top/keyu3.php?url=","ext" : {"header" : {"User-Agent" : "okhttp/4.1.0"}}},{"name" : "荣兴","type" : 1,"url" : "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url="}],
