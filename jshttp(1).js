@@ -9,6 +9,7 @@
 {"key":"csp_xpath_独播库","name":"🇲🇨独播库(評分)(系统播放器)(短劇)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/sqspot/tac/main/MeowXP/duboku.json","jar":"https://raw.githubusercontent.com/sqspot/tac/main/top921.jar"},
 {'key':'量子影视_sq','name':'🌎量子影视_sq','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/量子影视_sq.js'},
 {'key':'量子影视','name':'🌎量子影视','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/量子影视.js'},
+{"key":"CK资源(VPN)","name":"🌎CK资源(VPN)","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","categories":[],"searchable":1,"quickSearch":1,"filterable":1},
 {'key':'if101[飞]','name':'🌎if101[飞]','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/if101[飞].js'},
 {'key':'海兔影院','name':'🌎海兔影院','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/海兔影院.js'},
 {'key':'独播库[飞]','name':'🌎独播库[飞]','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/独播库[飞].js'},
