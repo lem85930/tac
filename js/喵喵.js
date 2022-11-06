@@ -5,7 +5,7 @@ var rule = {
     url:'/t/fyclass/fypage.html',
     searchUrl:'/s/**/fypage.html',
     searchable:2,
-    quickSearch:0,
+    quickSearch:1,
     headers:{
         'User-Agent':'UC_UA'
     },
