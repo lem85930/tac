@@ -11,7 +11,7 @@ cate_exclude:'网址|SWAG視訊|成人|無碼S手遊',
 filter:{
 	1: [
 		{'key': 'id', 	
-		'name': '类型', 	
+		'name': '類型', 	
 		'value': [	
 					{'n': '全部', 'v': '/show/1'},
                     {'n': '動作片', 'v': '/show/6'},
@@ -454,6 +454,6 @@ filter:{
 					{'n': '評分', 'v': '/by/score'}
 					 ]}]},	
 					
-filter_url:'/.{{fl.id}}{{fl.a}}{{fl.by}}{{fl.c}}/page/fypage{{fl.y}}.html'
+filter_url:'/{{fl.id}}{{fl.a}}{{fl.by}}{{fl.c}}/page/fypage{{fl.y}}.html'
  
 });
