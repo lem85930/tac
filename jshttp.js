@@ -20,6 +20,7 @@
 {'key':'HoHo影视','name':'🌎HoHo影视','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/HoHo影视.js'},
 {'key':'追剧啦','name':'🌎追剧啦','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/追剧啦.js'},
 {'key':'l0l','name':'🌎l0l','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/l0l.js'},
+{"key":"泥巴","name":"🇨🇦泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/sqspot/tac/main/top921.jar"},
 {'key':'7喜影院','name':'🌎7喜影院','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/7喜影院.js'},
 {'key':'69美剧','name':'🌎69美剧','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/69美剧.js'},
 {'key':'豆芽影院','name':'🌎豆芽影院','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/豆芽影院.js'},
