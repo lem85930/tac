@@ -1,26 +1,14 @@
-var rule = {
+muban.首图2.推荐 = 'ul.stui-vodlist.clearfix;li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href'; 
+muban.首图2.二级.content = '.stui-pannel_bd p:eq(0)';
+muban.首图2.二级.desc = ';;.stui-content__detail p:eq(0);.stui-content__detail p:eq(1);.stui-content__detail p:eq(2)'
+muban.首图2.二级.tabs = '.stui-pannel__head.bottom-line.active.clearfix h3';
+var rule = Object.assign(muban.首图2,{
 title:'双十电影',
 host:'https://www.1010dy3.com',
 url:'/show/fyclass/page/fypage/',
 searchUrl:'/search/page/fypage/wd/**/',
 class_name:'电影&电视剧&动漫&综艺',
 class_url:'1&2&3&4',
-//tab_exclude:'为你|榜单',
-    searchable:2,//是否启用全局搜索,
-    quickSearch:0,//是否启用快速搜索,
-    filterable:0,//是否启用分类筛选,
-    headers:{
-        'User-Agent':'UC_UA',
-        // "Cookie": ""
-    },
-    // class_parse:'.stui-header__menu li:gt(0):lt(7);a&&Text;a&&href;/(\\d+).html',
-   // class_parse:'.stui-header__menu li:gt(0):lt(7);a&&Text;a&&href;.*/(.*?).html',
-    play_parse:true,
-    lazy:'',
-    limit:6,
-    推荐 = 'ul.stui-vodlist.clearfix;li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
-    double:true, // 推荐内容是否双层定位
-    一级:'.stui-vodlist li;a&&title;a&&data-original;.pic-text&&Text;a&&href',
-    二级:{"title":".stui-content__detail .title&&Text;.stui-content__detail p:eq(-2)&&Text","img":".stui-content__thumb .lazyload&&data-original","desc":".;;.stui-content__detail p:eq(0);.stui-content__detail p:eq(1);.stui-content__detail p:eq(2)","content":".stui-pannel_bd p:eq(0)","tabs":".stui-pannel__head.bottom-line.active.clearfix h3","lists":".stui-content__playlist:eq(#id) li"},
-   搜索:'ul.stui-vodlist__media&&li;a&&title;.lazyload&&data-original;.text-muted&&Text;a&&href;.text-muted:eq(-1)&&Text'
-}
+tab_exclude:'为你|榜单',
+搜索:'ul.stui-vodlist__media&&li;a&&title;.lazyload&&data-original;.text-muted&&Text;a&&href;.text-muted:eq(-1)&&Text',
+});

@@ -7,7 +7,7 @@ var rule = {
     quickSearch:0,
     filterable:0,
     headers:{
-        'User-Agent':'PC_UA'
+        'User-Agent':'MOBILE_UA'
     },
     timeout:5000,
     class_name:'小品&相声&二人转&春晚小品',
@@ -15,8 +15,8 @@ var rule = {
     play_parse:true,
     lazy:'',
     limit:6,
-    double:false,
-    推荐:'.itemtoplist&&li;.itemtopname&&a&&Text;img&&src;.icoplay&&Text;a&&href',
+    double:true,
+    推荐:'.itemlist;ul&&li;.itemname&&a&&Text;.itemimg img&&src;*;*',
     一级:'.catecon&&ul&&li;.catename&&a&&Text;img&&src;.icoplay&&Text;a&&href',
     二级:'*',
     搜索:'*',
