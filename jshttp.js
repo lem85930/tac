@@ -15,6 +15,7 @@
 {'key':'UrleBird[飞]','name':'🌎TikTok镜像[飞]','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/UrleBird[飞].js'},
 {'key':'短视频','name':'短视频','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/短视频.js'},
 {'key':'多瑙影视','name':'💬多瑙影视','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/多瑙影视.js'},
+{'key':'NY影院','name':'🧡NY影院♒','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/NY影院.js'},
 {'key':'快看','name':'🌎快看','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/快看.js'},
 {'key':'1080P','name':'🌎1080P','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/1080P.js'},
 {'key':'小宝影视','name':'💬小宝影视','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/小宝影视.js'},
