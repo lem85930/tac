@@ -13,7 +13,7 @@
 {'key':'唐人街影视[飞]','name':'👍唐人街影视[飞]','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/唐人街影视[飞].js'},
 {'key':'HoHo影视','name':'👍HoHo影视','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/HoHo影视.js'},
 {'key':'UrleBird[飞]','name':'🌎TikTok镜像[飞]','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/UrleBird[飞].js'},
-{'key':'JustLive','name':'JustLive??','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/JustLive.js'},
+{'key':'JustLive','name':'JustLive🔎','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/JustLive.js'},
 {'key':'短视频','name':'短视频','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/短视频.js'},
 {'key':'多瑙影视','name':'💬多瑙影视','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/多瑙影视.js'},
 {'key':'NY影院','name':'🧡NY影院♒','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/NY影院.js'},
