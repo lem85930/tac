@@ -46,7 +46,7 @@
 {'key':'玄天','name':'🧡玄天','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/玄天.js'},
 {'key':'两个BT','name':'🧡两个BT','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/两个BT.js'},
 {'key':'子子影视','name':'🧡子子影视','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/子子影视.js'},
-{'key':'188看','name':'??188看','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/188看.js'},
+{'key':'188看','name':'🧡188看','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/188看.js'},
 {'key':'人人影视','name':'🧡人人(電影解說)','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/人人影视.js'},
 {'key':'小强迷','name':'🧡小强迷','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/小强迷.js'},
 {'key':'牛马TV','name':'🧡牛马TV','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/牛马TV.js'},
