@@ -20,8 +20,8 @@ var rule = {
 	
 	
 filter_url:'{{fl.by}}',
-class_name:'電影&電視劇&綜藝&動漫&音樂',
-class_url:'1&2&3&4&6',
+class_name:'電影&電視劇&綜藝&動漫&音樂&    ',
+class_url:'1&2&3&4&6&5',
     timeout:5000,
     class_parse:'.bm-item-list a:gt(0):lt(7);a&&Text;a&&href;/(\\d+).html',
     play_parse:true,
