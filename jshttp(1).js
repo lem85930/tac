@@ -28,7 +28,7 @@
 {'key':'尘落影视','name':'💬尘落影视','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/尘落影视.js'},
 {'key':'凌云','name':'💬凌云','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/凌云.js'},
 {'key':'追剧喵','name':'💬追剧喵','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/追剧喵.js'},
-{'key':'喵喵','name':'💬喵喵♒','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/喵喵.js'},
+{'key':'喵喵','name':'💬喵喵♒','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/喵喵(1).js'},
 {'key':'菜狗','name':'💬菜狗🔎','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/菜狗.js'},
 {'key':'快看','name':'🌎快看','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/快看.js'},
 {'key':'1080P','name':'🌎1080P','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/1080P.js'},
