@@ -30,7 +30,7 @@
 {'key':'菜狗','name':'💬菜狗🔎','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/菜狗.js'},
 {'key':'快看','name':'🌎快看','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/快看.js'},
 {'key':'1080P','name':'🌎1080P','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/1080P.js'},
-{'key':'追剧啦','name':'🌎追剧啦','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/追剧啦.js'},
+{'key':'追剧啦','name':'🌎追剧啦🔎','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/追剧啦.js'},
 {'key':'l0l','name':'🌎l0l','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/l0l.js'},
 {'key':'7喜影院','name':'🌎7喜影院','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/7喜影院.js'},
 {'key':'69美剧','name':'🌎69美剧','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/69美剧.js'},
