@@ -90,7 +90,7 @@
 {'key':'新安影院','name':'🧡新安影院','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/新安影院.js'},
 {'key':'天天视频','name':'天天视频♒','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/天天视频(1).js'},
 {'key':'NY影院','name':'🧡NY影院♒','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/NY影院(1).js'},
-{'key':'浮生半日','name':'♒浮生半日','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/浮生半日.js'},
+{'key':'浮生半日','name':'浮生半日♒','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/浮生半日(1).js'},
 {'key':'乐猪TV','name':'♒乐猪TV','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/乐猪TV.js'},
 {'key':'小品网','name':'🎵小品网','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/小品网.js'},
 {'key':'海盗听书','name':'🎵海盗听书','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/海盗听书.js'},
