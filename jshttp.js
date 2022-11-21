@@ -83,7 +83,7 @@
 {'key':'追剧影视','name':'🧡追剧影视','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/追剧影视.js'},
 {'key':'捷华影视','name':'🧡捷华影视','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/捷华影视.js'},
 {'key':'盛世电影网','name':'🧡盛世电影网','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/盛世电影网.js'},
-{'key':'蛋蛋赞','name':'🧡蛋蛋赞','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/蛋蛋赞.js'},
+{'key':'蛋蛋赞','name':'🧡蛋蛋赞🔎','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/蛋蛋赞.js'},
 {'key':'蛋蛋魔法','name':'🧡蛋蛋魔法','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/蛋蛋魔法.js'},
 {'key':'新安影院','name':'🧡新安影院','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/新安影院.js'},
 {'key':'小品网','name':'🎵小品网','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/小品网.js'},
