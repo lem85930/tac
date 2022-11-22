@@ -6,7 +6,7 @@
 {'key':'泥巴','name':'🛩泥巴🔎','type':3,'api':'csp_Nbys','searchable':1,'quickSearch':1,'filterable':1,'jar':'https://raw.githubusercontent.com/sqspot/tac/main/top921.jar'},
 {'key':'欧乐影院[飞]','name':'🛩歐樂影院(📢播放器要選 Exo 📣)♒','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/欧乐影院[飞](1).js'},
 {'key':'独播库[飞]','name':'🛩独播库(📢系统播放器📣)🔎','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/独播库[飞].js'},
-{'key':'欧帝影院[飞]','name':'🛩欧帝影院[飞](📢播放器要選 Exo 📣)🔎','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/欧帝影院[飞].js'},
+{'key':'欧帝影院[飞]','name':'🛩欧帝影院[飞](📢播放器要選 Exo 📣)🔎','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/欧帝影院[飞](1).js'},
 {'key':'量子影视_sq','name':'🛩量子影视♒','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/量子影视_sq(1).js'},
 {"key":"CK资源(VPN)","name":"🛩CK资源♒","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","categories":[],"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"CK资源","name":"🛩CK资源(VPN)",'type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/ck资源.js'},
