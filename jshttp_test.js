@@ -1,5 +1,5 @@
 {
-"spider" : "https://raw.githubusercontent.com/sqspot/tac/main/w.jar",
+//"spider" : "https://raw.githubusercontent.com/sqspot/tac/main/w.jar",
 "sites" : [
 {"key":"007影视","name":"007影视","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/007影视.js"},
 {"key":"2099电影","name":"2099电影","type":4,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/2099电影.js"},
