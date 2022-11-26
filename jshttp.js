@@ -3,7 +3,8 @@
 "sites" : [
 {'key':'豆瓣','name':'豆瓣🔎','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/豆瓣.js'},
 {'key':'drpy','name':'豆瓣2🔎','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/drpy.js'},
-{'key':'泥巴','name':'🛩泥巴🔎','type':3,'api':'csp_Nbys','searchable':1,'quickSearch':1,'filterable':1,'jar':'https://raw.githubusercontent.com/sqspot/tac/main/top921.jar'},
+//{'key':'泥巴','name':'🛩泥巴🔎','type':3,'api':'csp_Nbys','searchable':1,'quickSearch':1,'filterable':1,'jar':'https://raw.githubusercontent.com/sqspot/tac/main/top921.jar'},
+{'key':'泥巴','name':'🛩泥巴🔎','type':3,'api':'csp_Nbys','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'欧乐影院[飞]','name':'🛩欧乐影院[飞](📢播放器要選 Exo 📣)🔎','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/欧乐影院[飞](改).js'},
 {'key':'独播库[飞]','name':'🛩独播库(📢系统播放器📣)🔎','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/独播库[飞].js'},
 {'key':'欧帝影院[飞]','name':'🛩欧帝影院[飞(📢播放器要選 Exo 📣)🔎','type':3,'api':'https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js','ext':'https://raw.githubusercontent.com/sqspot/tac/main/js/欧帝影院[飞](改).js'},
