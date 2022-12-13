@@ -1,18 +1,10 @@
 [
         {
         "name" : "🙋丫仙女",
-        "server" : "http://alist.xiaoya.pro/",
+        "server" : "http://alist.xiaoya.pro",
         "startPage" : "/",
         "showAll" : false,
-        "search" : true,
-        "params" : {
-            "/abc" : {
-                "password" : "123"
-            },
-            "/abc/abc" : {
-                "password" : "123"
-            }
-        }
+        "search" : true
     },
         {
         "name" : "🌤晴园的宝藏库",
