@@ -1,6 +1,6 @@
 var rule = {
     title:'KUBO影视',
-    host:'https://123kubo.tv',
+    host:'https://tv99kubo.tv/',
     // homeUrl:'/',
     url:'/show/fyclass/page/fypage.html',
     searchUrl:'/search/page/fypage/wd/**.html',
@@ -13,7 +13,7 @@ var rule = {
     },
     class_name:'电影&电视剧&综艺&动漫',
     class_url:'1&2&3&4',
-    //class_parse:'.myui-panel-box&&ul&&li;a&&Text;a&&href;/v/(.*)/',
+    class_parse:'.myui-panel-box&&ul&&li;a&&Text;a&&href;/v/(.*)/',
     play_parse:true,
     lazy:'',
     limit:6,
