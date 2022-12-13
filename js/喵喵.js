@@ -2,26 +2,13 @@ var rule = {
     title:'喵喵',
     host:'https://www.2345ka.com',
     // homeUrl:'/',
-    url:'/t/fyclass/fyfilter/fypage.html',
+    url:'/t/fyclass/fypage.html',
     searchUrl:'/s/**/fypage.html',
     searchable:2,
     quickSearch:0,
     headers:{
         'User-Agent':'UC_UA'
     },
-    cate_exclude:'电影|电视剧|综艺|动漫|音乐|福利',
-    filter:{
-	1: [{'key': 'by', 'name': '排序', 'value': [{'n': '时间', 'v': ''}, {'n': '人气', 'v': 'hits'}, {'n': '评分', 'v': 'score'} ]}], 
-	2: [{'key': 'by', 'name': '排序', 'value': [{'n': '时间', 'v': ''}, {'n': '人气', 'v': 'hits'}, {'n': '评分', 'v': 'score'} ]}], 
-	3: [{'key': 'by', 'name': '排序', 'value': [{'n': '时间', 'v': ''}, {'n': '人气', 'v': 'hits'}, {'n': '评分', 'v': 'score'} ]}], 
-	4: [{'key': 'by', 'name': '排序', 'value': [{'n': '时间', 'v': ''}, {'n': '人气', 'v': 'hits'}, {'n': '评分', 'v': 'score'} ]}], 
-	6: [{'key': 'by', 'name': '排序', 'value': [{'n': '时间', 'v': ''}, {'n': '人气', 'v': 'hits'}, {'n': '评分', 'v': 'score'} ]}], 
-	5: [{'key': 'by', 'name': '排序', 'value': [{'n': '时间', 'v': ''}, {'n': '人气', 'v': 'hits'}, {'n': '评分', 'v': 'score'} ]}]},
-	
-	
-filter_url:'{{fl.by}}',
-class_name:'電影&電視劇&綜藝&動漫&音樂',
-class_url:'1&2&3&4&6',
     timeout:5000,
     class_parse:'.bm-item-list a:gt(0):lt(7);a&&Text;a&&href;/(\\d+).html',
     play_parse:true,
