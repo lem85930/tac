@@ -4,7 +4,7 @@ host:'https://www.lovedan.net',
 url:'/vodshow/fyclass--------fypage---.html[/vodshow/fyfilter------fypage---{{fl.year}}.html]',
 //url:'/vodshow/fyclass--------fypage---.html[/vodshow/fyfilter------fypage---{{fl.year}}.html]',
 searchUrl:'/vodsearch/**----------fypage---.html',
-class_name:'電影&電視劇&綜藝&動漫&福利视频&福利图片',
+class_name:'電影&電視劇&綜藝&動漫&福利視頻&福利圖片',
 class_url:'1&2&3&4&5&6',
 cate_exclude: '电视剧|综艺|动漫|福利视频|福利图片|最新|排行',
 filter:{
