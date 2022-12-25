@@ -10,7 +10,7 @@
 {"key":"欧帝影院[飞]","name":"🛩欧帝影院[飞](📢播放器要選Exo📣)🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(1)/欧帝影院[飞](1).js"},
 {"key":"泥巴","name":"🛩泥巴🔎","type":3,"api": "csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"量子影视_sq","name":"🛩量子影视♒","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(1)/量子影视_sq(1).js"},
-{"key":"7喜影院","name":"🛩7喜影院","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(1)/7喜影院(1).js"},
+{"key":"7喜影院","name":"🛩7喜影院♒","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(1)/7喜影院(1).js"},
 {"key":"CK资源","name":"🛩CK资源♒","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","categories":[],"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"CK资源(VPN)","name":"🛩CK资源(VPN)","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/ck资源.js"},
 {"key":"追剧啦","name":"🌎追剧啦(CK)♒","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(1)/追剧啦(1).js"},

@@ -10,7 +10,7 @@
 {"key":"欧帝影院[飞]","name":"🛩欧帝影院[飞](📢播放器要選Exo📣)🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(改)/欧帝影院[飞](改).js"},
 {"key":"泥巴","name":"🛩泥巴🔎","type":3,"api": "csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"量子影视_sq","name":"🛩量子影视","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(改)/量子影视_sq(改).js"},
-{"key":"7喜影院","name":"🛩7喜影院","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(改)/7喜影院(改).js"},
+{"key":"7喜影院","name":"🛩7喜影院🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(改)/7喜影院(改).js"},
 {"key":"if101[飞]","name":"🛩if101[飞]","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/if101[飞].js"},
 {"key":"海兔影院","name":"🛩海兔影院","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/海兔影院.js"},
 {"key":"小宝影院[飞]","name":"🛩小宝影院[飞]🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/小宝影院[飞].js"},
