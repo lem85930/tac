@@ -2,8 +2,9 @@
 {
 "spider" : "https://raw.githubusercontent.com/sqspot/tac/main/custom_spider (1).jar",
 "sites" : [
-{"key":" drpy ","name":"豆瓣2🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/drpy.js"},
-{"key":" drpy_js_豆瓣 ","name":"豆瓣🏛[DRPY]🔎","type":3,"api":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/lib/drpy.min.js","ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/drpy.js"},
+{"key":"豆瓣","name":"豆瓣🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/豆瓣.js"},
+{"key":"drpy","name":"豆瓣2🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/drpy.js"},
+{"key":"drpy_js_豆瓣","name":"豆瓣🏛[DRPY]🔎","type":3,"api":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/lib/drpy.min.js","ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/drpy.js"},
 {"key":" 欧乐影院[飞] ","name":"🛩歐樂影院(📢播放器要選Exo📣)♒","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(1)/欧乐影院[飞](1).js"},
 {"key":" 独播库[飞] ","name":"🛩独播库(📢系统播放器📣)🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/独播库[飞].js"},
 {"key":" 欧帝影院[飞] ","name":"🛩欧帝影院[飞](📢播放器要選Exo📣)🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(1)/欧帝影院[飞](1).js"},
