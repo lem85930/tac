@@ -48,7 +48,7 @@
 {"key":" 楚门影院 ","name":"🌎楚门影院🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/楚门影院.js"},
 {"key":" 艾旦影视 ","name":"🌎艾旦影视🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(1)/艾旦影视(1).js"},
 {"key":" 蛋蛋赞 ","name":"🌎蛋蛋赞♒","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(1)/蛋蛋赞(1).js"},
-{"key":"追剧达人","name":"🌎追剧达人♒","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(1/)追剧达人(1).js"},
+{"key":"追剧达人","name":"🌎追剧达人♒","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(1)/追剧达人(1).js"},
 {"key":" NY影院 ","name":"🧡NY影院♒","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(1)/NY影院(1).js"},
 {"key":" 浮生半日 ","name":"浮生半日♒","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(1)/浮生半日(1).js"},
 {"key":" drpy_js_Alist ","name":"🧡Alist[DRPY]🔎","type":3,"api":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/lib/alist.min.js","ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/alist.json"},
