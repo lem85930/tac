@@ -1,6 +1,6 @@
 //https://raw.githubusercontent.com/sqspot/tac/main/jshttp.js
 {
-"spider" : "https://raw.githubusercontent.com/sqspot/tac/main/custom_spider (1).jar",
+"spider" : "https://raw.githubusercontent.com/sqspot/tac/main/FongMi_custom_spider.jar",
 "sites" : [
 {"key":"豆瓣","name":"豆瓣🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/豆瓣.js"},
 {"key":"drpy","name":"豆瓣2🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/drpy.js"},
@@ -200,7 +200,22 @@
 {"key":"星辰⚫","name":"星辰⚫","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/星辰.js"},
 {"key":"539影院⚫","name":"539影院⚫","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/539影院.js"}
 ],
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://111.67.196.181/mtv/zhibo.txt"]}]}],
+"lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/sqspot/tac/main/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "測試",
+      "type": 1,
+      "url": "https://raw.githubusercontent.com/sqspot/tac/main/live.json",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
+      "logo": "http://epg.51zmt.top:8000/{logo}"
+    }
+  ],
 "rules":[
 {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
 {"host":"www.sharenice.net","rule":["sovv.qianpailive.com","vid="],"filter":[]},
