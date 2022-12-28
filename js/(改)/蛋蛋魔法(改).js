@@ -1,9 +1,17 @@
-var rule = Object.assign(muban.海螺3,{
-title:'艾旦影视',
-host:'https://www.lovedan.net',
+var rule = {
+    title:'蛋蛋魔法',
+    host:'https://ddmf.net',
+    // homeUrl:'/',
     url:'/vodshow/fyfilter.html',
-	filterable:1,//是否启用分类筛选,
-	filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
+    searchUrl:'/vodsearch/**----------fypage---.html',
+    searchable:2,//是否启用全局搜索,
+    quickSearch:0,//是否启用快速搜索,
+    filterable:1,//是否启用分类筛选,
+    headers:{//网站的请求头,完整支持所有的,常带ua和cookies
+        'User-Agent':'MOBILE_UA',
+        // "Cookie": "searchneed=ok"
+    },
+    filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
 	filter: {
     "1":[
     {"key":"cateId","name":"分类","value":[{"n":"全部","v":"1"},{"n":"动作片","v":"6"},{"n":"喜剧片","v":"7"},{"n":"爱情片","v":"8"},{"n":"科幻片","v":"9"},{"n":"恐怖片","v":"10"},{"n":"犯罪片","v":"11"},{"n":"战争片","v":"12"},{"n":"动画电影","v":"20"},{"n":"剧情片","v":"21"},{"n":"纪录片","v":"22"}]},
@@ -57,10 +65,14 @@ host:'https://www.lovedan.net',
 		
 	
 	},
-
-searchUrl:'/vodsearch/**----------fypage---.html',
-class_name:'電影&電視劇&綜藝&動漫',
+    class_name:'電影&電視劇&綜藝&動漫',
 class_url:'1&2&3&4',
-cate_exclude: '电视剧|综艺|动漫|福利视频|福利图片|最新|排行|直播',
-
-});
+    play_parse:true,
+    lazy:'',
+    limit:6,
+    推荐:'.module-item;.module-item-cover&&.module-item-pic;a&&title;.lazyloaded&&data-src;.module-item-text&&Text;a&&href',
+    double:true, // 推荐内容是否双层定位
+    一级:'.module-list&&.module-item;.module-item-pic&&a&&title;.lazyloaded&&data-src;.module-item-text&&Text;a&&href',
+    二级:{"title":"h1&&Text;.video-info-aux.scroll-content&&Text","img":".lazyload&&data-src","desc":".module-info-content&&.module-info-item:eq(-2)&&Text;.module-info-content&&.module-info-item:eq(-2)&&Text;.module-info-content&&.module-info-item:eq(-2)&&Text;.video-info-items:eq(1)&&.video-info-item.video-info-actor&&Text;.video-info-items:eq(0)&&.video-info-item.video-info-actor&&Text","content":".video-info-item.video-info-content.vod_content&&Text","tabs":".module-tab-content&&.module-tab-item.tab-item","lists":".module-blocklist.scroll-box.scroll-box-y:eq(0)&&.scroll-content a"},
+    搜索:'.module-search-item;.lazy.lazyload&&alt;img&&data-src;.video-serial&&Text;a.video-serial&&href',
+}
