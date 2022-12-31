@@ -18,7 +18,7 @@
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
-"wallpaper":"http://maoyingshi.cc/api.php",
+"wallpaper":"https://raw.githubusercontent.com/sqspot/tac/main/黑色.jpeg"
 
 //"wallpaper":"https://www.dmoe.cc/random.php",  //默认动漫少女
 //"wallpaper":"https://api.vvhan.com/api/acgimg",  //动漫少女
