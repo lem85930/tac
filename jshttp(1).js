@@ -204,7 +204,7 @@
     {
       "name": "台灣",
       "type": 0,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "url": "https://raw.githubusercontent.com/sqspot/tac/main/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
