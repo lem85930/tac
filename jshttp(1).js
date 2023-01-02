@@ -214,8 +214,7 @@
       "url": "http://home.jundie.top:81/Cat/tv/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
+    },    
     {
       "name": "FongMi",
       "type": 1,

@@ -206,7 +206,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-    {
       "name": "FongMi",
       "type": 1,
       "url": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
