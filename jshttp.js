@@ -192,16 +192,24 @@
 ],
 "lives": [
     {
-      "name": "直播",
+      "name": "台灣",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/sqspot/tac/main/live.txt",
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "測試",
+      "name": "直播",
+      "type": 0,
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+    {
+      "name": "FongMi",
       "type": 1,
-      "url": "https://raw.githubusercontent.com/sqspot/tac/main/live.json",
+      "url": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
       "logo": "http://epg.51zmt.top:8000/{logo}"
     }
