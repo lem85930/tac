@@ -8,7 +8,6 @@
 {"key":" 欧乐影院[飞] ","name":"🛩歐樂影院(📢播放器要選Exo📣)♒","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(1)/欧乐影院[飞](1).js"},
 {"key":" 独播库[飞] ","name":"🛩独播库(📢系统播放器📣)🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/独播库[飞].js"},
 {"key":" 欧帝影院[飞] ","name":"🛩欧帝影院[飞](📢播放器要選Exo📣)🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/欧帝影院[飞].js"},
-{"key":" 泥巴 ","name":"🛩泥巴🔎","type":3,"api": "csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":" 量子影视_sq ","name":"🛩量子影视♒","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(1)/量子影视_sq(1).js"},
 {"key":" 7喜影院 ","name":"🛩7喜影院♒","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(1)/7喜影院(1).js"},
 {"key":" CK资源 ","name":"🛩CK资源♒","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","categories":[],"searchable":1,"quickSearch":1,"filterable":1},
@@ -24,6 +23,7 @@
 {"key":" 大中影视[飞] ","name":"🛩大中影视[飞]","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/大中影视[飞].js"},
 {"key":" 金曼影视 ","name":"🛩金曼影视🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/金曼影视.js"},
 {"key":" 飞兔影视 ","name":"🛩飞兔影视","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/飞兔影视.js"},
+{"key":" 泥巴 ","name":"🛩泥巴🔎","type":3,"api": "csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":" UrleBird[飞] ","name":"🛤TikTok镜像[飞]","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/UrleBird[飞].js"},
 {"key":" JustLive ","name":"🛤JustLive🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/JustLive.js"},
 {"key":" 短视频 ","name":"🛤短视频","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/短视频.js"},
@@ -202,6 +202,13 @@
 ],
 "lives": [
     {
+      "name": "直播源",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/sqspot/tac/main/直播源(1).txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },    
+    {
       "name": "FongMi",
       "type": 1,
       "url": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
@@ -215,14 +222,7 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "直播源",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/sqspot/tac/main/直播源.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },    
-    {
+        {
       "name": "直播1",
       "type": 0,
       "url": "http://home.jundie.top:81/Cat/tv/live.txt",
