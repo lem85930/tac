@@ -1,5 +1,5 @@
 {
-"spider" : "https://raw.githubusercontent.com/sqspot/tac/main/custom_spider (1).jar",
+//"spider" : "https://raw.githubusercontent.com/sqspot/tac/main/FongMi_custom_spider.jar",
 "sites" : [
 {"key":"豆瓣","name":"豆瓣🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/豆瓣.js"},
 {"key":"drpy","name":"豆瓣2🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/drpy.js"},

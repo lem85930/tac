@@ -75,7 +75,7 @@
 {"key":"鸭奈飞","name":"🌎鸭奈飞🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/鸭奈飞.js"},
 {"key":"蜥蜴影视","name":"🌎蜥蜴影视🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/蜥蜴影视.js"},
 {"key":"在线之家Ⅱ","name":"🌎在线之家Ⅱ","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/在线之家Ⅱ.js"},
-{"key":"看BZ影视","name":"🌎看BZ影视⚫","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/看BZ影视.js"},
+{"key":"看BZ影视","name":"🌎看BZ影视","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/看BZ影视.js"},
 {"key":"TV蜂","name":"🌎TV蜂","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/TV蜂.js"},
 {"key":"drpy_js_Alist","name":"🧡Alist[DRPY]🔎","type":3,"api":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/lib/alist.min.js","ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/alist.json"},
 {"key":"drpy_js_Alist网盘","name":"网盘|Alist[js]","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/alist.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/alist.json"},
