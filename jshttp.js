@@ -144,7 +144,7 @@
 {"key":"KUBO影视[飞]","name":"🇹🇼KUBO(繁體)","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/KUBO影视[飞].js"},
 {"key":"映迷影院","name":"🇹🇼映迷(繁體)","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/映迷影院.js"},
 {"key":"剧迷","name":"🇹🇼剧迷(繁體)","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/剧迷.js"},
-{"key":"楓林網","name":"🇹🇼楓林網(繁體)🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(改)/楓林網(改).js"},
+{"key":"楓林網","name":"🇹🇼楓林網(繁體)🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(改)/楓林網(改).js"}
 
 ],
 "lives": [
