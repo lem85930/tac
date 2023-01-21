@@ -140,6 +140,7 @@
 {"key":"妮可动漫","name":"🎭妮可动漫🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/妮可动漫.js"},
 {"key":"AGE动漫","name":"🎭AGE动漫🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/AGE动漫.js"},
 {"key":"动漫岛","name":"🎭动漫岛🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/动漫岛.js"},
+{"key":"gaze-","name":"🎭gaze🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/gaze.js"},
 {"key":"异世界动漫","name":"🎭异世界动漫🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/异世界动漫.js"},
 {"key":"KUBO影视[飞]","name":"🇹🇼KUBO(繁體)","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/KUBO影视[飞].js"},
 {"key":"映迷影院","name":"🇹🇼映迷(繁體)","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/映迷影院.js"},
