@@ -45,8 +45,8 @@
 {"key":"追剧喵","name":"💬追剧喵","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/追剧喵.js"},
 {"key":"喵喵","name":"💬喵喵🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(改)/喵喵(改).js"},
 {"key":"菜狗","name":"💬菜狗🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/菜狗.js"},
-{"key":"CK资源","name":"🛩CK资源🔎","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","categories":[],"searchable":1,"quickSearch":1,"filterable":1,cate_exclude:"伦理片|网址|SWAG視訊|成人|無碼S手遊"},
-{"key":"CK资源(VPN)","name":"🛩CK资源(VPN)","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/ck资源.js"},
+//{"key":"CK资源","name":"🛩CK资源🔎","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","categories":[],"searchable":1,"quickSearch":1,"filterable":1,cate_exclude:"伦理片|网址|SWAG視訊|成人|無碼S手遊"},
+//{"key":"CK资源(VPN)","name":"🛩CK资源(VPN)","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/ck资源.js"},
 {"key":"追剧啦","name":"🌎追剧啦(TK、CK)🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(改)/追剧啦(改).js"},
 {"key":"天天视频","name":"🌎天天视频(CK)🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(改)/天天视频(改).js"},
 {"key":"1080P","name":"🌎1080P","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/1080P.js"},
@@ -145,7 +145,6 @@
 {"key":"映迷影院","name":"🇹🇼映迷(繁體)","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/映迷影院.js"},
 {"key":"剧迷","name":"🇹🇼剧迷(繁體)","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/剧迷.js"},
 {"key":"楓林網","name":"🇹🇼楓林網(繁體)🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(改)/楓林網(改).js"}
-
 ],
 "lives": [
     {
