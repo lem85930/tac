@@ -42,6 +42,7 @@
 {"key":"金曼影视","name":"🛩金曼影视🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/金曼影视.js"},
 {"key":"飞兔影视","name":"🛩飞兔影视","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/飞兔影视.js"},
 {"key":"泥巴","name":"🛩泥巴🔎","type":3,"api": "csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"乐鱼影视","name":"💬乐鱼影视(全集)","type":3,"api":"clan://drpy/lib/drpy.min.js","ext":"clan://drpy/js/乐鱼影视.js"},
 {"key":"回响影视","name":"💬回响影视🔎評分","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/回响影视.js"},
 {"key":"多瑙影视","name":"💬多瑙影视♒","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(1)/多瑙影视(1).js"},
 {"key":"八蛋影视","name":"💬八蛋影视","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/八蛋影视.js"},
