@@ -18,7 +18,7 @@ filter:{
     
 	filter_def:{
 		
-		27:{cateId:'27'}
+		1:{cateId:'27'}
 	},
 					
 filter_url:'/{{fl.a}}{{fl.by}}{{fl.c}}/page/fypage{{fl.y}}.html'
