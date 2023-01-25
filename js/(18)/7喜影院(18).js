@@ -20,8 +20,9 @@ var rule = {
     },
 	filter_def:{
 		
-		1:{cateId:'1'}
+		1:{cateId:'23'}
 	},
+	cate_exclude:'电视剧|综艺|动漫|电影解说',
 	searchUrl:'/vodsearch/page/fypage/wd/**.html',
 	class_parse: 'body&&.hl-nav li:gt(1):lt(7);a&&Text;a&&href;.*/(.*?).html',
 }
