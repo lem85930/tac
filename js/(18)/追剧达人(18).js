@@ -13,7 +13,8 @@ var rule={
 		
 	},
 	class_parse: '.navbar-items li:gt(1):lt(8);a&&Text;a&&href;/(\\d+).html',
-	tab_exclude:'App专享',
+	//tab_exclude:'App专享',
+	cate_exclude:'电视剧|综艺|动漫|App专享',
 	// searchUrl:'/vod/search/page/fypage/wd/**.html',
 	searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
 	detailUrl:'/Moviedetail/fyid.html', //非必填,二级详情拼接链接
