@@ -30,8 +30,8 @@ host:'https://www.lovedan.net',
 	},
 
 searchUrl:'/vodsearch/**----------fypage---.html',
-class_name:'午夜場',
-class_url:'5',
+//class_name:'午夜場',
+//class_url:'5',
 cate_exclude: '电视剧|综艺|动漫|福利视频|福利图片|最新|排行|直播',
 
 });
