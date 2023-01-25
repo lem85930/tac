@@ -21,8 +21,12 @@ var rule={
 	
 
         },
+        filter_def:{
+		
+		dianying:{cateId:'dianying'}
+	},
     filter_url:'{{fl.clyss}}-{{fl.area}}-{{fl.year}}',
-    class_name:'电影',
+    class_name:'dianying',
     class_url:'dianying',
 
    推荐:'div.lists-content;li;h2&&Text;.thumb&&src;.note&&Text;a&&href',  

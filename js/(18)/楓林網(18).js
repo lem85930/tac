@@ -17,9 +17,11 @@ filter:{
     },
     
 	filter_def:{
-		1:{cateId:'1'},
+		
 		27:{cateId:'27'}
 	},
+	class_name:'午夜场',
+    class_url:'27',
 					
 filter_url:'/{{fl.a}}{{fl.by}}{{fl.c}}/page/fypage{{fl.y}}.html'
  
