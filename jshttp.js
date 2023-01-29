@@ -4,7 +4,7 @@
 "sites" : [
 {"key":"drpy","name":"豆瓣🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.sq.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/drpy.js"},
 {"key":"豆瓣","name":"豆瓣2🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.sq.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/豆瓣.js"},
-{"key":"drpy_js_豆瓣","name":"豆瓣🏛[DRPY]🔎","type":3,"api":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/lib/drpy2.min.sq.js","ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/drpy.js"},
+{"key":"drpy_js_豆瓣","name":"豆瓣🏛[DRPY]🔎","type":3,"api":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/lib/drpy2.min.js","ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/drpy.js"},
 {"key":"7喜影院","name":"👉🏆7喜影院🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.sq.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(改)/7喜影院(改).js"},
 {"key":"AB影院[飞]","name":"🛩🈵AB影院[飞]","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.sq.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/AB影院[飞].js"},
 {"key":"gaze","name":"💬gaze🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.sq.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/gaze.js"},
