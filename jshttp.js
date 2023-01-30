@@ -1,6 +1,6 @@
 //https://raw.githubusercontent.com/sqspot/tac/main/jshttp.js
 {
-"spider" : "https://raw.githubusercontent.com/sqspot/tac/main/FongMi_custom_spider.jar",
+//"spider" : "https://raw.githubusercontent.com/sqspot/tac/main/FongMi_custom_spider.jar",
 "sites" : [
 {"key":"drpy","name":"豆瓣🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.sq.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/drpy.js"},
 {"key":"豆瓣","name":"豆瓣2🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.sq.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/豆瓣.js"},
@@ -37,7 +37,7 @@
 {"key":"大中影视[飞]","name":"🛩大中影视[飞]","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.sq.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/大中影视[飞].js"},
 {"key":"金曼影视","name":"🛩金曼影视🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.sq.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/金曼影视.js"},
 {"key":"飞兔影视","name":"🛩飞兔影视","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.sq.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/飞兔影视.js"},
-{"key":"泥巴","name":"🛩泥巴🔎","type":3,"api": "csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"泥巴","name":"🛩泥巴🔎","type":3,"api": "csp_NiNi","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/sqspot/tac/main/FongMi_custom_spider.jar"},
 {"key":"乐鱼影视","name":"💬乐鱼影视(全集)","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.sq.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/乐鱼影视.js"},
 {"key":"回响影视","name":"🈵回响影视🔎評分","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.sq.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/回响影视.js"},
 {"key":"多瑙影视","name":"🈵多瑙影视🔎","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.sq.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/(改)/多瑙影视(改).js"},
