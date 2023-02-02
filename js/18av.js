@@ -1,7 +1,7 @@
 var rule = {
     title:'18av',
-    host:'https://maa1812.com',
-    url:'/zh/fyclass/all/fypage.html',
+    host:'https://zh.stripchat.com',
+    url:'/girls/fyclass/all/fypage.html',
     headers:{
         'User-Agent':'MOBILE_UA'
     },
@@ -17,3 +17,4 @@ var rule = {
 	
 }
 
+// https://zh.stripchat.com/girls/chinese
