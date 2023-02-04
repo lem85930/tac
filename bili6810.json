@@ -17,8 +17,9 @@
 //"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jar",
 
 
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
+"wallpaper":"http://maoyingshi.cc/api.php",
 
-"wallpaper":"https://raw.githubusercontent.com/sqspot/tac/main/黑色.jpeg",
 //"wallpaper":"https://www.dmoe.cc/random.php",  //默认动漫少女
 //"wallpaper":"https://api.vvhan.com/api/acgimg",  //动漫少女
 //"wallpaper":"https://picsum.photos/1280/720/?blur=10",  //普通
@@ -26,6 +27,9 @@
 
 "sites":[
 
+{"key":"我的哔哩","name":"我的哔哩🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我的哔哩.js"},
+{"key":"哔哩影视","name":"哔哩影视🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔哩影视.js"},
+{"key":"哔哩直播","name":"🛤哔哩直播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔哩直播.js"},
 {"key": "Bili","name": "🅱️哔哩套餐〔SP〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/sqspot/tac/main/MeowXB/哔哩.json"},
 {"key": "学堂","name": "🏯学堂教育〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/sqspot/tac/main/MeowXB/学堂.json"},
 {"key": "演唱会","name": "🍟演唱会〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/sqspot/tac/main/MeowXB/演唱会.json"},
