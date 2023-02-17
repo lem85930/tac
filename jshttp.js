@@ -1,11 +1,12 @@
 //./jshttp.js
 {
-"spider":"./fm.jar",
+"spider":"./top98_1.jar",
 "sites" : [
 {"key":"drpy","name":"豆瓣🍭🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"豆瓣","name":"豆瓣2🍭🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"drpy_js_豆瓣","name":"豆瓣🏛[DRPY]🔎","type":3,"api":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/lib/drpy2.min.js","ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/drpy.js"},
 {"key":"gaze","name":"💬gaze🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/gaze.js"},
+{"key":"泥巴","name":"🛩泥巴🔎","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"欧乐影院","name":"🛩歐樂影院🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(改)/欧乐影院(改).js"},
 {"key":"独播库","name":"🛩独播库🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/独播库.js"},
 {"key":"欧帝影院","name":"🛩欧帝影院🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/欧帝影院.js"},
@@ -46,7 +47,6 @@
 {"key":"大中影视","name":"🛩大中影视🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大中影视.js"},
 {"key":"金曼影视","name":"🛩金曼影视🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/金曼影视.js"},
 {"key":"飞兔影视","name":"🛩飞兔影视🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/飞兔影视.js"},
-{"key":"泥巴","name":"🛩泥巴🔎","type":3,"api": "csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小宝影视","name":"🈵☁小宝影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/小宝影视.js"},
 {"key":"回响影视","name":"🈵回响影视🔎評分","type":3,"api":"./lib/drpy2.min.js","ext":"./js/回响影视.js"},
 {"key":"多瑙影视","name":"🈵多瑙影视🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(改)/多瑙影视(改).js"},
@@ -116,7 +116,7 @@
 {"key":"海盗听书","name":"🎵海盗听书","type":3,"api":"./lib/drpy2.min.js","ext":"./js/海盗听书.js"},
 {"key":"爱车MV","name":"🎵爱车MV","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱车MV.js"},
 {"key":"酷奇MV","name":"🎵酷奇MV","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷奇MV.js"},
-{"key":"bili","name":"🎵音乐演唱","type":3,"api":"csp_Bili","ext":"./js/音乐演唱.json"},
+{"key":"音乐演唱","name":"🎵音乐演唱","type":3,"api":"csp_Bili","ext":"./js/音乐演唱.json","jar":"./fm.jar"},
 {"key":"奇米动漫","name":"🎭奇米动漫🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇米动漫.js"},
 {"key":"怡萱动漫","name":"🎭怡萱动漫🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/怡萱动漫.js"},
 {"key":"妮可动漫","name":"🎭妮可动漫🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/妮可动漫.js"},
