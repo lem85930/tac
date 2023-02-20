@@ -124,10 +124,12 @@
 {"key":"动漫岛","name":"🎭动漫岛🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/动漫岛.js"},
 {"key":"gaze-","name":"🎭gaze🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/gaze.js"},
 {"key":"异世界动漫","name":"🎭异世界动漫🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/异世界动漫.js"},
+{"key":"NT动漫","name":"🎭NT动漫🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/NT动漫.js"},
 {"key":"KUBO影视","name":"🇹🇼KUBO(繁體)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/KUBO影视.js"},
 {"key":"映迷影院","name":"🇹🇼映迷(繁體)🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/映迷影院.js"},
 {"key":"剧迷","name":"🇹🇼剧迷(繁體)🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/剧迷.js"},
-{"key":"楓林網","name":"🇹🇼楓林網(繁體)🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(改)/楓林網(改).js"}
+{"key":"楓林網","name":"🇹🇼楓林網(繁體)🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(改)/楓林網(改).js"},
+{"key":"filter_粤爱看","name":"🇭🇰粤爱看🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/粤爱看.js"}
 
 ],
 "lives": [

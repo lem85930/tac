@@ -125,21 +125,13 @@
 {"key":"AGE动漫","name":"🎭AGE动漫🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AGE动漫.js"},
 {"key":"动漫岛","name":"🎭动漫岛🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/动漫岛.js"},
 {"key":"gaze-","name":"🎭gaze🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/gaze.js"},
+{"key":"NT动漫","name":"🎭NT动漫🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/NT动漫.js"},
 {"key":"异世界动漫","name":"🎭异世界动漫🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/异世界动漫.js"},
 {"key":"KUBO影视","name":"🇹🇼KUBO(繁體)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/KUBO影视.js"},
 {"key":"映迷影院","name":"🇹🇼映迷(繁體)🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/映迷影院.js"},
 {"key":"剧迷","name":"🇹🇼剧迷(繁體)🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/剧迷.js"},
 {"key":"楓林網","name":"🇹🇼楓林網(繁體)♒","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(1)/楓林網(1).js"},
-{"key":"泥巴18","name":"🌈泥巴18","type":3,"api": "csp_NiNi","searchable":1,"filterable":1,"ext":"1","jar":"./fm.jar"},
-{"key":"18av","name":"🌈18av","type":3,"api":"./lib/drpy2.min.js","ext":"./js/18av.js"},
-{"key":"Missav","name":"🌈Missav","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Missav.js"},
-{"key":"banan","name":"🌈banan","type":3,"api":"./lib/drpy2.min.js","ext":"./js/banan.js"},
-{"key":"养端","name":"🌈养端","type":3,"api":"./lib/drpy2.min.js","ext":"./js/养端.js"},
-{"key":"吸瓜","name":"🌈吸瓜","type":3,"api":"./lib/drpy2.min.js","ext":"./js/吸瓜.js"},
-{"key":"朱古力","name":"🌈朱古力","type":3,"api":"./lib/drpy2.min.js","ext":"./js/朱古力.js"},
-{"key":"玩偶姐姐","name":"🌈玩偶姐姐","type":3,"api":"./lib/drpy2.min.js","ext":"./js/玩偶姐姐.js"},
-{"key":"猫了个咪","name":"🌈猫了个咪","type":3,"api":"./lib/drpy2.min.js","ext":"./js/猫了个咪.js"},
-{"key":"HD","name":"🌈HD","type":3,"api":"./lib/drpy2.min.js","ext":"./js/HD.js"}
+{"key":"filter_粤爱看","name":"🇭🇰粤爱看🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/粤爱看.js"}
 ],
 "lives": [
     {
