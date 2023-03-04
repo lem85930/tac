@@ -14,6 +14,7 @@
 {"key":"大米星球","name":"🌎大米星球(量)🍭♒","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(1)/大米星球(1).js"},
 {"key":"豆芽影院","name":"🌎豆芽影院🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆芽影院.js"},
 {"key":"量子影视","name":"🛩量子影视♒","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(1)/量子影视(1).js"},
+{"key":"看片狂人","name":"☁看片狂人","type":3,"api":"./lib/drpy2.min.js","ext":"./js/看片狂人.js"},
 {"key":"泥巴","name":"🛩泥巴🔎","type":3,"api":"csp_Nbys","searchable":1,"filterable":1},
 {"key":"if101","name":"🛩if101","type":3,"api":"./lib/drpy2.min.js","ext":"./js/if101.js"},
 {"key":"海兔影院","name":"🛩海兔影院🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/海兔影院.js"},
