@@ -102,6 +102,7 @@
 {"key":"斗鱼直播","name":"🛤斗鱼直播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/斗鱼直播.js"},
 {"key":"虎牙直播","name":"🛤虎牙直播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/虎牙直播.js"},
 {"key":"哔哩直播","name":"🛤哔哩直播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔哩直播.js"},
+{"key":"哔哩影视","name":"🛤哔哩影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔哩影视.js"},
 {"key":"JRKAN直播","name":"🛤JRKAN直播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/JRKAN直播.js"},
 {"key":"310直播","name":"🛤310直播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/310直播.js"},
 //{"key":"drpy_js_Alist","name":"🧡Alist[DRPY]🔎","type":3,"api":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/lib/alist.min.js","ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/alist.json"},
