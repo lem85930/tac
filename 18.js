@@ -14,6 +14,7 @@
 "sites":[
 {"key":"7喜影院18","name":"七夕🔞","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(18)/7喜影院(18).js"},
 {"key":"欧乐影院[飞]18","name":"嘔了🔞","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(18)/欧乐影院[飞](18).js"},
+{"key":"飞兔影视(18)","name":"飞吐🔞","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(18)/飞兔影视(18).js"},
 {"key":"CK资源18","name":"CK🔞","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","categories":[],"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧啦18","name":"錐矩🔞","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(18)/追剧啦(18).js"},
 {"key":"天天视频18","name":"甜甜圈🔞","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(18)/天天视频(18).js"},

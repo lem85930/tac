@@ -6,7 +6,7 @@
 {"key":"豆瓣","name":"豆瓣2🍭🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"drpy_js_豆瓣","name":"豆瓣🏛[DRPY]🔎","type":3,"api":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/lib/drpy2.min.js","ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/drpy.js"},
 {"key":"泥巴","name":"🛩泥巴🔎","type":3,"api":"csp_Nbys","searchable":1,"filterable":1},
-{"key":"飞兔影视","name":"🛩飞兔影视🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/飞兔影视.js"},
+{"key":"飞兔影视","name":"🛩飞兔影视🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(改)/飞兔影视(改).js"},
 {"key":"7喜影院","name":"🛩7喜影院🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(改)/7喜影院(改).js"},
 {"key":"欧乐影院","name":"🛩歐樂影院🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(改)/欧乐影院(改).js"},
 {"key":"独播库","name":"🛩独播库🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/独播库.js"},
