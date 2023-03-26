@@ -75,7 +75,7 @@
 {"key":"l0l","name":"🌎l0l","type":3,"api":"./lib/drpy2.min.js","ext":"./js/l0l.js"},
 {"key":"69美剧","name":"🌎69美剧🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/69美剧.js"},
 {"key":"艾旦影视","name":"🌎艾旦影视♒","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(1)/艾旦影视(1).js"},
-{"key":"UM电影","name":"☁UM电影♒","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(1)/UM电影(1).js"},
+{"key":"UM电影","name":"☁UM电影🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
 {"key":"HG影院[V2]","name":"🌎HG影院[V2](ff)♒","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(1)/HG影院[V2](1).js"},
 {"key":"纽约影院","name":"🌎纽约影院♒","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(1)/纽约影院(1).js"},
 {"key":"朴樱影视","name":"朴樱影视♒","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(1)/朴樱影视(1).js"},
