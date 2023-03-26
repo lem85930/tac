@@ -2,13 +2,13 @@
 {
 "spider":"./top98_1.jar",
 "sites" : [
+{"key":"起飞影院","name":"🌎起飞影院💬","type":3,"api":"./lib/drpy2.min.js","ext":"./js/起飞影院.js"},
 {"key":"drpy","name":"豆瓣🍭🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"豆瓣","name":"豆瓣2🍭🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"drpy_js_豆瓣","name":"豆瓣🏛[DRPY]🔎","type":3,"api":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/lib/drpy2.min.js","ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/drpy.js"},
 {"key":"7喜影院","name":"🛩7喜影院♒","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(1)/7喜影院(1).js"},
 {"key":"多瑙影视","name":"🈵多瑙影视♒","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(1)/多瑙影视(1).js"},
 {"key":"539影院","name":"🌎539影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/539影院.js"},
-{"key":"起飞影院","name":"🌎起飞影院💬","type":3,"api":"./lib/drpy2.min.js","ext":"./js/起飞影院.js"},
 {"key":"萌蛋蛋[V2]","name":"🌎萌蛋蛋[V2](ff)🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/萌蛋蛋[V2].js"},
 {"key":"看片狂人","name":"☁看片狂人","type":3,"api":"./lib/drpy2.min.js","ext":"./js/看片狂人.js"},
 {"key":"大米星球","name":"🌎大米星球(量)🍭♒","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(1)/大米星球(1).js"},
