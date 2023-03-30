@@ -26,7 +26,7 @@
 {"key":"欧乐影院","name":"🛩歐樂影院🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(改)/欧乐影院(改).js"},
 {"key":"独播库","name":"🛩独播库🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/独播库.js"},
 {"key":"欧帝影院","name":"🛩欧帝影院🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/欧帝影院.js"},
-{"key":"百度资源网","name":"🌟百度资源","type":0,"api":"https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/at/xml/","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"百度资源网","name":"🌟百度资源","type":0,"api":"https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小宝影视","name":"🈵☁小宝影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/小宝影视.js"},
 {"key":"回响影视","name":"🈵回响影视🔎評分","type":3,"api":"./lib/drpy2.min.js","ext":"./js/回响影视.js"},
 {"key":"真不卡","name":"🈵☁真不卡🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/真不卡.js"},
