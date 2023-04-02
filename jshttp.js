@@ -16,6 +16,7 @@
 {"key":"快播资源網","name":"🌟快播资源kb","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"樱花资源網","name":"🌟樱花资源yh","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"卧龙资源網","name":"🌟卧龙资源wolong","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"乐活影视","name":"🌟乐活影视wj","type":0,"api":"https://www.lehootv.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"起飞影院網","name":"🌎起飞影院💬","type":3,"api":"./lib/drpy2.min.js","ext":"./js/起飞影院.js"},
 {"key":"鱼乐资源網","name":"🌕鱼乐资源le","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"U酷资源網","name":"🌕U酷资源uk","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
