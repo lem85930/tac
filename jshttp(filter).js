@@ -29,7 +29,14 @@
 {"key":"闪电资源","name":"😰闪电资源sd","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"酷点资源网","name":"😰酷点资源网kd","type":0,"api":" https://kudian10.com/api.php/provide/vod/from/kdm3u8/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"无尽资源网","name":"😰无尽资源wj","type":0,"api":"https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"森林資源","name":"❓森林資源","type":0,"api":"http://api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"森林資源","name":"❓森林資源","type":1,"api":"http://api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"天空资源网","name":"❓天空资源网","type":0,"api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"天堂官方资源","name":"❓天堂官方资源","type":0,"api":"http://vipmv.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"奥斯卡资源","name":"❓奥斯卡资源","type":0,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"奥斯卡资源2","name":"❓奥斯卡资源2","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"阳光资源","name":"❓阳光资源","type":0,"api":"https://xxzy.org/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"天猫资源","name":"❓天猫资源","type":0,"api":"https://www.tianmaozy.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"粤爱看","name":"🇭🇰粤爱看🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/粤爱看.js"}
 ],
 "lives": [
