@@ -441,7 +441,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/owen10086/tvbox/main/cr/23999.json",
+            "ext": "https://raw.githubusercontent.com/owen10086/tvbox/main/cr/23999.json",
             "jar": "https://agit.ai/138001380000/MHQTV/raw/commit/f664c563ef2777b4e6806535e6f092c654cc7e73/jar/bw0904.jar"
         },
         {
@@ -1101,7 +1101,7 @@
             "searchable": 1,
             "filterable": 1
         },
-    {"key":"push_agent","name":"PushAgent","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/ts1129.jar"}
+    {"key":"push_agent","name":"PushAgent","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/ts1129.jar"}
   ],
 
   "lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/1108zh.txt"]}]}],
