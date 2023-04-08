@@ -30,10 +30,10 @@
 {"key":"酷点资源网","name":"😰酷点资源网kd","type":0,"api":" https://kudian10.com/api.php/provide/vod/from/kdm3u8/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"无尽资源网","name":"😰无尽资源wj","type":0,"api":"https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_360影视","name":"官源🏛360","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
-{"key":"drpy_js_奇珍异兽","name":"官源🏛爱奇艺🍭🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js","url":"https://jx.zhanlangbu.com/?url="},
-{"key":"drpy_js_优酷","name":"官源🏛优酷🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js","url":"https://jx.zhanlangbu.com/?url="},
+{"key":"drpy_js_奇珍异兽","name":"官源🏛爱奇艺🍭🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
+{"key":"drpy_js_优酷","name":"官源🏛优酷🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
 {"key":"drpy_js_腾云驾雾","name":"官源🏛腾讯🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
-{"key":"drpy_js_百忙无果","name":"官源🏛芒果🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/百忙无果.js","url":"http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="},
+{"key":"drpy_js_百忙无果","name":"官源🏛芒果🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/百忙无果.js"},
 {"key":"drpy_js_菜狗","name":"官源🏛搜狗🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/菜狗.js"},
 
 {"key":"粤爱看","name":"🇭🇰粤爱看🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/粤爱看.js"}
