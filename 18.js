@@ -16,6 +16,7 @@
 {"key":"csp_banan","name":"🏆banan🔎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/banan.json"},
 {"key":"天","name":"🏆天堂 歐美倫理","type":0,"api":"http://bttcj.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
 {"key":"*老鸭福利","name":"🏆老鸭 動漫海外","type":0,"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml"},
+{"key":"523资源网","name":"🏆523 伦理综艺","type":0,"api":"https://523zyw.me/inc/api.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_麻豆女优","name":"🏆麻豆女优","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/麻豆女优.json"},
 {"key":"csp_黄瓜TV","name":"🏆黄瓜TV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/黄瓜TV.json"},
 {"key":"csp_麻豆映画","name":"🏆麻豆映画🔎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/麻豆映画.json"},
