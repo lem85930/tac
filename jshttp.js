@@ -24,7 +24,7 @@
 {"key":"金鷹资源网","name":"🌕金鷹资源jyz","type":0,"api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"红牛资源","name":"🌕红牛资源hn","type":0,"api":"https://www.hongniuzy2.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"if101","name":"🌟if101","type":3,"api":"./lib/drpy2.min.js","ext":"./js/if101.js"},
-{"key":"CK资源采集网","name":"🏆CK资源采集网","type":0,"api":"https://ckzy.me/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"CK资源采集网","name":"🏆CK资源采集网","type":1,"api":"https://ckzy.me/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"CK资源(VPN)","name":"🛩CK资源(VPN)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ck资源.js"},
 {"key":"539影院","name":"🌎539影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/539影院.js"},
 {"key":"gaze","name":"💬gaze🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/gaze.js"},
