@@ -3,8 +3,8 @@
 //"spider":"./top98_1.jar",
 "sites" : [
 {"key":"drpy","name":"豆瓣🍭🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
-{"key":"MGT","name":"🥭芒果(官)","type":3,"api":"csp_Mtv","searchable":0,"quickSearch":0,"filterable":0,"jar":"./xm.jar"},
-{"key":"SPIQY","name":"🥝愛奇藝(SP)","type":3,"api":"csp_Itv","searchable":0,"quickSearch":0,"filterable":0,"jar":"./xm.jar"},
+{"key":"MGT","name":"🥭芒果(官)","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xm.jar"},
+{"key":"SPIQY","name":"🥝愛奇藝(SP)","type":3,"api":"csp_Itv","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xm.jar"},
 {"key":"SPQQ","name":"🐧腾讯(官)","type":3,"api":"csp_Qtv","searchable":0,"quickSearch":0,"filterable":0,"jar":"./xm.jar"},
 //{"key":"豆瓣","name":"豆瓣2🍭🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"drpy_js_豆瓣","name":"豆瓣🏛[DRPY]🔎","type":3,"api":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/lib/drpy2.min.js","ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/drpy.js"},
