@@ -107,7 +107,7 @@ var rule = {
         "User-Agent":"PC_UA",
         "Referer": "https://www.bilibili.com",
         // "Cookie":"$bili_cookie"
-        "Cookie":"_uuid=ADB9C8ED-BBFB-2F7B-23C4-45345FD5827C3B1B0A4C98A5%40AdobeOrg=359503849%7CMCIDTS%7C1878GAP=1; buvid3=1504F20A-F784-4E1D-AC50-411849E81A7_QUALITY=80; sid=6ii6ltfu; buvid_fp=1504F20A-F7841647777951%2C27d9b*91; bili_jct=8ea0445873888802qf28423d23bcec19644faf96ec4a42887; PVID=1; innersi"
+        "Cookie":"/https://github.com/FongMi/CatVodSpider/raw/main/txt/cookie.txt"
     },
     timeout:5000,
     limit:8,
