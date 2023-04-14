@@ -12,8 +12,9 @@
 {"name":"10086","type":0,"url":"https://agit.ai/VivoMax/Fu/raw/branch/master/Flzb/drzb.txt"}
 ],
 "sites":[
+{"key":"csp_banan","name":"🏆banan🔎解說","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/banan.json"},
+{"key":"奥斯卡资源","name":"🌟奥斯卡资源🐷解說","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_香蕉AV解说","name":"💤香蕉AV解说","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/香蕉AV解说.json"},
-{"key":"csp_banan","name":"🏆banan🔎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/banan.json"},
 {"key":"天","name":"🏆天堂 歐美倫理","type":0,"api":"http://bttcj.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
 {"key":"*老鸭福利","name":"🏆老鸭 動漫海外","type":0,"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml"},
 {"key":"523资源网","name":"🏆523 伦理综艺","type":0,"api":"https://523zyw.me/inc/api.php","searchable":1,"quickSearch":1,"filterable":1},
@@ -35,7 +36,6 @@
 {"key":"91md.me","name":"🏆成人19","type":1,"api":"http://91md.me/api.php/provide/vod/","searchable":1,"filterable":1},
 {"key":"csp_性欲轮回[分类]","name":"🌟性欲轮回[分类]推特","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/性欲轮回[分类].json"},
 {"key":"csp_性欲轮回","name":"🌟性欲轮回🔎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/性欲轮回.json"},
-{"key":"奥斯卡资源","name":"🌟奥斯卡资源2","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"环亚资源站","name":"🌟环亚 全無碼","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
 {"key":"*SS资源","name":"🌟SS 亞洲薄碼","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist"},
 {"key":"*乐播","name":"🌟乐播 中文 獸","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml"},
