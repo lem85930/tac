@@ -1,6 +1,13 @@
 //./jshttp(改).js
 {
 //"spider":"./top98_1.jar",
+"spider":"./Yoursmile2.jar",
+
+"m3u8ads":[
+{"name":"过","hosts":["https://vip.ffzy","https://vip.lz","https://hd.lz"],
+"rules":[
+{"regexp":"ts\\r*\\n*#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY","replace":"ts"}]}],
+
 "sites" : [
 {"key":"drpy","name":"豆瓣🍭🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"MGT","name":"🥭芒果(官)","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xm.jar"},
@@ -14,11 +21,12 @@
 {"key":"欧乐影院","name":"🛩歐樂影院🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(改)/欧乐影院(改).js"},
 {"key":"独播库","name":"🛩独播库🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/独播库.js"},
 {"key":"欧帝影院","name":"🛩欧帝影院🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/欧帝影院.js"},
+{"key":"海外看资源网","name":"🏆海外看haiwaikan","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"優質资源网","name":"🏆優質资源1080","type":0,"api":"https://api.1080zyku.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"量子资源網","name":"🏆量子资源lz","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]},
 {"key":"淘片资源网","name":"🏆淘片资源tp","type":0,"api":"https://taopianapi.com/home/cjapi/as/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"非凡资源网","name":"🏆非凡资源ff","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"天空资源网","name":"🏆天空资源网tk","type":0,"api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"優質资源网","name":"🏆優質资源1080","type":0,"api":"https://api.1080zyku.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快车资源網","name":"🌟快车资源kc","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"飛速资源网","name":"🌟飛速资源fe","type":0,"api":"https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快播资源網","name":"🌟快播资源kb","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
@@ -29,7 +37,6 @@
 {"key":"if101","name":"🌟if101","type":3,"api":"./lib/drpy2.min.js","ext":"./js/if101.js"},
 {"key":"CK资源采集网","name":"🏆CK资源采集网","type":1,"api":"https://ckzy.me/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"CK资源(VPN)","name":"🛩CK资源(VPN)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ck资源.js"},
-{"key":"海外看资源网","name":"🏆海外看haiwaikan","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"gaze","name":"💬gaze🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/gaze.js"},
 {"key":"乐鱼影视","name":"💬乐鱼影视(全集)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/乐鱼影视.js"},
 {"key":"八蛋影视","name":"💬八蛋影视🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/八蛋影视.js"},
@@ -140,7 +147,7 @@
     {
       "name": "直播源",
       "type": 0,
-      "url": "./直播源(1).txt",
+      "url": "./直播源(改).txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },    
