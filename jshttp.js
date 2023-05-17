@@ -1,12 +1,9 @@
 //./jshttp(改).js
 {
 //"spider":"./top98_1.jar",
-"spider":"./Yoursmile2.jar",
+//"spider":"./Yoursmile2.jar",
 
-"m3u8ads":[
-{"name":"过","hosts":["https://vip.ffzy","https://vip.lz","https://hd.lz"],
-"rules":[
-{"regexp":"ts\\r*\\n*#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY","replace":"ts"}]}],
+//"m3u8ads":[{"name":"过","hosts":["https://vip.ffzy","https://vip.lz","https://hd.lz"],"rules":[{"regexp":"ts\\r*\\n*#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY","replace":"ts"}]}],
 
 "sites" : [
 {"key":"drpy","name":"豆瓣🍭🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
@@ -147,7 +144,7 @@
     {
       "name": "直播源",
       "type": 0,
-      "url": "./直播源(改).txt",
+      "url": "./直播源(1).txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },    
@@ -192,6 +189,9 @@
 {"host":"*", "rule":["huoshan.com", "/item/video/"]}, 
 {"host":"*", "rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]}, 
 {"host":"*", "rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]},
+{"host":"https://vip.ffzy", "rule":[{"regexp":"ts\\r*\\n*#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY","replace":"ts"}]},
+{"host":"https://vip.lz", "rule":[{"regexp":"ts\\r*\\n*#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY","replace":"ts"}]},
+{"host":"https://hd.lz", "rule":[{"regexp":"ts\\r*\\n*#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY","replace":"ts"}]},
 {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".m3u8"]}, 
 {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mp4"]}, 
 {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mkv"]}, 
