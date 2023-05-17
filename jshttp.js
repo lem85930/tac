@@ -234,9 +234,9 @@
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
 "wallpaper":"./黑色.jpeg",
     "ads": [
-        "https://vip.ffzy"
-        "https://vip.lz"
-        "https://hd.lz"
+        "https://vip.ffzy",
+        "https://vip.lz",
+        "https://hd.lz",
         "vip.ffzyad.com",
         "iqiyi.hbuioo.com",
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
