@@ -189,12 +189,12 @@
 {"host":"*", "rule":["huoshan.com", "/item/video/"]}, 
 {"host":"*", "rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]}, 
 {"host":"*", "rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]},
-{"host":"https://vip.ffzy", "rule":[{"regexp":"ts\\r*\\n*#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY","replace":"ts"}]},
-{"host":"https://vip.lz", "rule":[{"regexp":"ts\\r*\\n*#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY","replace":"ts"}]},
-{"host":"https://hd.lz", "rule":[{"regexp":"ts\\r*\\n*#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY","replace":"ts"}]},
-//{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".m3u8"]}, 
-//{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mp4"]}, 
-//{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mkv"]}, 
+//{"host":"https://vip.ffzy", "rule":[{"regexp":"ts\\r*\\n*#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY","replace":"ts"}]},
+//{"host":"https://vip.lz", "rule":[{"regexp":"ts\\r*\\n*#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY","replace":"ts"}]},
+//{"host":"https://hd.lz", "rule":[{"regexp":"ts\\r*\\n*#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY","replace":"ts"}]},
+{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".m3u8"]}, 
+{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mp4"]}, 
+{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mkv"]}, 
 {"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]},
 {"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]},
 {"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time="]},
@@ -241,6 +241,9 @@
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
 "wallpaper":"./黑色.jpeg",
     "ads": [
+        "https://vip.ffzy"
+        "https://vip.lz"
+        "https://hd.lz"
         "vip.ffzyad.com",
         "iqiyi.hbuioo.com",
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
