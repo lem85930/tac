@@ -20,7 +20,7 @@
 
 
 "sites":[
-
+{"key":"MV_vod","name":"MTV","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod"},
 {"key":"我的哔哩","name":"我的哔哩🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我的哔哩.js"},
 {"key":"哔哩影视","name":"哔哩影视🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔哩影视.js"},
 {"key":"哔哩直播","name":"🛤哔哩直播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔哩直播.js"},
