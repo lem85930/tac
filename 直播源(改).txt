@@ -248,6 +248,7 @@ Star Movies Gold,P2p://135.148.104.228:19806/eb4484443220443988dee0facb910084
 Taiwan+,P2p://135.148.104.228:19806/5b6ee93571324f81959ee26532b3e6d9
 东森购物2,P2p://135.148.104.228:19806/36b73761bad9455c88c53c842ae4e404
 东森购物1,P2p://135.148.104.228:19806/74869fed4efd4b0684ec1e0a6dd9f3ee
+
 😇GG频道,#genre#
 TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 TVBS亚洲台,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
