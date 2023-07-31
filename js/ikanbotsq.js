@@ -66,7 +66,7 @@ else if('sdm3u8'==key){arr.push({flag:'😰闪电',url:map[key],sort:22})}
 else if('wjm3u8'==key){arr.push({flag:'😰速影',url:map[key],sort:23})}
 else if('wjm3u8'==key){arr.push({flag:'😰无尽',url:map[key],sort:24})}
 else if('ptyunm'==key){arr.push({flag:'😰阳光',url:map[key],sort:25})}
-else{arr.push({flag:key,url:map[key],sort:5})}
+else{arr.push({flag:key,url:map[key],sort:26})}
 
   }
     arr.sort((a, b) => a.sort - b.sort);
