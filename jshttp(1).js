@@ -19,7 +19,7 @@
 {"key":"欧乐影院","name":"🛩歐樂影院♒","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(1)/欧乐影院(1).js"},
 {"key":"独播库","name":"🛩独播库🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/独播库.js","playerType":"1"},
 {"key":"欧帝影院","name":"🛩欧帝影院🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/欧帝影院.js"},
-{"key":"ikanbot","name":"🏆爱看机器人","type":3,"api":"./js/lf_ikanbot3_1_min.js"},
+{"key":"ikanbot","name":"量子,優質,非凡,淘片,海外看,快看,暴风,ikun,飞速,快车,八戒,飛速,快播,卧龙,新浪,樱花","type":3,"api":"./js/lf_ikanbot3_1_min.js"},
 {"key":"ikanbotsq","name":"😰爱看机器人🆘","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbotsq.js"},
 {"key":"ikanbotmix","name":"爱看机器人mix","type":3,"api":"./js/lf_ikanbot3_1_minsq.js","ext":"./js/ikanbotsq.js"},
 {"key":"優質资源网","name":"🏆優質资源1080","type":0,"api":"https://api.1080zyku.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":1},
