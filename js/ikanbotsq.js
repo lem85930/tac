@@ -59,7 +59,7 @@ else if("wolong"==key){arr.push({flag:"🌟卧龙",url:map[key],sort:15})}
 else if("xlm3u8"==key){arr.push({flag:"🌟新浪",url:map[key],sort:16})}
 else if("yhm3u8"==key){arr.push({flag:"🌟樱花",url:map[key],sort:17})}
 else if("tkm3u8"==key){arr.push({flag:"🌕天空",url:map[key],sort:18})}
-else if("zuidarn3u8"==key){arr.push({flag:"🌕最大",url:map[key],sort:19})}
+else if("zuidam3u8"==key){arr.push({flag:"🌕最大",url:map[key],sort:19})}
 else if("jsm3u8"==key){arr.push({flag:"🌕极数",url:map[key],sort:20})}
 else if("ukm3u8"==key){arr.push({flag:"🌕U酷",url:map[key],sort:21})}
 else if("dbm3u8"==key){arr.push({flag:"🌕百度",url:map[key],sort:22})}
