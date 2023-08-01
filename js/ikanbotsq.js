@@ -52,7 +52,7 @@ else if('kbm3u8'==key){arr.push({flag:'🌟快播',url:map[key],sort:8})}
 else if('wolong'==key){arr.push({flag:'🌟卧龙',url:map[key],sort:9})}
 else if('xlm3u8'==key){arr.push({flag:'🌟新浪',url:map[key],sort:10})}
 else if('yhm3u8'==key){arr.push({flag:'🌟樱花',url:map[key],sort:11})}
-else if('bfzym3u8'==key){arr.push({flag:'快看',url:map[key],sort:12})}
+else if('kuaikan'==key){arr.push({flag:'快看',url:map[key],sort:12})}
 else if('bfzym3u8'==key){arr.push({flag:'暴风',url:map[key],sort:13})}
 else if('ukm3u8'==key){arr.push({flag:'🌕U酷',url:map[key],sort:14})}
 else if('dbm3u8'==key){arr.push({flag:'🌕百度',url:map[key],sort:15})}

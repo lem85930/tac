@@ -19,7 +19,7 @@
 {"key":"欧乐影院","name":"🛩歐樂影院♒","type":3,"api":"./lib/drpy2.min.js","ext":"./js/(1)/欧乐影院(1).js"},
 {"key":"独播库","name":"🛩独播库🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/独播库.js","playerType":"1"},
 {"key":"欧帝影院","name":"🛩欧帝影院🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/欧帝影院.js"},
-{"key":"ikanbotsq","name":"爱看机器人","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbotsq.js"},
+{"key":"ikanbotsq","name":"爱看机器人","type":3,"api":"./js/lf_ikanbot2_4_min.js","ext":"./js/ikanbotsq.js"},
 {"key":"優質资源网","name":"🏆優質资源1080","type":0,"api":"https://api.1080zyku.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"淘片资源网","name":"🏆淘片资源tp","type":0,"api":"https://taopianapi.com/home/cjapi/as/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"非凡资源网","name":"🏆非凡资源ff","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
