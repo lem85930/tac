@@ -3,7 +3,7 @@
 //"spider":"./top98_1.jar",
 "sites" : [
 {"key":"ikanbot","name":"🏆爱看机器人","type":3,"api":"./js/lf_ikanbot3_1_min.js"},
-{"key":"ikanbotsq","name":"😰爱看机器人🆘","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbotsq.js"},{"key":"量子资源網","name":"🏆量子资源lz","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]},
+{"key":"ikanbotsq","name":"😰爱看机器人🆘","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbotsq.js"},
 {"key":"drpy","name":"豆瓣🍭🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"drpy2","name":"豆瓣2🍭🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"drpy__豆瓣","name":"豆瓣🏛[DRPY]🔎","type":3,"api":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
