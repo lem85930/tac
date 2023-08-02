@@ -2,8 +2,8 @@
 {
 //"spider":"./top98_1.jar",
 "sites" : [
-{"key":"ikanbot","name":"量子,優質,非凡,淘片,快看,暴风,ikun,飞速,快车,飛速,快播,卧龙","type":3,"api":"./js/lf_ikanbot3_1_min.js"},
-{"key":"ikanbotsq","name":"😰爱看机器人🆘","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbotsq.js"},
+{"key":"ikanbot","name":"量,优,非,淘,快,暴,ik,飞,卧","type":3,"api":"./js/lf_ikanbot3_1_min.js"},
+{"key":"ikanbotsq","name":"⛔爱看机器人sq","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbotsq.js"},
 {"key":"drpy","name":"豆瓣🍭🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"drpy2","name":"豆瓣2🍭🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"drpy__豆瓣","name":"豆瓣🏛[DRPY]🔎","type":3,"api":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
