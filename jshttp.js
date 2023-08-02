@@ -2,7 +2,7 @@
 {
 //"spider":"./top98_1.jar",
 "sites" : [
-{"key":"ikanbot","name":"量,优,非,淘,快,暴,ik,飞,卧","type":3,"api":"./js/lf_ikanbot3_1_min.js"},
+{"key":"ikanbot","name":"量,优,非,淘,快,暴,ik,飞,卧💡","type":3,"api":"./js/lf_ikanbot3_1_min.js"},
 {"key":"ikanbotsq","name":"⛔爱看机器人sq","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbotsq.js"},
 {"key":"drpy","name":"豆瓣🍭🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"drpy2","name":"豆瓣2🍭🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
