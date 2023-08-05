@@ -1,4 +1,4 @@
-var 二级=js:
+var 二级=`js:
 try {
     VOD={};
  let html1 = request(input);
@@ -51,7 +51,7 @@ VOD.vod_name = pdfh(html1, "h2&&Text");
 } catch (e) {
  log("获取二级详情页发生错误:" + e.message)
 }
-;
+`;
 
 var rule = {
     title:'爱看机器人',
@@ -73,7 +73,7 @@ var rule = {
   movie:{tag:'热门'},
   tv:{tag:'国产剧'},
  },
-    filter获取方法:
+    filter获取方法:`
     let value = [];
     $('ul').eq(2).find('li').each(function() {
       // console.log($(this).text());
@@ -89,7 +89,7 @@ var rule = {
     //剧集执行:
     let data = {'tv': [{'key': 'tag', 'name': '标签', 'value': value}]};
     console.log(JSON.stringify(data));
-    ,
+    `,
     headers:{'User-Agent':'PC_UA',},
     class_name:'电影&剧集',
     class_url:'movie&tv',
