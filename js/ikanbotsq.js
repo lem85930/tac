@@ -42,7 +42,13 @@ VOD.vod_name = pdfh(html1, "h2&&Text");
     });
     
 for(var key in map){
- if('lzm3u8'==key){ arr.push({ flag: '🌟量子', url: map[key], sort:1})}
+        if('lzm3u8'==key){
+            arr.push({
+        flag: '量子',
+        url: map[key],
+            sort:1
+      })}
+ 
 else if("1080zyk"==key){arr.push({flag:"🌟優質",url:map[key],sort:2})}
 else if("ffm3u8"==key){arr.push({flag:"🌟非凡",url:map[key],sort:3})}
 else if("tpm3u8"==key){arr.push({flag:"🌟淘片",url:map[key],sort:4})}
