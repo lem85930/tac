@@ -161,7 +161,7 @@
 {"name":"海外看廣告","hosts":["haiwaikan.com","cdn.efhie","cdn2.ceres9350","cdn.ceres9350","cdn2.efhie"],"regex":[
 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:0,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:2.93,[\\s\\S]*?#EXT-X-DISCONTINUITY"
 ]},
 {"name":"量子廣告","hosts":["vip.lz","hd.lz"],"regex":[
 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
