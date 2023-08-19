@@ -117,6 +117,8 @@
 "rules":[
 {"name":"星星","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 {"name":"海外看廣告","hosts":["haiwaikan.com","cdn.efhie","cdn2.ceres9350","cdn.ceres9350","cdn2.efhie"],"regex":[
+"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175833,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175832,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:0,[\\s\\S]*?#EXT-X-DISCONTINUITY"
