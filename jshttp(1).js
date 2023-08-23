@@ -20,7 +20,6 @@
 {"key":"欧乐影院","name":"🛩歐樂影院♒","type":3,"api":"drpy2.min.js","ext":"./js/(1)/欧乐影院(1).js"},
 {"key":"独播库","name":"🛩独播库🔎","type":3,"api":"drpy2.min.js","ext":"./js/独播库[飞].js","playerType":"1"},
 {"key":"欧帝影院","name":"🛩欧帝影院🔎","type":3,"api":"drpy2.min.js","ext":"./js/欧帝影院.js"},
-{"key":"ikanbot","name":"量,优,海,快,暴,ik,飞,八,卧,新,樱💡","type":3,"api":"./js/lf_ikanbot3_1_min.js"},
 {"key":"爱看机器人","name":"爱看机器人1","type":3,"api":"drpy2.min.js","ext":"./js/爱看机器人.js"},
 {"key":"ikanbot2","name":"爱看机器人2","type":3,"api":"drpy2.min.js","ext":"./js/ikanbot2.js"},
 {"key":"優質资源网","name":"🏆優質资源1080","type":0,"api":"https://api.1080zyku.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":1},
