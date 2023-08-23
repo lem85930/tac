@@ -1,29 +1,33 @@
 var 二级=`js:
 try {
     VOD={};
- let html1 = request(input);
- pdfh = jsp.pdfh;
- //VOD.vod_id = pdfh(html1, "#current_id&&value");
- VOD.vod_id = input;
-VOD.vod_name = pdfh(html1, "h2&&Text");
- // VOD.vod_pic = pdfh(html1, ".item-root&&img&&src");
- VOD.vod_pic = pdfh(html1, ".item-root&&img&&data-src");
- // VOD.vod_actor = pdfh(html1, ".celebrity&&Text");
- VOD.vod_actor = pdfh(html1, ".meta:eq(4)&&Text");
- // VOD.vod_area = pdfh(html1, ".country&&Text");
- VOD.vod_area = pdfh(html1, ".meta:eq(3)&&Text");
- // VOD.vod_year = pdfh(html1, ".year&&Text");
- VOD.vod_year = pdfh(html1, ".meta:eq(2)&&Text");
- VOD.vod_remarks = "";
- VOD.vod_director = "";
- VOD.vod_content = "";
- log(VOD);
- input = "https://www.ikanbot.com/api/getResN?videoId=" + input.split("/").pop() + "&mtype=2";
- let html = request(input);
- print(html);
- html = JSON.parse(html);
- let episodes = html.data.list;
- let playMap = {};
+    let html1 = request(input);
+    pdfh = jsp.pdfh;
+    VOD.vod_id = pdfh(html1, "#current_id&&value");
+    VOD.vod_name = pdfh(html1, "h2&&Text");
+  	// VOD.vod_pic = pdfh(html1, ".item-root&&img&&src");
+  	VOD.vod_pic = pdfh(html1, ".item-root&&img&&data-src");
+  	// VOD.vod_actor = pdfh(html1, ".celebrity&&Text");
+  	VOD.vod_actor = pdfh(html1, ".meta:eq(4)&&Text");
+  	// VOD.vod_area = pdfh(html1, ".country&&Text");
+  	VOD.vod_area = pdfh(html1, ".meta:eq(3)&&Text");
+  	// VOD.vod_year = pdfh(html1, ".year&&Text");
+  	VOD.vod_year = pdfh(html1, ".meta:eq(2)&&Text");
+    VOD.vod_remarks = "";
+    VOD.vod_director = "";
+    VOD.vod_content = "";
+    log(VOD);
+    input = "https://www.ikanbot.com/api/getResN?videoId=" + input.split("/").pop() + "&mtype=2";
+	let html = request(input, {
+        headers: {
+			'User-Agent':'PC_UA',
+            'Referer': input,
+        }
+    });
+    print(html);
+    html = JSON.parse(html);
+    let episodes = html.data.list;
+    let playMap = {};
     if (typeof play_url === "undefined") {
         var play_url = ""
     }
