@@ -3,6 +3,7 @@
 //"spider":"./top98_1.jar",
 "sites" : [
 {"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"drpy2.min.js","ext":"./js/ikanbotsq.js"},
+{"key": "星星","name": "🏆星星","type": 3,"api": "csp_Star","searchable": 1,"jar":"./FongMi_custom_spider.jar"},
 {"key":"drpy","name":"豆瓣🍭🔎","type":3,"api":"drpy2.min.js","ext":"./js/豆瓣.js"},
 //{"key":"豆瓣","name":"豆瓣2🍭🔎","type":3,"api":"drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"drpy2","name":"豆瓣2🍭🔎","type":3,"api":"drpy2.min.js","ext":"./js/drpy.js"},
