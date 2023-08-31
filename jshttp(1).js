@@ -3,6 +3,7 @@
 //"spider":"./top98_1.jar",
 "sites" : [
 {"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"drpy2.min.js","ext":"./js/ikanbotsq.js"},
+{"key": "星星","name": "星星","type": 3,"api": "csp_Star","searchable": 1,"jar":"./FongMi_custom_spider.jar;md5;0cd8dd32e89511058fd8e6bceb586a28"},
 {"key":"drpy","name":"豆瓣🍭🔎","type":3,"api":"drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"drpy_js_360影视","name":"官源🏛360","type":3,"api":"drpy2.min.js","ext":"./js/360影视.js"},
 {"key":"农民","name":"💬評分 農民","type":3,"api":"drpy2.min.js","ext":"./js/农民影视.js"},
@@ -70,7 +71,7 @@
 {"key":"百度资源网","name":"🌕百度资源db","type":0,"api":"https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"FOX资源","name":"😰FOX资源fox","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"光速资源","name":"😰光速资源gs","type":0,"api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"速影","name":"😰速影動漫wj","type":1,"api":"https://速影128.xyz/inc/apijson.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"速影","name":"??速影動漫wj","type":1,"api":"https://速影128.xyz/inc/apijson.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"闪电资源","name":"😰闪电资源sd","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"酷点资源网","name":"😰酷点资源网kd","type":0,"api":" https://kudian10.com/api.php/provide/vod/from/kdm3u8/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"无尽资源网","name":"😰无尽资源wj","type":0,"api":"https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
