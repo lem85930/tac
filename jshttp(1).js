@@ -2,7 +2,7 @@
 {
 //"spider":"./top98_1.jar",
 "sites" : [
-{"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"drpy2.min.js","ext":"./js/ikanbotsq.js"},
+{"key":"ikanbotsq","name":"🈵kua 1080 tp lz bfzy ik fs kc bj ff fe kb💡","type":3,"api":"drpy2.min.js","ext":"./js/ikanbotsq.js"},
 {"key": "星星","name": "🏆星星","type": 3,"api": "csp_Star","searchable": 1,"jar":"./FongMi_custom_spider.jar"},
 {"key":"drpy","name":"豆瓣🍭🔎","type":3,"api":"drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"drpy_js_360影视","name":"官源🏛360","type":3,"api":"drpy2.min.js","ext":"./js/360影视.js"},
@@ -33,6 +33,8 @@
 {"key":"量子资源網","name":"🏆量子资源lz","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]},
 {"key":"ikun资源网","name":"🏆ikun资源","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"八戒资源网","name":"🏆八戒资源网","type":0,"api":"http://cj.bajiecaiji.com/inc/bjm3u8.php?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"八戒资源网2","name":"🏆八戒资源网2","type":0,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"八戒资源网3","name":"🏆八戒资源网3","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/","playUrl":"json:https://json.hfyrw.com/mao.go?url=","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"飛速资源网","name":"🌟飛速资源fe","type":0,"api":"https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快播资源網","name":"🌟快播资源kb","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"樱花资源網","name":"🌟樱花资源yh","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
