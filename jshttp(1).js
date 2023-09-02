@@ -23,6 +23,7 @@
 {"key":"欧帝影院","name":"🛩欧帝影院🔎","type":3,"api":"drpy2.min.js","ext":"./js/欧帝影院.js"},
 {"key":"爱看机器人","name":"爱看机器人1","type":3,"api":"drpy2.min.js","ext":"./js/爱看机器人.js"},
 {"key":"ikanbot2","name":"爱看机器人2","type":3,"api":"drpy2.min.js","ext":"./js/ikanbot2.js"},
+{"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"drpy2.min.js","ext":"./js/ikanbot3.js"},
 {"key":"優質资源网","name":"🏆優質资源1080","type":0,"api":"https://api.1080zyku.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"淘片资源网","name":"🏆淘片资源tp","type":0,"api":"https://taopianapi.com/home/cjapi/as/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"非凡资源网","name":"🏆非凡资源ff","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
