@@ -2,7 +2,7 @@
 {
 //"spider":"./top98_1.jar",
 "sites" : [
-{"key":"ikanbotsq","name":"🈵kua 1080 tp lz bfzy ik fs kc bj ff fe kb💡","type":3,"api":"drpy2.min.js","ext":"./js/ikanbotsq.js"},
+{"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"drpy2.min.js","ext":"./js/ikanbotsq.js"},
 {"key": "星星","name": "🏆星星","type": 3,"api": "csp_Star","searchable": 1,"jar":"./FongMi_custom_spider.jar"},
 {"key":"drpy","name":"豆瓣🍭🔎","type":3,"api":"drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"drpy_js_360影视","name":"官源🏛360","type":3,"api":"drpy2.min.js","ext":"./js/360影视.js"},
