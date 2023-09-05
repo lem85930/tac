@@ -31,6 +31,7 @@
 {"key":"八戒资源网","name":"🏆八戒资源网=","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"厂长资源","name":"🎯厂长资源","type":3,"api":"drpy2.min.js","ext":"./js/厂长资源.js"},
 {"key":"电影先生","name":"🎯电影先生","type":3,"api":"drpy2.min.js","ext":"./js/电影先生.js"},
+{"key":"南瓜影院","name":"🎯南瓜影院","type":3,"api":"drpy2.min.js","ext":"./js/南瓜影院.js"},
 {"key":"起飞影院網","name":"💬評分 起飞影院","type":3,"api":"drpy2.min.js","ext":"./js/起飞影院.js"},
 {"key":"539影院","name":"💬539影院","type":3,"api":"drpy2.min.js","ext":"./js/539影院.js"},
 {"key":"91free","name":"💬 集數 91free","type":3,"api":"drpy2.min.js","ext":"./js/91free.js"},
