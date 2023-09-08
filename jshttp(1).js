@@ -21,6 +21,9 @@
 {"key":"ikun资源网","name":"🏆ikun资源","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"飛速资源网","name":"🌟飛速资源fe","type":0,"api":"https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快播资源網","name":"🌟快播资源kb","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"厂长资源","name":"🎯厂长资源","type":3,"api":"drpy2.min.js","ext":"./js/厂长资源.js"},
+{"key":"电影先生","name":"🎯电影先生","type":3,"api":"drpy2.min.js","ext":"./js/电影先生.js"},
+{"key":"南瓜影视","name":"🎯南瓜影视","type":3,"api":"drpy2.min.js","ext":"./js/南瓜影视.js"},
 {"key":"樱花资源網","name":"🌟樱花资源yh","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"68资源网","name":"🌟68资源68","type":0,"api":"https://caiji.68zyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"if101","name":"🌟if101","type":3,"api":"drpy2.min.js","ext":"./js/if101.js"},
@@ -29,9 +32,6 @@
 {"key":"快看资源网","name":"🏆快看资源","type":0,"api":"https://kuaikan-api.com/api.php/provide/vod/at/xmlsea","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"泥巴","name":"🏆泥巴🔎","type":3,"api":"csp_Nbys","searchable":1,"filterable":1,"jar":"./top98_1.jar"},
 {"key":"八戒资源网","name":"🏆八戒资源网=","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"厂长资源","name":"🎯厂长资源","type":3,"api":"drpy2.min.js","ext":"./js/厂长资源.js"},
-{"key":"电影先生","name":"🎯电影先生","type":3,"api":"drpy2.min.js","ext":"./js/电影先生.js"},
-{"key":"南瓜影视","name":"🎯南瓜影视","type":3,"api":"drpy2.min.js","ext":"./js/南瓜影视.js"},
 {"key":"起飞影院網","name":"💬評分 起飞影院","type":3,"api":"drpy2.min.js","ext":"./js/起飞影院.js"},
 {"key":"539影院","name":"💬539影院","type":3,"api":"drpy2.min.js","ext":"./js/539影院.js"},
 {"key":"91free","name":"💬 集數 91free","type":3,"api":"drpy2.min.js","ext":"./js/91free.js"},
@@ -165,13 +165,7 @@
 "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
 "rules":[
 {"name":"星星","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-{"name":"海外看廣告","hosts":["haiwaikan.com","cdn.efhie","cdn2.ceres9350","cdn.ceres9350","cdn2.efhie"],"regex":[
-"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175833,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175832,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:2.93,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-]},
+{"name":"海外看","hosts":["haiwaikan"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175832,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175833,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.716667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"量子廣告","hosts":["vip.lz","hd.lz"],"regex":[
 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
 ]},
