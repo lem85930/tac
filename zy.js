@@ -93,7 +93,7 @@
 //	{"key":"影图资源","name":"影图资源","api":"https:cj.vodimg.top/api.php/provide/vod","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 //	{"key":"鱼乐资源","name":"鱼乐资源","api":"https:api.ylzy1.com/api.php/provide/vod","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 //	{"key":"醉璃笙TV","name":"醉璃笙TV","api":"http:web.xhdj.vip/api.php/provide/vod","type":1,"searchable":1,"quickSearch":1,"filterable":1},
-//	{"key": "MBO 影视0", "name": "MBO 影视","api": "https://www.mbomovie.com/api.php/provide/vod/","type": 0,"jiexiUrl": "","group": "影视","isActive": true,"status": "true"}
+	{"key": "MBO 影视0", "name": "MBO 影视","api": "https://www.mbomovie.com/api.php/provide/vod/","type": 0,"jiexiUrl": "","group": "影视","isActive": true,"status": "true"}
     ],
  
   "iptv": [
