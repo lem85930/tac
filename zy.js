@@ -18,7 +18,7 @@
 {"key":"卧龙资源","name":"卧龙资源","api":"https://collect.wolongzyw.com/api.php/provide/vod","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"新浪资源","name":"新浪资源xl","api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"易看资源","name":"易看资源♒yikan","api":"https://api.yikanapi.com/api.php/provide/vod","type":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"雨哥影视","name":"雨哥影视","api":"http://cj.baozi66.top:66/api.php/provide/vod","type":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"雨哥影视","name":"雨哥影视","api":"http://cj.baozi66.top:66/api.php/provide/vod","type":1,"searchable":1,"quickSearch":1,"filterable":1}
 //{"key":"U酷资源","name":"U酷资源uk","api":"https://api.ukuapi.com/api.php/provide/vod","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"vipmv","name":"天堂资源","api":"http://vipmv.cc/api.php/provide/vod","type":1,"jiexiUrl":"https://titan.mgtv.com.o8tv.com/jiexi/?url="},
 //{"key":"金鹰资源","name":"金鹰资源","api":"http://jinyingzy.com/provide/vod","type":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -93,7 +93,7 @@
 //	{"key":"影图资源","name":"影图资源","api":"https:cj.vodimg.top/api.php/provide/vod","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 //	{"key":"鱼乐资源","name":"鱼乐资源","api":"https:api.ylzy1.com/api.php/provide/vod","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 //	{"key":"醉璃笙TV","name":"醉璃笙TV","api":"http:web.xhdj.vip/api.php/provide/vod","type":1,"searchable":1,"quickSearch":1,"filterable":1},
-	{"key": "MBO 影视0", "name": "MBO 影视","api": "https://www.mbomovie.com/api.php/provide/vod/","type": 0,"jiexiUrl": "","group": "影视","isActive": true,"status": "true"}
+	//{"key": "MBO 影视0", "name": "MBO 影视","api": "https://www.mbomovie.com/api.php/provide/vod/","type": 0,"jiexiUrl": "","group": "影视","isActive": true,"status": "true"}
     ],
  
   "iptv": [
