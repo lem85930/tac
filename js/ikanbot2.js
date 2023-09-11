@@ -63,7 +63,7 @@ VOD.vod_name = pdfh(html1, "h2&&Text");
 `;
 
 var rule = {
-    title:'爱看机器人2',
+    title:'爱看机器人',
     host:'https://www.ikanbot.com',
     url:'/hot/index-fyclass-fyfilter-p-fypage.html[/hot/index-fyclass-fyfilter.html]',
     //https://www.ikanbot.com/search?q=%E6%96%97%E7%BD%97%E5%A4%A7&p=2
