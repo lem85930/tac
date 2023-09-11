@@ -21,9 +21,9 @@
 
 "sites":[
 {"key":"MV_vod","name":"MTV","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","playerType":"1"},
-{"key":"我的哔哩","name":"我的哔哩🔎","type":3,"api":"drpy2.min.js","ext":"./js/我的哔哩.js"},
-{"key":"哔哩影视","name":"哔哩影视🔎","type":3,"api":"drpy2.min.js","ext":"./js/哔哩影视.js"},
-{"key":"哔哩直播","name":"🛤哔哩直播","type":3,"api":"drpy2.min.js","ext":"./js/哔哩直播.js"},
+{"key":"我的哔哩","name":"我的哔哩🔎","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/我的哔哩.js"},
+{"key":"哔哩影视","name":"哔哩影视🔎","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/哔哩影视.js"},
+{"key":"哔哩直播","name":"🛤哔哩直播","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/哔哩直播.js"},
 {"key": "Bili","name": "🅱️哔哩套餐〔SP〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/sqspot/tac/main/MeowXB/哔哩.json"},
 {"key": "学堂","name": "🏯学堂教育〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/sqspot/tac/main/MeowXB/学堂.json"},
 {"key": "演唱会","name": "🍟演唱会〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/sqspot/tac/main/MeowXB/演唱会.json"},
