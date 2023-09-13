@@ -18,13 +18,14 @@ try {
     VOD.vod_content = "";
     log(VOD);
     var v_tks = '';
-	let script = pdfa(html1,'script').find(it=>it.includes('v_tks+=')).replace(/<script>|<\\/script>/g,'');
-    eval(script);
+	// let script = pdfa(html1,'script').find(it=>it.includes('v_tks+=')).replace(/<script>|<\\/script>/g,'');
+    // eval(script);
 	input = "https://www.ikanbot.com/api/getResN?videoId=" + input.split("/").pop() + "&mtype=2"+"&token="+v_tks;
     // input = "https://www.ikanbot.com/api/getResN?videoId=" + input.split("/").pop() + "&mtype=2";
 	let html = request(input, {
         headers: {
-			'User-Agent':'PC_UA',
+			// 'User-Agent':'PC_UA',
+            'User-Agent':'MOBILE_UA',
             'Referer': input,
         }
     });
@@ -104,7 +105,7 @@ else{arr.push({flag:key,url:map[key],sort:34})}
 `;
 
 var rule = {
-    title:'爱看机器人sq',
+    title:'爱看机器人2',
     host:'https://www.ikanbot.com',
     url:'/hot/index-fyclass-fyfilter-p-fypage.html[/hot/index-fyclass-fyfilter.html]',
     //https://www.ikanbot.com/search?q=%E6%96%97%E7%BD%97%E5%A4%A7&p=2
