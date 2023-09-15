@@ -39,7 +39,6 @@
 {"key":"快看资源网","name":"🏆快看资源(简体)","type":0,"api":"https://kuaikan-api.com/api.php/provide/vod/at/xmlsea","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"泥巴","name":"🏆泥巴🔎(简体)","type":3,"api":"csp_Nbys","searchable":1,"filterable":1,"jar":"./top98_1.jar"},
 {"key":"八戒资源网","name":"🏆八戒资源网(简体)","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"易看资源","name":"🌕易看资源♒yikan","api":"https://api.yikanapi.com/api.php/provide/vod","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"卧龙资源網","name":"🌕卧龙资源wolong","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"新浪资源","name":"🌕新浪资源xl","type":0,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"鱼乐资源網","name":"🌕鱼乐资源le","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
