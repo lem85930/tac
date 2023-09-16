@@ -20,8 +20,8 @@
 
 
 "sites":[
-{"key":"我的哔哩sq","name":"🛤我的哔哩sq","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/我的哔哩sq.js"}
-}
+{"key":"我的哔哩sq","name":"我的哔哩sq","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/我的哔哩sq.js"}
+
 
 //{"key":"说明","name":"------公众号【云星日记】------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"说明2","name":"------提供免费更新维护------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
