@@ -20,21 +20,8 @@
 
 
 "sites":[
-{"key":"MV_vod","name":"MTV","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","playerType":"1"},
-{"key":"我的哔哩","name":"我的哔哩🔎","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/我的哔哩.js"},
-{"key":"哔哩影视","name":"哔哩影视🔎","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/哔哩影视.js"},
-{"key":"哔哩直播","name":"🛤哔哩直播","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/哔哩直播.js"},
-{"key": "Bili","name": "🅱️哔哩套餐〔SP〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/sqspot/tac/main/MeowXB/哔哩.json"},
-{"key": "学堂","name": "🏯学堂教育〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/sqspot/tac/main/MeowXB/学堂.json"},
-{"key": "演唱会","name": "🍟演唱会〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/sqspot/tac/main/MeowXB/演唱会.json"},
-{"key": "戏曲","name": "📽戏曲〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/sqspot/tac/main/MeowXB/戏曲.json"},
-{"key": "美食","name": " 🍲美食〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/sqspot/tac/main/MeowXB/美食.json"},
-{"key": "少儿","name": "🅰️少儿〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/sqspot/tac/main/MeowXB/少儿教育.json"},
-{"key": "体育","name": "💋体育〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/sqspot/tac/main/MeowXB/体育.json"},
-{"key": "球类","name": "⚽️球类〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/sqspot/tac/main/MeowXB/球类.json"},
-{"key": "棋牌","name": " 🅿️棋牌娱乐〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/sqspot/tac/main/MeowXB/棋牌.json"},
-{"key": "MV","name": "💽歌曲MV〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/sqspot/tac/main/MeowXB/歌曲MV.json"},
-{"key": "软件","name": "📚软件教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/sqspot/tac/main/MeowXB/软件教程.json"}
+{"key":"我的哔哩sq","name":"🛤我的哔哩sq","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/我的哔哩sq.js"},
+}
 
 //{"key":"说明","name":"------公众号【云星日记】------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"说明2","name":"------提供免费更新维护------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
