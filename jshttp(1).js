@@ -36,7 +36,7 @@
 {"key":"厂长资源","name":"🎯厂长资源(简体)","type":3,"api":"drpy2.min.js","ext":"./js/厂长资源.js"},
 {"key":"电影先生","name":"🎯电影先生(简体)","type":3,"api":"drpy2.min.js","ext":"./js/电影先生.js"},
 {"key":"南瓜影视","name":"🎯南瓜影视(简体)","type":3,"api":"drpy2.min.js","ext":"./js/南瓜影视.js"},
-{"key":"樱花资源網","name":"🌟樱花资源yh(简体)","type":0,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"樱花资源網","name":"🌟樱花资源yh(简体)","type":0,"api":"https://m3u8.apiyhzy.com/api.php/seacms/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"68资源网","name":"🌟68资源68(简体)","type":0,"api":"https://caiji.68zyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"if101","name":"🌟if101(简体)","type":3,"api":"drpy2.min.js","ext":"./js/if101.js"},
 {"key":"CK资源采集网","name":"🏆CK资源采集网(简体)","type":1,"api":"https://ckzy.me/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
