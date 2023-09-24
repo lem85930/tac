@@ -4,7 +4,7 @@
 "sites" : [
 {"key":"drpy","name":"豆瓣🍭🔎(简体)","type":3,"api":"drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq(简体)","type":3,"api":"drpy2.min.js","ext":"./js/ikanbotsq.js"},
-{"key": "星星","name": "🏆星星(简体)","type": 3,"api": "csp_Star","searchable": 1,"jar":"./FongMi_custom_spider.jar"},
+{"key": "星星","name": "🏆星星(简体)","type": 3,"api": "csp_Star","searchable": 1,"jar":"./FongMi_custom_spider.jar;md5;798e7a90aeed6a5cecb1f5b923f3dd9e"},
 {"key":"欧乐影院","name":"🛩歐樂影院♒(简体)","type":3,"api":"drpy2.min.js","ext":"./js/(改)/欧乐影院(改).js"},
 {"key":"独播库","name":"🛩独播库🔎(简体)","type":3,"api":"drpy2.min.js","ext":"./js/独播库[飞].js","playerType":"1"},
 {"key":"欧帝影院","name":"🛩欧帝影院🔎(简体)","type":3,"api":"drpy2.min.js","ext":"./js/欧帝影院.js"},
