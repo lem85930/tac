@@ -1,5 +1,6 @@
 {
-"spider":"./新视觉.jar",
+//"spider":"./新视觉.jar",
+"spider":"./FongMi_custom_spider.jar",
 "lives":[
 {
 "name":"18源",
