@@ -29,5 +29,8 @@ var rule = {
 	},
     searchUrl:'/search-**-----------fypage--/',
     class_parse: '.nav-menu-items&&li:gt(0):lt(5);a&&Text;a&&href;.*/(.*?)/',
-    lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);log(html);var url=html.url;if(html.encrypt=='1'){url=unescape(url).split('&')[0]}else if(html.encrypt=='2'){url=unescape(base64Decode(url).split('&')[0])}if(/m3u8|mp4/.test(url)){input=url}else{input}",
+   tab_order:['kuaikan','1080zyk','tpm3u8','lzm3u8','bfzym3u8','ikm3u8','fsm3u8','kcm3u8','bjm3u8','ffm3u8','fem3u8','kbm3u8','wolong','xlm3u8','yhm3u8','tkm3u8','zuidam3u8','jsm3u8','ukm3u8','dbm3u8','hnm3u8','jyzm3u8','lem3u8','foxm3u8','gsm3u8','kdm3u8','sdm3u8','wjm3u8','ptyunm','jinyingm3u8','68zy_m3u8'],
+//线路顺序,按里面的顺序优先，没写的依次排后面
+	tab_rename:{'kk节点':'🌟快看','1080节点':'🌟優質','tp节点':'🌟淘片','lz节点':'🌟量子','bf节点':'🌟暴风','ik节点':'🌟ikun','fs节点':'🌟飞速','kc节点':'🌟快车','bj节点':'🌟八戒','ff节点':'🌟非凡','fe节点':'🌟飛速','kb节点':'🌟快播','wl节点':'🌟卧龙','xl节点':'🌟新浪','yh节点':'🌟樱花','tk节点':'🌕天空','zd节点':'🌕最大','js节点':'🌕极数','uk节点':'🌕U酷','db节点':'🌕百度','hn节点':'🌕红牛','jyz节点':'🌕金鷹','le节点':'🌕鱼乐','fox节点':'😰FOX','gs节点':'😰光速','kd节点':'😰酷点','sd节点':'😰闪电','wj节点':'😰无尽'}, 
+lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);log(html);var url=html.url;if(html.encrypt=='1'){url=unescape(url).split('&')[0]}else if(html.encrypt=='2'){url=unescape(base64Decode(url).split('&')[0])}if(/m3u8|mp4/.test(url)){input=url}else{input}",
 }
