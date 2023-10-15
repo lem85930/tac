@@ -2,7 +2,6 @@
 {
 //"spider":"./top98_1.jar",
 "sites" : [
-{"key":"映迷影院","name":"🇹🇼映迷(繁體)🔎","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/映迷影院.js"},
 {"key":"drpy","name":"豆瓣🍭🔎(简体)","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/豆瓣.js"},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq(简体)","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/ikanbotsq.js"},
 {"key": "星星","name": "🏆星星(简体)","type": 3,"api": "csp_Star","searchable": 1,"jar":"./FongMi_custom_spider.jar"},
@@ -130,6 +129,7 @@
 {"key":"哔哩影视","name":"🛤哔哩影视","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/哔哩影视.js"},
 {"key":"我的哔哩","name":"🛤我的哔哩","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/我的哔哩.js"},
 {"key":"KUBO影视","name":"🇹🇼KUBO(繁體)","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/KUBO影视.js"},
+{"key":"映迷影院","name":"🇹🇼映迷(繁體)🔎","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/映迷影院.js"},
 {"key":"剧迷","name":"🇹🇼剧迷(繁體)🔎","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/剧迷.js"},
 {"key":"楓林網","name":"🇹🇼楓林網(繁體)♒","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/(1)/楓林網(1).js"},
 {"key":"粤爱看","name":"🇭🇰粤爱看🔎","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/粤爱看.js"}

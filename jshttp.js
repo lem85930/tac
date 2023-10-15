@@ -2,7 +2,6 @@
 {
 //"spider":"./top98_1.jar",
 "sites" : [
-{"key":"映迷影院","name":"🇹🇼映迷(繁體)🔎","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/映迷影院.js"},
 {"key":"drpy","name":"豆瓣🍭🔎(简体)","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/豆瓣.js"},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq(简体)","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/ikanbotsq.js"},
 {"key": "星星","name": "🏆星星(简体)","type": 3,"api": "csp_Star","searchable": 1,"jar":"./FongMi_custom_spider.jar"},
