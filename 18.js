@@ -14,7 +14,7 @@
 "sites":[
 {"key":"泥巴18","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"ext":"1","jar":"./FongMi_custom_spider.jar"},
 {"key":"18AV","name":"🏆18AV2 無碼","type":3,"api":"csp_Eighteen","searchable":1,"filterable":1,"jar":"./custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"},
-{"key":"Jable","name":"🏆Jable 角色劇情","type":3,"api":"csp_Jable","searchable":1,"filterable":1,"jar":"./custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"},
+{"key":"Jable","name":"🏆Jable 角色劇情","type":3,"api":"csp_Jable","searchable":1,"filterable":1,"viewType": 1,"jar":"./custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"},
 {"key":"*老鸭福利","name":"🏆老鸭 無碼動漫海外","type":0,"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml"},
 {"key":"PigAV","name":"🏆PigAV 無碼" ,"type":3,"api":"csp_Pig","searchable":1,"filterable":1,"jar":"./custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"},
 {"key":"MissAV","name":"🏆MissAV1 無碼","type":3,"api":"csp_Miss","searchable":1,"filterable":1,"jar":"./custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"},
