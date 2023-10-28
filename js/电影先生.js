@@ -1,16 +1,19 @@
-/*
-电影先生 地址发布页
-http://dyxs.vip
-http://dyxs.me
-*/
+/**
+ * 电影先生 地址发布页
+ * http://dyxs.me
+ * http://dyxs.de
+ * https://dianying.in
+ */
 muban.mxone5.二级.title = 'h1&&Text;.video-info-aux&&Text';
 muban.mxone5.二级.desc = '.video-info-items:eq(3)&&Text;;;.video-info-actor:eq(2)&&Text;.video-info-actor:eq(0)&&Text';
+muban.mxone5.二级.tab_text = 'span&&Text';
 muban.mxone5.二级.content = '.video-info-content&&Text';
 var rule = {
     title:'电影先生',
     模板:'mxone5',
-    host:'http://dyxs.vip',
-    hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"p:eq(5)&&a&&href");print(src);HOST=src',
+    // host:'http://DianYingim.com',
+    host:'http://dyxs.me',
+    hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"p:eq(10)&&a&&href").replace("https","http");print(src);HOST=src',
     // url:'/pianku-fyclass--------fypage---/',
     url:'/pianku-fyclassfyfilter/',
     filterable:1,//是否启用分类筛选,
@@ -29,8 +32,33 @@ var rule = {
 	},
     searchUrl:'/search-**-----------fypage--/',
     class_parse: '.nav-menu-items&&li:gt(0):lt(5);a&&Text;a&&href;.*/(.*?)/',
-   tab_order:['kuaikan','1080zyk','tpm3u8','lzm3u8','bfzym3u8','ikm3u8','fsm3u8','kcm3u8','bjm3u8','ffm3u8','fem3u8','kbm3u8','wolong','xlm3u8','yhm3u8','tkm3u8','zuidam3u8','jsm3u8','ukm3u8','dbm3u8','hnm3u8','jyzm3u8','lem3u8','foxm3u8','gsm3u8','kdm3u8','sdm3u8','wjm3u8','ptyunm','jinyingm3u8','68zy_m3u8'],
-//线路顺序,按里面的顺序优先，没写的依次排后面
-	tab_rename:{'KK节点':'🌟快看','1080节点':'🌟優質','TP节点':'🌟淘片','LZ节点':'🌟量子','BF节点':'🌟暴风','IK节点':'🌟ikun','FS节点':'🌟飞速','KC节点':'🌟快车','BJ节点':'🌟八戒','FF节点':'🌟非凡','FE节点':'🌟飛速','KB节点':'🌟快播','WL节点':'🌟卧龙','XL节点':'🌟新浪','YH节点':'🌟樱花','TK节点':'🌕天空','ZD节点':'🌕最大','JS节点':'🌕极数','BK节点':'🌕U酷','DB节点':'🌕百度','HN节点':'🌕红牛','JY节点':'🌕金鷹','LE节点':'🌕鱼乐','FOX节点':'😰FOX','GS节点':'😰光速','KD节点':'😰酷点','SD节点':'😰闪电','WJ节点':'😰无尽','KK节点完结':'🌟快看','1080节点完结':'🌟優質','TP节点完结':'🌟淘片','LZ节点完结':'🌟量子','BF节点完结':'🌟暴风','IK节点完结':'🌟ikun','FS节点完结':'🌟飞速','KC节点完结':'🌟快车','BJ节点完结':'🌟八戒','FF节点完结':'🌟非凡','FE节点完结':'🌟飛速','KB节点完结':'🌟快播','WL节点完结':'🌟卧龙','XL节点完结':'🌟新浪','YH节点完结':'🌟樱花','TK节点完结':'🌕天空','ZD节点完结':'🌕最大','JS节点完结':'🌕极数','BK节点完结':'🌕U酷','DB节点完结':'🌕百度','HN节点完结':'🌕红牛','JY节点完结':'🌕金鷹','LE节点完结':'🌕鱼乐','FOX节点完结':'😰FOX','GS节点完结':'😰光速','KD节点完结':'😰酷点','SD节点完结':'😰闪电','WJ节点完结':'😰无尽'}, 
-lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);log(html);var url=html.url;if(html.encrypt=='1'){url=unescape(url).split('&')[0]}else if(html.encrypt=='2'){url=unescape(base64Decode(url).split('&')[0])}if(/m3u8|mp4/.test(url)){input=url}else{input}",
+    lazy:`js:
+        var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+        log(html);
+        var url = html.url;
+        if (html.encrypt == '1') {
+            url = unescape(url).split('&')[0]
+        } else if (html.encrypt == '2') {
+            url = unescape(base64Decode(url).split('&')[0])
+        }
+        if (/m3u8|mp4/.test(url)) {
+            input = {jx:0, url:url, parse:0}
+        } else if (/youku|iqiyi|v\\.qq\\.com|pptv|sohu|le\\.com|1905\\.com|mgtv|bilibili|ixigua/.test(url)) {
+			let play_Url = /bilibili/.test(url) ? 'https://jx.xmflv.com/?url=' : 'https://jx.777jiexi.com/player/?url=';
+			input = {
+				jx: 0,
+				url: url,
+				playUrl: play_Url,
+				parse: 1,
+				header: JSON.stringify({
+					'user-agent': 'Mozilla/5.0',
+				}),
+			}
+        } else {
+            input
+        }
+    `,
+    // tab_remove:['WJ节点','ikm3u8','SD节点','M3U8','jinyingm3u8','fsm3u8','UK节点'],
+    tab_order:['BF节点','HD节点','KK节点','LZ节点','FF节点','haiwaikan','gsm3u8','zuidam3u8','BJ节点','snm3u8','wolong','xlm3u8','yhm3u8'],
+    tab_rename:{'BF节点':'暴风','HD节点':'优质','KK节点':'快看','LZ节点':'量子','FF节点':'非凡','haiwaikan':'海外看','gsm3u8':'光速','zuidam3u8':'最大','BJ节点':'八戒','snm3u8':'索尼','wolong':'卧龙','xlm3u8':'新浪','yhm3u8':'樱花','TK节点':'天空','jsm3u8':'极速','WJ节点':'无尽','SD节点':'闪电','kcm3u8':'快车','jinyingm3u8':'金鹰','fsm3u8':'飞速','tpm3u8':'淘片','lem3u8':'鱼乐','DB节点':'百度','tomm3u8':'番茄','UK节点':'U酷','ikm3u8':'爱坤','hnzym3u8':'红牛资源','HN节点':'红牛','68zy_m3u8':'68','kdm3u8':'酷点','bdxm3u8':'北斗星','TX节点':'qq','YK节点':'youku','QY节点':'qiyi','BL节点':'bilibili','MG节点':'mgtv','XG节点':'xigua','LG节点':'lg'},
 }
