@@ -1,5 +1,15 @@
 CCTV3,#genre#
-CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3746132328_-1754088424/ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8?icpid=3&RTS=1668594245&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 CCTV3,http://220.180.229.250:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://mqiptv.com:8014/ch/cctv3/mqlive.m3u8
+CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3746132328_-1754088424/ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8?icpid=3&RTS=1668594245&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
+CCTV3,http://154.12.80.233:34400/stream/c6d0ceaec4906c2852ccb793e752432a
+CCTV3,http://154.12.80.233:34400/stream/a0f31045943ecb8dc359ec7b1fb9759c
+CCTV3,http://hlsout-test.ysp.cctv.cn/ysp/2000203803.m3u8
+CCTV3,http://jh.d7g.cn/tv/migu.php?id=cctv3 
+CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+CCTV3,http://sss.iptv8.top/live/sxg.php?id=CCTV-3H265_4000
+CCTV3,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
+CCTV3,http://live-gitv-sx-yh.189smarthome.com/gitv_live/G_CCTV-3-CQ/G_CCTV-3-CQ.m3u8
+CCTV3,http://live-gitv-sx-yh.189smarthome.com/gitv_live/G_CCTV-3-HD-265-8M/G_CCTV-3-HD-265-8M.m3u8
+CCTV3,http://live-gitv-sx-yh.189smarthome.com/gitv_live/G_CCTV-3-MD/G_CCTV-3-MD.m3u8
