@@ -1,39 +1,19 @@
-/**
- * 已知问题：
-    * [推荐]页面：'雷电模拟器'播放部份影片会出错，'播放器'改成'ijk' & '解码方式'改成'软解'，即可正常播放
- * 影视TV 超連結跳轉支持
- * 影视TV 弹幕支持
-    * https://t.me/fongmi_offical/
-    * https://github.com/FongMi/Release/tree/main/apk
- * 皮皮虾DMBox 弹幕支持
-    * 设置 > 窗口预览 > 开启
-    * https://t.me/pipixiawerun
-    * vod_area:'bilidanmu'
- * Cookie设置
-    * Cookie获取方法 https://ghproxy.net/https://raw.githubusercontent.com/UndCover/PyramidStore/main/list.md
- * Cookie设置方法1: DR-PY 后台管理界面
-    * CMS后台管理 > 设置中心 > 环境变量 > {"bili_cookie":"XXXXXXX","vmid":"XXXXXX"} > 保存
- * Cookie设置方法2: 手动替换Cookie
-    * 底下代码 headers的
-    * "Cookie":"$bili_cookie"
-    * 手动替换为
-    * "Cookie":"将获取的Cookie黏贴在这"
- */
-
 var rule = {
     title:'我的哔哩',
     host:'https://api.bilibili.com',
     // homeUrl:'/x/web-interface/search/type?search_type=video&keyword=小姐姐4K&page=1',
     homeUrl:'/x/web-interface/ranking/v2?rid=0&type=origin', // 排行 > 排行榜 > 原创
     url:'/x/web-interface/search/type?search_type=videofyfilter',
-    class_name:'推荐&经典无损音乐合集&帕梅拉&太极拳&健身&舞蹈&音乐&歌曲&MV&演唱会&白噪音&知名UP主&说案&解说&演讲&时事&探索发现&纪录片&平面设计教学&软件教程&实用教程&旅游&风景&食谱&美食&搞笑&球星&动物世界&相声小品&戏曲&儿童&小姐姐&热门&旅行探险&历史记录',
-    class_url:'推荐&经典无损音乐合集&帕梅拉&太极拳&健身&舞蹈&音乐&歌曲&MV4K&演唱会4K&白噪音4K&知名UP主&说案&解说&演讲&时事&探索发现超清&纪录片超清&平面设计教学&软件教程&实用教程&旅游&风景4K&食谱&美食超清&搞笑&球星&动物世界超清&相声小品&戏曲&儿童&小姐姐4K&热门&旅行探险&历史记录',
+    class_name:'抖音热歌&经典无损音乐合集&索尼音乐中国&推荐&帕梅拉&太极拳&健身&舞蹈&音乐&歌曲&MV&演唱会&白噪音&知名UP主&说案&解说&演讲&时事&探索发现&纪录片&平面设计教学&软件教程&实用教程&旅游&风景&食谱&美食&搞笑&球星&动物世界&相声小品&戏曲&儿童&小姐姐&热门&旅行探险&历史记录',
+    class_url:'抖音热歌&经典无损音乐合集&索尼音乐中国&推荐&帕梅拉&太极拳&健身&舞蹈&音乐&歌曲&MV4K&演唱会4K&白噪音4K&知名UP主&说案&解说&演讲&时事&探索发现超清&纪录片超清&平面设计教学&软件教程&实用教程&旅游&风景4K&食谱&美食超清&搞笑&球星&动物世界超清&相声小品&戏曲&儿童&小姐姐4K&热门&旅行探险&历史记录',
     filterable: 1,
     filter_url: '&keyword={{fl.tid}}&page=fypage&duration={{fl.duration}}&order={{fl.order}}',
     filter_def:{
-        推荐:{tid:'推荐'},
-        历史记录:{tid:'历史记录'},
+    	抖音热歌:{tid:'抖音热歌'},
         经典无损音乐合集:{tid:'经典无损音乐合集'},
+        索尼音乐中国:{tid:'索尼音乐中国'},
+        推荐:{tid:'推荐'},        
+        历史记录:{tid:'历史记录'},        
         帕梅拉:{tid:'帕梅拉'},
         太极拳:{tid:'太极拳'},
         健身:{tid:'健身'},
