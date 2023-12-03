@@ -18,7 +18,6 @@
 {"key":"非凡资源网","name":"🏆非凡资源ff(简体)","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"天空资源网","name":"🏆天空资源网tk(简体)","type":0,"api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"量子资源網","name":"🏆量子资源lz(简体)","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]},
-{"key":"drpy_js_量子资源","name":"🏆量子资源[js]","type":3,"api":"drpy2.min.js","ext":"./js/量子资源.js"}, 
 {"key":"ikun资源网","name":"🏆ikun资源(简体)","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"飞速资源","name":"🏆飞速资源(简体)","api":"https://www.feisuzy.com/api.php/provide/vod","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"海外看资源网","name":"🏆海外看haiwaikan(简体)","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
@@ -32,7 +31,6 @@
 {"key":"快播资源網","name":"🌟快播资源kb(简体)","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快车资源網","name":"🌟快车资源kc(简体)","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"厂长资源","name":"🎯厂长资源(简体)","type":3,"api":"drpy2.min.js","ext":"./js/厂长资源.js"},
-{"key":"czzy","name":"🎯厂长资源[cat]","type":3,"api":"./cat/czzy_open.js"},
 {"key":"电影先生","name":"🎯电影先生(简体)","type":3,"api":"drpy2.min.js","ext":"./js/电影先生.js"},
 {"key":"南瓜影视","name":"🎯南瓜影视(简体)","type":3,"api":"drpy2.min.js","ext":"./js/南瓜影视.js"},
 {"key":"樱花资源網","name":"🌟樱花资源yh(简体)","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
@@ -61,16 +59,6 @@
 {"key":"农民","name":"💬評分 農民(简体)","type":3,"api":"drpy2.min.js","ext":"./js/农民影视.js"},
 {"key":"一起看","name":"💬評分/集數 一起看(简体)","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"./t.jar"},
 {"key":"乐鱼影视","name":"💬集數 乐鱼影视(简体)","type":3,"api":"drpy2.min.js","ext":"./js/乐鱼影视.js"},
-{"key":"539影院","name":"💬539影院","type":3,"api":"drpy2.min.js","ext":"./js/539影院.js"},
-{"key":"91free","name":"💬 集數 91free","type":3,"api":"drpy2.min.js","ext":"./js/91free.js"},
-{"key":"酷影[V2]","name":"💬集數 酷影","type":3,"api":"drpy2.min.js","ext":"./js/酷影[V2].js"},
-{"key":"gaze","name":"💬gaze🔎","type":3,"api":"drpy2.min.js","ext":"./js/gaze.js"},
-{"key":"八蛋影视","name":"💬八蛋影视🔎","type":3,"api":"drpy2.min.js","ext":"./js/八蛋影视.js"},
-{"key":"影渣渣","name":"💬影渣渣🔎","type":3,"api":"drpy2.min.js","ext":"./js/影渣渣.js"},
-{"key":"尘落影视","name":"💬尘落影视","type":3,"api":"drpy2.min.js","ext":"./js/尘落影视.js"},
-{"key":"追剧喵","name":"💬追剧喵🔎","type":3,"api":"drpy2.min.js","ext":"./js/追剧喵.js"},
-{"key":"喵喵","name":"💬喵喵♒","type":3,"api":"drpy2.min.js","ext":"./js/(1)/喵喵(1).js"},
-{"key":"菜狗","name":"💬菜狗🔎","type":3,"api":"drpy2.min.js","ext":"./js/菜狗.js"},
 {"key":"drpy_js_360影视","name":"官源🏛360","type":3,"api":"drpy2.min.js","ext":"./js/360影视.js"},
 {"key":"drpy_js_百忙无果","name":"官源🏛芒果🔎","type":3,"api":"drpy2.min.js","ext":"./js/百忙无果.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源🏛爱奇艺🍭🔎","type":3,"api":"drpy2.min.js","ext":"./js/奇珍异兽.js"},
@@ -82,31 +70,9 @@
 {"key":"ikanbot2","name":"爱看机器人2","type":3,"api":"drpy2.min.js","ext":"./js/ikanbot2.js"},
 {"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"drpy2.min.js","ext":"./js/ikanbot3.js"}
 ],
-"lives": [
-    {
-      "name": "直播源",
-      "type": 0,
-      "url": "./liveCCTV3.txt",
-//      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-    }
-  ],
+"lives":[{"name":"太阳","type":0,"url":"http://111.67.196.181/mtvzb.txt"}],
 "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
-"rules":[
-{"name":"星星","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-{"name":"海外看","hosts":["haiwaikan"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175832,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175833,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.716667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"量子廣告","hosts":["vip.lz","hd.lz"],"regex":[
-"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-]},
-{"name":"非凡廣告","hosts":["vip.ffzy","hd.ffzy"],"regex":[
-"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-]},
-{"name":"暴风廣告","hosts":["bfzy"],"regex":[
-"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-]},
-{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
-{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]}
-],
+"rules":[{"name":"星星","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"量子廣告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"非凡廣告","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},{"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},{"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]},{"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]}],
 "parses":[
 //{"name":"超解","type":4,"url":"12"},
 //{"name":"聚合1","type":3,"url":"Demo"},
