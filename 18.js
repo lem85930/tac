@@ -1,5 +1,6 @@
 {
-"spider":"./新视觉.jar",
+//"spider":"./新视觉.jar",
+  "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;9060b67dfec8782aca6e79ba17c0979b",
 "lives":[
 {
 "name":"18源",
@@ -12,12 +13,12 @@
 {"name":"10086","type":0,"url":"https://agit.ai/VivoMax/Fu/raw/branch/master/Flzb/drzb.txt"}
 ],
 "sites":[
-{"key":"泥巴18","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"ext":"1","jar":"./FongMi_custom_spider.jar"},
-{"key":"18AV","name":"🏆18AV2 無碼","type":3,"api":"csp_Eighteen","searchable":1,"filterable":1,"jar":"./custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"},
-{"key":"Jable","name":"🏆Jable 角色劇情","type":3,"api":"csp_Jable","searchable":1,"filterable":1,"viewType": 1,"jar":"./custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"},
+{"key":"泥巴18","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"ext":"1"},
+{"key":"18AV","name":"🏆18AV2 無碼","type":3,"api":"csp_Eighteen","searchable":1,"filterable":1},
+{"key":"Jable","name":"🏆Jable 角色劇情","type":3,"api":"csp_Jable","searchable":1,"filterable":1,"style": {"type": "rect","ratio": 1.77}},
 {"key":"*老鸭福利","name":"🏆老鸭 無碼動漫海外","type":0,"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml"},
-{"key":"PigAV","name":"🏆PigAV 無碼" ,"type":3,"api":"csp_Pig","searchable":1,"filterable":1,"jar":"./custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"},
-{"key":"MissAV","name":"🏆MissAV1 無碼","type":3,"api":"csp_Miss","searchable":1,"filterable":1,"jar":"./custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"},
+{"key":"PigAV","name":"🏆PigAV 無碼" ,"type":3,"api":"csp_Pig","searchable":1,"filterable":1},
+{"key":"MissAV","name":"🏆MissAV1 無碼","type":3,"api":"csp_Miss","searchable":1,"filterable":1},
 {"key":"caiji21.com","name":"🏆成人27 無碼","type":0,"api":"http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml","searchable":1,"filterable":1},
 {"key":"caiji26.com","name":"🏆成人28 無碼","type":0,"api":"http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml","searchable":1,"filterable":1},
 {"key":"caiji07.com","name":"🏆成人39 無碼","type":0,"api":"https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml","searchable":1,"filterable":1},
@@ -34,7 +35,7 @@
 {"key":"csp_麻豆女优","name":"🏆麻豆女优","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/麻豆女优.json"},
 {"key":"csp_黄瓜TV","name":"🏆黄瓜TV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/黄瓜TV.json"},
 {"key":"csp_麻豆映画","name":"🏆麻豆映画🔎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/麻豆映画.json"},
-{"key":"玩偶","name":"🏆玩偶","type":3,"api":"csp_Doll","searchable":1,"filterable":1,"jar":"./custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"},
+{"key":"玩偶","name":"🏆玩偶","type":3,"api":"csp_Doll","searchable":1,"filterable":1},
 {"key":"csp_性欲轮回[分类]","name":"🌟性欲轮回[分类]推特","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/性欲轮回[分类].json"},
 {"key":"csp_性欲轮回","name":"🌟性欲轮回🔎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/性欲轮回.json"},
 {"key":"环亚资源站","name":"🌟环亚 全無碼","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
@@ -83,7 +84,7 @@
 {"key":"csp_精东影业","name":"🌕精东影业","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/精东影业.json"},
 {"key":"csp_xBPQ床吧","name":"🌕床吧〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/床吧.json"},
 {"key":"csp_xBPQ叫床吧","name":"🌕叫床吧〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/叫床吧.json"},
-{"key":"Supjav","name":"🌕Supjav","type":3,"api":"csp_Supjav","searchable":1,"filterable":1,"jar":"./custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"},
+{"key":"Supjav","name":"🌕Supjav","type":3,"api":"csp_Supjav","searchable":1,"filterable":1},
 {"key":"易看资源","name":"🌕易看 倫理寫真","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"caiji09.com","name":"🌕成人48","type":0,"api":"https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml","searchable":1,"filterable":1},
 {"key":"madouse.la","name":"🌕成人01","type":1,"api":"http://madouse.la/api.php/provide/vod/","searchable":1,"filterable":1},
