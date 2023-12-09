@@ -18,6 +18,8 @@
 {"key":"優質资源网","name":"🏆優質资源1080(简体)","type":0,"api":"https://api.1080zyku.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"暴风影视","name":"🏆暴风影视(简体)","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"大漠影视e","name":"🏆大漠影视(简体)","type":1,"api":"https://damozy.com/api.php/provide/vod/from/M3U8/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"索尼","name":"🏆索尼(简体)","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"快帆","name":"快帆(简体)","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"金鹰影视e","name":"🏆金鹰影视(简体)","type":1,"api":"https://jinyingzy.com/provide/vod/from/jinyingm3u8/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"极速影视e","name":"🏆极速影视(简体)","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"taopian資源f","name":"🏆taopian資源(淘片)(简体)","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json/m3u8.html","searchable":1,"quickSearch":1,"filterable":1},
@@ -72,7 +74,7 @@
 ],
 "lives":[{"name":"太阳","type":0,"url":"http://111.67.196.181/mtvzb.txt"}],
 "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
-"rules":[{"name":"星星","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"量子廣告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"非凡廣告","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},{"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},{"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]},{"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]}],
+"rules":[{"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"]},{"name":"海外看","hosts":["haiwaikan"],"regex":["10.0099","10.3333","16.0599","8.1748","10.85"]},{"name":"索尼","hosts":["suonizy"],"regex":["15.1666","15.2666"]},{"name":"暴風","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"星星","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"量子","hosts":["vip.lz","hd.lz","v.cdnlz"],"regex":["18.5333"]},{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["25.0666"]},{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},{"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]}],
 "parses":[
 //{"name":"超解","type":4,"url":"12"},
 //{"name":"聚合1","type":3,"url":"Demo"},
@@ -125,6 +127,6 @@
 //{"name":"A13","type":0,"url":"https://lziplayer.com/?url="},
 {"name":"👉嗅探👈就是破解中，請等候一會👈","type":0,"url":"http://pandown.pro/app/ysmjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
-"wallpaper":"./黑色.jpeg"
-
+"wallpaper":"./黑色.jpeg",
+"ads":["mozai.4gtv.tv"]
 }
