@@ -1,19 +1,11 @@
 台灣新聞,#genre#
-050 年代新聞,http://gwtv.cnv8.tv:8097/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-050 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-050 年代新聞,http://211.23.114.106:8501/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-050 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
-050 年代新聞,http://193.233.206.48:8090/live/rx4/1099/02a36c0ab0bb6c0f3ed3a52955cfde2f/index.m3u8
-050 年代新聞,http://193.233.206.48:8090/live/rx1/2719/e31a0b788bfbe57a9bb1b7b563628521/index.m3u8
-050 年代新聞,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--37
-050 年代新聞,http://154.216.191.59/ycdz/tw220.php?id=44
-050 年代新聞,http://154.216.191.59/ycdz/tw220.php?id=17
-050 年代新聞,http://ceshi.huanqiuzhibo.cn/accv.php?id=niandainews_twn
+056 TVBS,http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+056 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+056 TVBS,http://193.233.206.48:8090/live/rx1/2273/d58941d7de65f386d127f700503d9bab/index.m3u8
+056 TVBS,http://193.233.206.48:8090/live/rx5/16/e72ddccce59e2728624bf6cb7979ce2c/index.m3u8
 049 壹新聞,http://154.216.191.59/ycdz/tw220.php?id=23
-049 壹新聞,http://ceshi.huanqiuzhibo.cn/accv.php?id=yinews
-049 壹新聞,http://193.233.206.48:8090/live/rx3/494/dbf472f874fd356b6b12b92bdae5caa4/index.m3u8
-049 壹新聞,http://193.233.206.48:8090/live/rx1/2777/282ae517da694ec1b0b7ed7b82cede13/index.m3u8
-049 壹新聞,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--48
+050 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+050 年代新聞,http://gwtv.cnv8.tv:8097/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 051 东森新聞,http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 051 东森新聞,http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 051 东森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
@@ -26,12 +18,8 @@
 051 东森新聞,http://193.233.206.48:8090/live/rx1/2766/07cefb4d8eef0987a3169ea7a5e0422b/index.m3u8
 051 东森新聞,http://154.216.191.59/ycdz/tw220.php?id=18
 051 东森新闻美洲台,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-052 华视新聞,https://yt-stream.livednow.com/stream/wM0g8EoUZ_E/master.m3u8
 052 华视新聞,http://193.233.206.48:8090/live/rx1/2424/da65646d73d6be18105f76700304e580/index.m3u8
 053 民视新闻台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-053 民视新闻台,http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
-053 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-053 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 053 民视新闻,http://gwtv.cnv8.tv:8097/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
 053 民视新闻,http://gwtv.cnv8.tv:8097/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
 053 民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
@@ -49,7 +37,6 @@
 053 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 053 民视新闻,https://yt-stream.livednow.com/stream/ylYJSBUgaMA/master.m3u8
 054 三立新聞,http://125.227.210.55:35238/VideoInput/play.ts
-054 三立新聞,https://yt-stream.livednow.com/stream/FoBfXvlOR6I/master.m3u8
 054 三立新聞,http://211.23.114.106:8507/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 054 三立新聞,http://193.233.206.48:8090/live/rx2/43/642fa11b0e201a48d4a758e8a864a33c/index.m3u8
 054 三立新聞,http://193.233.206.48:8090/live/rx1/2794/7baf06d68f9bde74800e54d26d9a3d94/index.m3u8
@@ -74,10 +61,6 @@
 055 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
 055 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 055 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-056 TVBS,http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
-056 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
-056 TVBS,http://193.233.206.48:8090/live/rx1/2273/d58941d7de65f386d127f700503d9bab/index.m3u8
-056 TVBS,http://193.233.206.48:8090/live/rx5/16/e72ddccce59e2728624bf6cb7979ce2c/index.m3u8
 052 中天新聞,http://gwtv.cnv8.tv:8097/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
 052 中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 052 中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
@@ -121,7 +104,6 @@
 089 非凡商业,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--45
 150 寰宇国际,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 150 寰宇国际,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
-150 寰宇台湾,http://193.233.206.48:8090/live/rx1/87/558f25e380a2e1f365b3b9a041e33425/index.m3u8
 152 民视台湾台,http://gwtv.cnv8.tv:8097/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
 152 民视台湾台,http://ceshi.huanqiuzhibo.cn/accv.php?id=ftvtaiwan_twn
 152 民视台湾台,http://193.233.206.48:8090/live/rx1/36/5ca4990e64c5723a04207d7927d4368e/index.m3u8
@@ -133,18 +115,17 @@
 152 民视台湾台,http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
 152 民视台湾台,http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 152 民视台湾台,http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
-154 中视新聞,https://ytm2.yuanhsing.cf/twctvnews.m3u8
+154 中视新闻HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 154 中视新聞,http://gwtv.cnv8.tv:8097/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
-154 中视新聞,https://yt-stream.livednow.com/stream/TCnaIE_SAtM/master.m3u8
 154 中视新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 154 中视新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 154 中视新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+154 中视新聞,https://ytm2.yuanhsing.cf/twctvnews.m3u8
 154 中视新聞,http://ceshi.huanqiuzhibo.cn/accv.php?id=zhongshinews_twn
 154 中视新聞,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 154 中视新聞,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 154 中视新聞,http://194.87.101.118:9501/live.m3u8?c=6
 154 中视新聞,http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
-154 中视新闻HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 155 台视新闻HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 155 台视新闻https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 155 台视新闻https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
@@ -165,15 +146,6 @@
 156 台视财经,http://193.233.206.48:8090/live/rx1/300/63f777d39e71741c3b3cce1682eb3f3f/index.m3u8
 164 Taiwan Plus,https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 164 Taiwan Plus,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--36
-有线新聞,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
-有线新聞,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8
-有线新聞,http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8
-有线新聞,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
-有线新聞,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
-有线新聞,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-有线新聞,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
-有线新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-有线新聞,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
 亚洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亚洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 台灣台,#genre#
