@@ -131,6 +131,9 @@ TLC旅游生活,http://50.7.238.114:8278/tlc_twn/playlist.m3u8?tid=MA0A590408225
 纬来综合,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--16			
 纬来综合,http://193.233.206.48:8090/live/rx1/2726/1891887671bfe08e05d715d4ee3e399c/index.m3u8			
 纬来综合,http://154.216.191.59/ycdz/tw220.php?id=9			
+HBO Hits,http://193.233.206.48:8090/live/rx1/330/84793ca99e4dd14d5946466b4f8a745c/index.m3u8
+HBO Hits,http://193.233.206.48:8090/live/rx4/2517/c71fa4b24d507f335073024c41fa0fb9/index.m3u8
+HBO Hits,http://ceshi.huanqiuzhibo.cn/accv.php?id=hbohead_twn
 八大第一,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--17			
 八大第一,http://gwtv.cnv8.tv:8097/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e			
 八大第一,http://gwtv.cnv8.tv:8097/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076			
@@ -434,7 +437,7 @@ CINEMAX,http://154.216.191.59/ycdz/tw220.php?id=30
 CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
 CINEMAX,http://gwtv.cnv8.tv:8097/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
 
-体育71~,#genre#
+体育71~74,#genre#
 纬来育乐,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--60
 纬来育乐,http://193.233.206.48:8090/live/rx3/2772/168afad0cc69afba8d9cc56f28dbfdb3/index.m3u8
 纬来育乐,http://193.233.206.48:8090/live/rx1/338/b0bb8eac630f4bc1cbe733f06b499396/index.m3u8
@@ -453,10 +456,7 @@ ELEVEN SPORTS 2,http://193.233.206.48:8090/live/rx1/301/c2dc38b52c42ef4f8291d023
 ELEVEN SPORTS 2 ,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--65
 ELEVEN SPORTS 2,http://154.216.191.59/ycdz/tw220.php?id=37
 
-电影61~70,#genre#
-HBO Hits,http://193.233.206.48:8090/live/rx1/330/84793ca99e4dd14d5946466b4f8a745c/index.m3u8
-HBO Hits,http://193.233.206.48:8090/live/rx4/2517/c71fa4b24d507f335073024c41fa0fb9/index.m3u8
-hbohits,http://ceshi.huanqiuzhibo.cn/accv.php?id=hbohead_twn
+电影75-,#genre#
 HBO2,http://208.115.225.174:14140
 HBO家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 HBO家庭,http://66.181.39.224/ml.php?id=fyi_twn
@@ -502,7 +502,7 @@ CHC高清电影,http://193.233.206.48:8090/live/rx1/1345/2d4d6829d7d4431e4f1874d
 龙华洋片,http://ceshi.huanqiuzhibo.cn/accv.php?id=lunghuawestern_twn
 龙华洋片,http://193.233.206.48:8090/live/rx1/341/cc4191de6c29979df0308ef4bccbbcd4/index.m3u8
 
-体育71~,#genre#
+体育,#genre#
 ESPN 1,http://193.233.206.48:8090/live/rx3/2788/b58b39b8f0db8cd8104ca9f952797f68/index.m3u8
 ESPN 1,http://193.233.206.48:8090/live/rx4/1182/3064b9cc2d1850c1ef451c5377a191d4/index.m3u8
 ESPN 2,http://193.233.206.48:8090/live/rx3/2789/d37a53fa341c34d11982a033dc79de04/index.m3u8
@@ -731,6 +731,7 @@ Star Movies,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=15
 欧洲华文2台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 欧洲华文1台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 Z频道,http://193.233.206.48:8090/live/rx1/1130/41b078bcbcca7211db7a2ea6ea08f1f4/index.m3u8
+
 综艺2,#genre#
 CHC家庭影院,http://193.233.206.48:8090/live/rx1/1347/0f44fd31e377ace12b1dd679381aa25b/index.m3u8
 ELTA影剧台,http://ceshi.huanqiuzhibo.cn/accv.php?id=eltadrama_twn
