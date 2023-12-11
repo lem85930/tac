@@ -19,6 +19,7 @@
 {"key":"暴风影视","name":"🏆暴风影视(简体)","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"大漠影视e","name":"🏆大漠影视(简体)","type":1,"api":"https://damozy.com/api.php/provide/vod/from/M3U8/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"索尼","name":"🏆索尼(简体)","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"索尼2","name":"🏆索尼2(简体)","type":0,"api":" https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"快帆","name":"快帆(简体)","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"金鹰影视e","name":"🏆金鹰影视(简体)","type":1,"api":"https://jinyingzy.com/provide/vod/from/jinyingm3u8/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"极速影视e","name":"🏆极速影视(简体)","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8/","searchable":1,"quickSearch":1,"filterable":1},
