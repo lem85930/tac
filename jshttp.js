@@ -27,7 +27,7 @@
 {"key":"淘片资源网","name":"🏆淘片资源tp(简体)","type":0,"api":"https://taopianapi.com/home/cjapi/as/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"非凡资源网","name":"🏆非凡资源ff(简体)","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"天空资源网","name":"🏆天空资源网tk(简体)","type":0,"api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"量子资源網","name":"🏆量子资源lz(简体)","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]},
+{"key":"量子资源網","name":"🏆量子资源lz(简体)","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"],"playerType":"1"},
 {"key":"ikun资源网","name":"🏆ikun资源(简体)","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"飞速资源","name":"🏆飞速资源(简体)","api":"https://www.feisuzy.com/api.php/provide/vod","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"海外看资源网","name":"🏆海外看haiwaikan(简体)","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
