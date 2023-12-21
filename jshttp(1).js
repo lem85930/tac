@@ -27,6 +27,7 @@
 {"key":"555影视[V2]🏆大漠","name":"☁555影视[V2]🔎","type":3,"api":"drpy2.min.js","ext":"./js/555影视[V2].js"},
 {"key":"起飞影院🏆","name":"起飞影院","type":3,"api":"drpy.min.js","ext":"./js/起飞影院.js"},
 {"key":"北极狐[V2]","name":"北极狐[V2]","type":3,"api":"drpy.min.js","ext":"./js/北极狐[V2].js"},
+{"key":"豪华资源","name":"豪华资源(简体)","type":0,"api":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"快帆","name":"快帆(简体)","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"金鹰影视e","name":"🏆金鹰影视(简体)","type":1,"api":"https://jinyingzy.com/provide/vod/from/jinyingm3u8/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"极速影视e","name":"🏆极速影视(简体)","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8/","searchable":1,"quickSearch":1,"filterable":1},
