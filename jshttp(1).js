@@ -29,6 +29,7 @@
 {"key":"北极狐[V2]","name":"北极狐[V2]","type":3,"api":"drpy.min.js","ext":"./js/北极狐[V2].js"},
 {"key":"豪华资源","name":"豪华资源(简体)","type":0,"api":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"宝片[V2]","name":"宝片[V2]","type":3,"api":"drpy.min.js","ext":"./js/宝片[V2].js"},
+{"key": "种子","name": "种子短剧┃采","type": 1,"api": "http://zzdj.cc/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url":"https://5movie.shop/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3#Netflix$netflix"},"categories":[]},
 //{"key":"快帆","name":"快帆(简体)","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"金鹰影视e","name":"🏆金鹰影视(简体)","type":1,"api":"https://jinyingzy.com/provide/vod/from/jinyingm3u8/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"极速影视e","name":"🏆极速影视(简体)","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8/","searchable":1,"quickSearch":1,"filterable":1},
