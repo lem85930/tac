@@ -1,4 +1,5 @@
 {
+"spider":"./f.jar",
 "sites" : [
 {"key":"drpy","name":"豆瓣🍭🔎(简体)","type":3,"api":"drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"drpy2","name":"豆瓣2🍭🔎","type":3,"api":"drpy2.min.js","ext":"./js/drpy.js"},
@@ -15,8 +16,10 @@
 {"key":"欧乐影院","name":"🛩歐樂影院♒(简体)","type":3,"api":"drpy2.min.js","ext":"./js/欧乐影院.js"},
 {"key":"独播库","name":"🛩独播库🔎(简体)","type":3,"api":"drpy2.min.js","ext":"./js/独播库[飞].js","playerType":"1"},
 {"key":"欧帝影院","name":"🛩欧帝影院🔎(简体)","type":3,"api":"drpy2.min.js","ext":"./js/欧帝影院.js"},
-{"key":"泥巴","name":"🏆泥巴🔎(简体)","type":3,"api":"csp_Nbys","searchable":1,"filterable":1,"jar":"./top98_1.jar"},
-{"key": "星星","name": "🏆星星(简体)","type": 3,"api": "csp_Star","searchable": 1,"jar":"./FongMi_custom_spider.jar"},
+//{"key":"泥巴","name":"🏆泥巴🔎(简体)","type":3,"api":"csp_Nbys","searchable":1,"filterable":1,"jar":"./top98_1.jar"},
+//{"key": "星星","name": "🏆星星(简体)","type": 3,"api": "csp_Star","searchable": 1,"jar":"./FongMi_custom_spider.jar"},
+{"key":"泥巴","name":"🏆泥巴🔎(简体)","type":3,"api":"csp_Nbys","searchable":1,"filterable":1},
+{"key": "星星","name": "🏆星星(简体)","type": 3,"api": "csp_Star","searchable": 1},
 {"key":"快看资源网","name":"🏆快看资源(简体)","type":0,"api":"https://kuaikan-api.com/api.php/provide/vod/at/xmlsea","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"優質资源网","name":"🏆優質资源1080(简体)","type":0,"api":"https://api.1080zyku.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"暴风影视","name":"🏆暴风影视(简体)","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
