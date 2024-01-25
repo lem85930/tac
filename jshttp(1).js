@@ -14,7 +14,7 @@
 {"key":"一起看","name":"💬評分/集數 一起看(简体)","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"./t.jar"},
 {"key":"乐鱼影视","name":"💬集數 乐鱼影视(简体)","type":3,"api":"drpy2.min.js","ext":"./js/乐鱼影视.js"},
 {"key":"欧乐影院","name":"🛩歐樂影院♒(简体)","type":3,"api":"drpy2.min.js","ext":"./js/欧乐影院.js"},
-{"key":"独播库","name":"🛩独播库🔎(简体)","type":3,"api":"drpy2.min.js","ext":"./js/独播库[飞].js","playerType":"1"},
+{"key":"独播库","name":"🏆独播库🔎(简体)","type":3,"api":"drpy2.min.js","ext":"./js/独播库[飞].js","playerType":"1"},
 {"key":"欧帝影院","name":"🛩欧帝影院🔎(简体)","type":3,"api":"drpy2.min.js","ext":"./js/欧帝影院.js"},
 {"key":"泥巴","name":"🏆泥巴🔎(简体)","type":3,"api":"csp_Nbys","searchable":1,"filterable":1,"jar":"./top98_1.jar"},
 //{"key": "星星","name": "🏆星星(简体)","type": 3,"api": "csp_Star","searchable": 1,"jar":"./FongMi_custom_spider.jar"},

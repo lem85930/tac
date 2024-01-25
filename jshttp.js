@@ -6,7 +6,7 @@
 {"key":"drpy__豆瓣","name":"豆瓣🏛[DRPY]🔎","type":3,"api":"drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq(简体)","type":3,"api":"drpy2.min.js","ext":"./js/ikanbotsq.js"},
 {"key":"欧乐影院","name":"🛩歐樂影院♒(简体)","type":3,"api":"drpy2.min.js","ext":"./js/欧乐影院.js"},
-{"key":"独播库","name":"🛩独播库🔎(简体)","type":3,"api":"drpy2.min.js","ext":"./js/独播库[飞].js","playerType":"1"},
+{"key":"独播库","name":"🏆独播库🔎(简体)","type":3,"api":"drpy2.min.js","ext":"./js/独播库[飞].js","playerType":"1"},
 {"key":"欧帝影院","name":"🛩欧帝影院🔎(简体)","type":3,"api":"drpy2.min.js","ext":"./js/欧帝影院.js"},
 {"key":"泥巴","name":"🏆泥巴🔎(简体)","type":3,"api":"csp_Nbys","searchable":1,"filterable":1,"jar":"./top98_1.jar"},
 {"key": "星星","name": "🏆星星(简体)","type": 3,"api": "csp_Star","searchable": 1},
