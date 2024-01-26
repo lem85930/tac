@@ -30,7 +30,7 @@ CCTV3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001598/in
 中天新闻,http://154.216.191.59/ycdz/tw220.php?id=19			
 中天新闻,http://66.181.39.224/ml.php?id=ctinews			
 东森购物1,mitv://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
-东森购物2,mitv://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
+东森购物34,mitv://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
 CNN,http://gwtv.cnv8.tv:8097/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
 民视,mitv://generationnexxxt.com:19806/8d864649cfc54b518b3d137d67583155
