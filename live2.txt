@@ -219,7 +219,7 @@ HBO Hits,http://ceshi.huanqiuzhibo.cn/accv.php?id=hbohead_twn
 东森戏剧,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
 八大戏剧,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
 八大戏剧,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-八大戏剧http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
+八大戏剧,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
 八大戏剧,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
 八大戏剧,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--29
 八大戏剧,http://gwtv.cnv8.tv:8097/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
@@ -577,22 +577,22 @@ ELTA体育台4,http://ceshi.huanqiuzhibo.cn/accv.php?id=natgeowild_twn
 中视新闻,http://194.87.101.118:9501/live.m3u8?c=6		
 中视新闻,http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376		
 台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8		
-台视新闻https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8		
-台视新闻https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8		
-台视新闻https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8		
-台视新闻https://ytm2.yuanhsing.cf/ttvnewsview.m3u8		
-台视新闻http://198.16.100.90:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c		
-台视新闻http://194.87.101.118:9501/live.m3u8?c=4		
-台视新闻http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8		
-台视新闻http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8		
-台视新闻http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top		
-台视新闻http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8		
-台视新闻http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8		
-台视新闻http://38.64.72.148/hls/modn/list/4013/playlist.m3u8		
-台视新闻http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8		
-台视新闻http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8		
-台视新闻http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8		
-台视新闻http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8		
+台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8		
+台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8		
+台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8		
+台视新闻,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8		
+台视新闻,http://198.16.100.90:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c		
+台视新闻,http://194.87.101.118:9501/live.m3u8?c=4		
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8		
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8		
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top		
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8		
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8		
+台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8		
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8		
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8		
+台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8		
+台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8		
 台视财经,http://193.233.206.48:8090/live/rx1/300/63f777d39e71741c3b3cce1682eb3f3f/index.m3u8		
 TAIWAN PLUS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8		
 TAIWAN PLUS,https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8		
