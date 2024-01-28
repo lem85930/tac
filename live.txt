@@ -36,11 +36,6 @@ ELTA综合,http://193.233.206.48:8090/live/rx1/1137/2a477a46b3c9c2a0217f0267f46a
 爱尔达综合,http://ceshi.huanqiuzhibo.cn/accv.php?id=eltazonghe
 非凡商业,mitv://generationnexxxt.com:19806/0c1ba96949414628ae64fc70c3354e7b
 国家地理野生,http://193.233.206.48:8090/live/rx1/1038/636410ed06ab0133600d073642bd72c4/index.m3u8
-国家地理野生,http://gwtv.cnv8.tv:8097/natgeowildtamil_raj/playlist.m3u8?tid=MA3A7576802775768027&ct=19249&tsum=38e4069aeedc94944ccb5122c294c939
-国家地理野生,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
-国家地理野生,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
-国家地理野生,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
-国家地理野生,http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
 国家地理,mitv://generationnexxxt.com:19806/37a44d0af7634364a91f2fb8d9b9cf9b
 国家地理,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--8
 国家地理,http://gwtv.cnv8.tv:8097/natgeo_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
