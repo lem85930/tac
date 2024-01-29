@@ -17,13 +17,13 @@ CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/32
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228188/index.m3u8
 CCTV3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225647/index.m3u8
 CCTV3,http://220.180.229.250:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com中天新闻,http://gwtv.cnv8.tv:8097/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7			
-中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
-中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8			
-中天新闻,http://lzoq.hk3.20212021.ml.cdn.cloudflare.net/daili/ytb.php?id=WPfPjbOLNfE			
+CCTV3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+MOMO購物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+MOMO購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 东森购物1台,mitv://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
 东森购物2台,mitv://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
-非凡新闻,http://66.181.39.224/ml.php?id=feifannews_twn			
+东森购物60,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+东森购物46,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
 民视,mitv://generationnexxxt.com:19806/8d864649cfc54b518b3d137d67583155
 ETtoday综合台,mitv://generationnexxxt.com:19806/8e1b32241c9d4d079a2df7dc99adb312
@@ -93,7 +93,7 @@ TVBS欢乐,mitv://generationnexxxt.com:19806/569aec3edbbc4267bd6f829b3d495d5a
 三立戏剧,mitv://generationnexxxt.com:19806/7a5b874b630d457bb5997a2fe4690550
 高点综合台,mitv://generationnexxxt.com:19806/462775e2153243fc92adec0793c638d0
 
-新闻48~69,#genre#
+新闻48~61,#genre#
 三立财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8			
 三立财经新闻,mitv://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
 壹新闻,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
@@ -116,6 +116,7 @@ TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8			
 非凡新闻,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新闻,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378			
+非凡新闻,http://66.181.39.224/ml.php?id=feifannews_twn			
 寰宇新闻,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8			
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8			
@@ -123,8 +124,12 @@ TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 寰宇新闻,http://ceshi.huanqiuzhibo.cn/accv.php?id=huanyuxinwen_twn			
 寰宇新闻,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--47			
 镜新闻,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
+中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8			
+中天新闻,http://lzoq.hk3.20212021.ml.cdn.cloudflare.net/daili/ytb.php?id=WPfPjbOLNfE			
+中天新闻,http://gwtv.cnv8.tv:8097/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7			
 
-电影61~70,#genre#
+电影62~71,#genre#
 卫视电影,mitv://generationnexxxt.com:19806/f5f1de75dbbf48e2a21a498977ffb8e4
 东森电影,mitv://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
 东森电影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
