@@ -56,7 +56,8 @@ HBO Hits,mitv://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
 中天综合,mitv://generationnexxxt.com:19806/d6433dcd1a2a4aacb1c63a81ae8f11e6
 中天综合,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2			
 壹电视综合,mitv://generationnexxxt.com:19806/617d6cf150574cb485ee07aea57262fd
-中视经典台,mitv://generationnexxxt.com:19806/8b9e15ff15474ccbbc2780c1484e50c9中天娱乐,mitv://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
+中视经典台,mitv://generationnexxxt.com:19806/8b9e15ff15474ccbbc2780c1484e50c9
+中天娱乐,mitv://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
 中天娱乐,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674			
 东森戏剧,mitv://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
 八大戏剧,mitv://generationnexxxt.com:19806/4eec82bd1e634ceab82b90e395116c83
@@ -103,7 +104,7 @@ TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 镜新闻,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
 非凡商业,mitv://generationnexxxt.com:19806/0c1ba96949414628ae64fc70c3354e7b
 
-电影61~70,#genre#
+电影61~70,#genre#	
 卫视电影,mitv://generationnexxxt.com:19806/f5f1de75dbbf48e2a21a498977ffb8e4
 东森电影,mitv://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
 东森电影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
@@ -152,7 +153,8 @@ HBO2,http://208.115.225.174:14140龙祥电影,mitv://generationnexxxt.com:19806/
 龙华电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 靖天电影,mitv://generationnexxxt.com:19806/d8c581e0e1a24823a3d2110e3584ef8b
 美亚电影,mitv://generationnexxxt.com:19806/a850e570b868424c94319a2652ca7c62
-美亚电影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b星卫HD电影台,mitv://generationnexxxt.com:19806/832bfeb4b3b84dd2a7428f9db69504eb
+美亚电影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+星卫HD电影台,mitv://generationnexxxt.com:19806/832bfeb4b3b84dd2a7428f9db69504eb
 靖天映画,mitv://generationnexxxt.com:19806/b723859f3ed94e5ba712148b209eefd0
 WARNER TV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
 AMC最爱电影,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
@@ -170,8 +172,7 @@ CinemaWorld,mitv://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
 寰宇新闻,https://yt-stream.livednow.com/stream/6IquAgfvYmc/master.m3u8			
 寰宇新闻,http://ceshi.huanqiuzhibo.cn/accv.php?id=huanyuxinwen_twn			
 寰宇新闻,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--47			
-寰宇国际,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8			
-寰宇新闻台湾台,mitv://generationnexxxt.com:19806/ca27b65855704124be186aa0e5127c24
+寰宇新闻,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8			
 中视新闻,mitv://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8		
 中视新闻,https://ytm2.yuanhsing.cf/twctvnews.m3u8		
