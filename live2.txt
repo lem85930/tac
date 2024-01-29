@@ -23,7 +23,7 @@ CCTV3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001598/in
 中天新闻,http://lzoq.hk3.20212021.ml.cdn.cloudflare.net/daili/ytb.php?id=WPfPjbOLNfE			
 东森购物1台,mitv://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
 东森购物2台,mitv://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
-http://66.181.39.224/ml.php?id=feifannews_twn			
+非凡新闻,http://66.181.39.224/ml.php?id=feifannews_twn			
 民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
 民视,mitv://generationnexxxt.com:19806/8d864649cfc54b518b3d137d67583155
 ETtoday综合台,mitv://generationnexxxt.com:19806/8e1b32241c9d4d079a2df7dc99adb312
@@ -47,6 +47,7 @@ DISCOVERY,mitv://generationnexxxt.com:19806/9f2e92df32b34a569ad7e6818f4732fb
 TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec03679804
 动物星球,mitv://generationnexxxt.com:19806/5b41e724ea8e4e7eb92e3dac95589165
 动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17b9b4813ed1
+八大优频道,mitv://generationnexxxt.com:19806/7abaa68442ce4ed7ad7c9772fb46eda9
 纬来日本,mitv://generationnexxxt.com:19806/5f9d37ba1fc04a04aaec6979908294a2
 纬来精彩,mitv://generationnexxxt.com:19806/1db14fe8aad841b4b28eca2b136e7206
 纬来综合,mitv://generationnexxxt.com:19806/d40310ae8bba42569d3d90b4cf7d9928
@@ -210,12 +211,10 @@ Bloomberg TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8		
 台视财经,mitv://generationnexxxt.com:19806/e01d7738e33e456a812f7cefbf27b29a
 TAIWAN PLUS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8		
-TAIWAN PLUS,
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
 综艺,#genre#
-八大优频道,mitv://generationnexxxt.com:19806/7abaa68442ce4ed7ad7c9772fb46eda9
 民视戏剧,https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
 民视戏剧,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
 民视第一台,mitv://generationnexxxt.com:19806/b97979cec8d74feebc370f3470cc06c6
