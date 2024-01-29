@@ -1,4 +1,4 @@
-综合,#genre#
+综合1~28,#genre#
 中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8			
 中天新闻,http://lzoq.hk3.20212021.ml.cdn.cloudflare.net/daili/ytb.php?id=WPfPjbOLNfE			
@@ -42,6 +42,8 @@ HBO Hits,mitv://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
 八大综合,mitv://generationnexxxt.com:19806/6c18a737c1394e59ae5072935d630f40
 八大综合,https://ytm2.yuanhsing.cf/GTVDRAMA.m3u8			
 八大综合,https://ytm2.yuanhsing.cf/GTVDRAMA.m3u8			
+
+综合29~47,#genre#
 三立台湾,mitv://generationnexxxt.com:19806/ff12e8f29f9b4f61a9b766709aa498f6
 三立台湾,mitv://generationnexxxt.com:19806/7554a57ea53f4c10ae4e219ac2d374c4
 三立都会,mitv://generationnexxxt.com:19806/7a36f98eee8e48a48ea64a1359083c8a
@@ -74,6 +76,8 @@ TVBS欢乐,mitv://generationnexxxt.com:19806/569aec3edbbc4267bd6f829b3d495d5a
 八大综合,http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
 三立戏剧,mitv://generationnexxxt.com:19806/7a5b874b630d457bb5997a2fe4690550
 高点综合台,mitv://generationnexxxt.com:19806/462775e2153243fc92adec0793c638d0
+
+新闻48~60,#genre#
 三立财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8			
 三立财经新闻,mitv://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
 壹新闻,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
@@ -99,6 +103,8 @@ TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 非凡新闻,http://66.181.39.224/ml.php?id=feifannews_twn			
 镜新闻,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
 非凡商业,mitv://generationnexxxt.com:19806/0c1ba96949414628ae64fc70c3354e7b
+
+电影61~70,#genre#	
 卫视电影,mitv://generationnexxxt.com:19806/f5f1de75dbbf48e2a21a498977ffb8e4
 东森电影,mitv://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
 东森电影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
@@ -115,6 +121,8 @@ Star Movies HD,mitv://generationnexxxt.com:19806/cdbfcfca93f846c7bcc30d0fd108923
 TVN台湾版,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 CINEMAX,mitv://generationnexxxt.com:19806/fd7fd316ff5f4ae0a79d274a86483a4f
 CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
+
+体育71~88,#genre#
 纬来育乐,mitv://generationnexxxt.com:19806/78b57c4d9e644fafafe01588c43b4787
 纬来体育,mitv://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
 ELEVEN体育1台,mitv://generationnexxxt.com:19806/fcfde35352d5464f9ed1c711ef2d05b1
@@ -136,6 +144,8 @@ ELEVEN体育1台,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF
 博斯运动二台,mitv://generationnexxxt.com:19806/cbd52c51fbab49ae9b3bc0da9137f681
 智林体育台,mitv://generationnexxxt.com:19806/931c171e2f774f7aa1a92e97f5098c9f
 ELEVEN体育2台,mitv://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a
+
+电影,#genre#
 HBO强档巨献,mitv://generationnexxxt.com:19806/563a5981b8ad4df085b59ce98bbecb95
 HBO原创巨献,mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
 HBO2,http://208.115.225.174:14140龙祥电影,mitv://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a
@@ -154,6 +164,8 @@ CinemaWorld,mitv://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
 壹电视电影台,mitv://generationnexxxt.com:19806/1be1329b6d124745a87a16de445d2352
 影迷数位电影台,mitv://generationnexxxt.com:19806/bc069c037478448a9e41dbc3e1d5d0f6
 爱尔达影剧台,mitv://generationnexxxt.com:19806/932d4522f2294c6a926b7ab8027c269f
+
+其他新闻,#genre#
 寰宇新闻,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8			
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8			
@@ -181,6 +193,8 @@ BBC Earth,mitv://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
 CNBC,mitv://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
 Bloomberg TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
 东森新闻美洲台,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8			
+
+综艺,#genre#
 JET综合台,mitv://generationnexxxt.com:19806/cbd0c62dcb2a45cfa04f672fb2c49d14
 民视台湾台,mitv://generationnexxxt.com:19806/192bd12842624eb39e2f6b86eeacdca8
 民视台湾台,http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd			
