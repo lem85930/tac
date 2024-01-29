@@ -1,29 +1,12 @@
 综合1~28,#genre#
-CCTV3,http://220.180.229.250:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://cfss.cc/api/ysp/cctv3.m3u8
-CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV3,mitv://generationnexxxt.com:19806/784f6703531044be9cee14b793948d30
-CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-CCTV3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225634/index.m3u8
-CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3746132328_-1754088424/ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8?icpid=3&RTS=1668594245&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
-CCTV3,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
-CCTV3,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw3968745104_1595752942/ott.mobaibox.com/PLTV/3/224/3221227650/index.m3u8?icpid=3&RTS=1674379789&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0c_80&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-CCTV3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225634/2/index.m3u8
-CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/wh7f454c46tw3969776637_-195437199/ott.mobaibox.com/PLTV/3/224/3221227546/index.m3u8?icpid=3&RTS=1674379790&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-CCTV3,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
-CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
-CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228188/index.m3u8
-CCTV3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225647/index.m3u8
-CCTV3,http://220.180.229.250:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-MOMO購物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-MOMO購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-东森购物1台,mitv://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
-东森购物2台,mitv://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
-东森购物60,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8			
+中天新闻,http://lzoq.hk3.20212021.ml.cdn.cloudflare.net/daili/ytb.php?id=WPfPjbOLNfE			
+中天新闻,http://gwtv.cnv8.tv:8097/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7			
+东森购物34,mitv://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
 东森购物46,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+东森购物47,mitv://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
+东森购物60,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
 民视,mitv://generationnexxxt.com:19806/8d864649cfc54b518b3d137d67583155
 ETtoday综合台,mitv://generationnexxxt.com:19806/8e1b32241c9d4d079a2df7dc99adb312
@@ -39,8 +22,8 @@ ETtoday综合台,mitv://generationnexxxt.com:19806/8e1b32241c9d4d079a2df7dc99adb
 公视,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0			
 公视,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0			
 公视3台,mitv://generationnexxxt.com:19806/95f2ed538e044aac891abfe6a9ce6ba7
-JET综合台,mitv://generationnexxxt.com:19806/cbd0c62dcb2a45cfa04f672fb2c49d14
-非凡商业,mitv://generationnexxxt.com:19806/0c1ba96949414628ae64fc70c3354e7b
+MOMO購物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+MOMO購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 国家地理野生,mitv://generationnexxxt.com:19806/22f75ace87a545aab39a2e4cd244bbad
 国家地理,mitv://generationnexxxt.com:19806/37a44d0af7634364a91f2fb8d9b9cf9b
 DISCOVERY,mitv://generationnexxxt.com:19806/9f2e92df32b34a569ad7e6818f4732fb
@@ -93,7 +76,7 @@ TVBS欢乐,mitv://generationnexxxt.com:19806/569aec3edbbc4267bd6f829b3d495d5a
 三立戏剧,mitv://generationnexxxt.com:19806/7a5b874b630d457bb5997a2fe4690550
 高点综合台,mitv://generationnexxxt.com:19806/462775e2153243fc92adec0793c638d0
 
-新闻48~61,#genre#
+新闻48~60,#genre#
 三立财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8			
 三立财经新闻,mitv://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
 壹新闻,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
@@ -124,12 +107,9 @@ TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 寰宇新闻,http://ceshi.huanqiuzhibo.cn/accv.php?id=huanyuxinwen_twn			
 寰宇新闻,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--47			
 镜新闻,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
-中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
-中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8			
-中天新闻,http://lzoq.hk3.20212021.ml.cdn.cloudflare.net/daili/ytb.php?id=WPfPjbOLNfE			
-中天新闻,http://gwtv.cnv8.tv:8097/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7			
+非凡商业,mitv://generationnexxxt.com:19806/0c1ba96949414628ae64fc70c3354e7b
 
-电影62~71,#genre#
+电影61~70,#genre#
 卫视电影,mitv://generationnexxxt.com:19806/f5f1de75dbbf48e2a21a498977ffb8e4
 东森电影,mitv://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
 东森电影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
@@ -218,6 +198,7 @@ TAIWAN PLUS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
 综艺,#genre#
+JET综合台,mitv://generationnexxxt.com:19806/cbd0c62dcb2a45cfa04f672fb2c49d14
 民视戏剧,https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
 民视戏剧,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
 民视第一台,mitv://generationnexxxt.com:19806/b97979cec8d74feebc370f3470cc06c6
