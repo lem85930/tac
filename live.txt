@@ -375,8 +375,34 @@ TW台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 
-🌎直播中国景點,#genre#
+🇨🇳󠁧󠁢󠁥󠁮潇洒MTV,#genre#
+潇洒MV,https://download.kstore.space/download/2863/MTV/Olivia%20O%E2%80%9DBrien%EF%B9%A0FLETCHER-Bitch%20Back.mp4
+潇洒MV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+潇洒MV1,https://download.kstore.space/download/2863/MTV/Weki%20Meki-COOL%20%EF%BC%88Performance%20Ver.%EF%BC%89.mp4
+潇洒MV2,https://download.kstore.space/download/2863/MTV/MAMAMOO-AYA.mp4
+潇洒MV3,https://download.kstore.space/download/2863/MTV/aespa%20%EF%BC%88%EC%97%90%EC%8A%A4%ED%8C%8C%EF%BC%89-Black%20Mamba.mp4
+周杰伦-最伟大的作品,https://download.kstore.space/download/2863/MTV/%E5%91%A8%E6%9D%B0%E4%BC%A6-%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%BD%9C%E5%93%81.mp4
+周杰伦-本草纲目,https://download.kstore.space/download/2863/MTV/%E5%91%A8%E6%9D%B0%E4%BC%A6-%E6%9C%AC%E8%8D%89%E7%BA%B2%E7%9B%AE.mp4
+周杰伦-Mojito,https://download.kstore.space/download/2863/MTV/%E5%91%A8%E6%9D%B0%E4%BC%A6-Mojito.mp4
+周杰伦-晴天,https://download.kstore.space/download/2863/MTV/%E5%91%A8%E6%9D%B0%E4%BC%A6-%E6%99%B4%E5%A4%A9.mp4
+李荣浩-乌梅子酱,https://download.kstore.space/download/2863/MTV/%E6%9D%8E%E8%8D%A3%E6%B5%A9-%E4%B9%8C%E6%A2%85%E5%AD%90%E9%85%B1.mp4
+李荣浩-老街,https://download.kstore.space/download/2863/MTV/%E6%9D%8E%E8%8D%A3%E6%B5%A9-%E8%80%81%E8%A1%97.mp4
+李荣浩-模特,https://download.kstore.space/download/2863/MTV/%E6%9D%8E%E8%8D%A3%E6%B5%A9-%E6%A8%A1%E7%89%B9.mp4
+李荣浩-李白,https://download.kstore.space/download/2863/MTV/%E6%9D%8E%E8%8D%A3%E6%B5%A9-%E6%9D%8E%E7%99%BD.mp4
+古巨基-劲歌金曲1,https://download.kstore.space/download/2863/MTV/%E5%8F%A4%E5%B7%A8%E5%9F%BA-%E5%8A%B2%E6%AD%8C%E9%87%91%E6%9B%B2.mp4
+古巨基-劲歌金曲2,https://download.kstore.space/download/2863/MTV/%E5%8F%A4%E5%B7%A8%E5%9F%BA-%E5%8A%B2%E6%AD%8C.%20%E9%87%91%E6%9B%B22%EF%BC%88%E6%83%85%E6%AD%8C%E7%8E%8B%EF%BC%89.mp4
+古巨基-劲歌金曲3,https://download.kstore.space/download/2863/MTV/%E5%8F%A4%E5%B7%A8%E5%9F%BA-%E5%8A%B2%E6%AD%8C%E9%87%91%E6%9B%B23%20Party%20King%EF%BC%88Live%EF%BC%89.mp4
+凤凰传奇-最炫民族风,https://download.kstore.space/download/2863/MTV/%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87-%E6%9C%80%E7%82%AB%E6%B0%91%E6%97%8F%E9%A3%8E.mp4
+凤凰传奇-山河图,https://download.kstore.space/download/2863/MTV/%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87-%E5%B1%B1%E6%B2%B3%E5%9B%BE%EF%BC%88Live%EF%BC%89.mp4
+筷子兄弟-小苹果,https://download.kstore.space/download/2863/MTV/%E7%AD%B7%E5%AD%90%E5%85%84%E5%BC%9F-%E5%B0%8F%E8%8B%B9%E6%9E%9C.mp4
+戴荃-悟空,https://download.kstore.space/download/2863/MTV/%E6%88%B4%E8%8D%83-%E6%82%9F%E7%A9%BA.mp4
+毛不易-消愁,https://download.kstore.space/download/2863/MTV/%E6%AF%9B%E4%B8%8D%E6%98%93-%E6%B6%88%E6%84%81%EF%BC%88Live%EF%BC%89.mp4
+迈克尔·杰克逊-Beat It,https://download.kstore.space/download/2863/MTV/Michael%20Jackson-Beat%20It.mp4
+迈克尔·杰克逊-Dangerous,https://download.kstore.space/download/2863/MTV/Michael%20Jackson-Dangerous.mp4
+迈克尔·杰克逊-Earth Song,https://download.kstore.space/download/2863/MTV/Michael%20Jackson-Earth%20Song-%E3%80%8A%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%9D%B0%E5%85%8B%E9%80%8A%EF%BC%9A%E5%B0%B1%E6%98%AF%E8%BF%99%E6%A0%B7%E3%80%8B%E7%BA%AA%E5%BD%95%E7%89%87%E6%8F%92%E6%9B%B2.mp4
+迈克尔·杰克逊-We Are The World,https://download.kstore.space/download/2863/MTV/Michael%20Jackson-We%20Are%20The%20World%EF%BC%88Demo%EF%BC%89.mp4
 
+🇨🇳大陸景點,#genre#
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 直播中国精编直播,http://gcksc.v.kcdnvip.com/gc/wgw05_1/index.m3u8
 直播中国精编直播,http://gcbsc.v.live.baishancdnx.cn/gc/wgw05_1/index.m3u8
@@ -760,33 +786,7 @@ TW台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 福建武夷山玉女峰,http://gcksc.v.kcdnvip.com/gc/wysynf_1/index.m3u8
 福建武夷山玉女峰,http://gccncc.v.wscdns.com/gc/wysynf_1/index.m3u8
 
-🇨🇳󠁧󠁢󠁥󠁮潇洒MTV,#genre#
-潇洒MV,https://download.kstore.space/download/2863/MTV/Olivia%20O%E2%80%9DBrien%EF%B9%A0FLETCHER-Bitch%20Back.mp4
-潇洒MV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-潇洒MV1,https://download.kstore.space/download/2863/MTV/Weki%20Meki-COOL%20%EF%BC%88Performance%20Ver.%EF%BC%89.mp4
-潇洒MV2,https://download.kstore.space/download/2863/MTV/MAMAMOO-AYA.mp4
-潇洒MV3,https://download.kstore.space/download/2863/MTV/aespa%20%EF%BC%88%EC%97%90%EC%8A%A4%ED%8C%8C%EF%BC%89-Black%20Mamba.mp4
-周杰伦-最伟大的作品,https://download.kstore.space/download/2863/MTV/%E5%91%A8%E6%9D%B0%E4%BC%A6-%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%BD%9C%E5%93%81.mp4
-周杰伦-本草纲目,https://download.kstore.space/download/2863/MTV/%E5%91%A8%E6%9D%B0%E4%BC%A6-%E6%9C%AC%E8%8D%89%E7%BA%B2%E7%9B%AE.mp4
-周杰伦-Mojito,https://download.kstore.space/download/2863/MTV/%E5%91%A8%E6%9D%B0%E4%BC%A6-Mojito.mp4
-周杰伦-晴天,https://download.kstore.space/download/2863/MTV/%E5%91%A8%E6%9D%B0%E4%BC%A6-%E6%99%B4%E5%A4%A9.mp4
-李荣浩-乌梅子酱,https://download.kstore.space/download/2863/MTV/%E6%9D%8E%E8%8D%A3%E6%B5%A9-%E4%B9%8C%E6%A2%85%E5%AD%90%E9%85%B1.mp4
-李荣浩-老街,https://download.kstore.space/download/2863/MTV/%E6%9D%8E%E8%8D%A3%E6%B5%A9-%E8%80%81%E8%A1%97.mp4
-李荣浩-模特,https://download.kstore.space/download/2863/MTV/%E6%9D%8E%E8%8D%A3%E6%B5%A9-%E6%A8%A1%E7%89%B9.mp4
-李荣浩-李白,https://download.kstore.space/download/2863/MTV/%E6%9D%8E%E8%8D%A3%E6%B5%A9-%E6%9D%8E%E7%99%BD.mp4
-古巨基-劲歌金曲1,https://download.kstore.space/download/2863/MTV/%E5%8F%A4%E5%B7%A8%E5%9F%BA-%E5%8A%B2%E6%AD%8C%E9%87%91%E6%9B%B2.mp4
-古巨基-劲歌金曲2,https://download.kstore.space/download/2863/MTV/%E5%8F%A4%E5%B7%A8%E5%9F%BA-%E5%8A%B2%E6%AD%8C.%20%E9%87%91%E6%9B%B22%EF%BC%88%E6%83%85%E6%AD%8C%E7%8E%8B%EF%BC%89.mp4
-古巨基-劲歌金曲3,https://download.kstore.space/download/2863/MTV/%E5%8F%A4%E5%B7%A8%E5%9F%BA-%E5%8A%B2%E6%AD%8C%E9%87%91%E6%9B%B23%20Party%20King%EF%BC%88Live%EF%BC%89.mp4
-凤凰传奇-最炫民族风,https://download.kstore.space/download/2863/MTV/%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87-%E6%9C%80%E7%82%AB%E6%B0%91%E6%97%8F%E9%A3%8E.mp4
-凤凰传奇-山河图,https://download.kstore.space/download/2863/MTV/%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87-%E5%B1%B1%E6%B2%B3%E5%9B%BE%EF%BC%88Live%EF%BC%89.mp4
-筷子兄弟-小苹果,https://download.kstore.space/download/2863/MTV/%E7%AD%B7%E5%AD%90%E5%85%84%E5%BC%9F-%E5%B0%8F%E8%8B%B9%E6%9E%9C.mp4
-戴荃-悟空,https://download.kstore.space/download/2863/MTV/%E6%88%B4%E8%8D%83-%E6%82%9F%E7%A9%BA.mp4
-毛不易-消愁,https://download.kstore.space/download/2863/MTV/%E6%AF%9B%E4%B8%8D%E6%98%93-%E6%B6%88%E6%84%81%EF%BC%88Live%EF%BC%89.mp4
-迈克尔·杰克逊-Beat It,https://download.kstore.space/download/2863/MTV/Michael%20Jackson-Beat%20It.mp4
-迈克尔·杰克逊-Dangerous,https://download.kstore.space/download/2863/MTV/Michael%20Jackson-Dangerous.mp4
-迈克尔·杰克逊-Earth Song,https://download.kstore.space/download/2863/MTV/Michael%20Jackson-Earth%20Song-%E3%80%8A%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%9D%B0%E5%85%8B%E9%80%8A%EF%BC%9A%E5%B0%B1%E6%98%AF%E8%BF%99%E6%A0%B7%E3%80%8B%E7%BA%AA%E5%BD%95%E7%89%87%E6%8F%92%E6%9B%B2.mp4
-迈克尔·杰克逊-We Are The World,https://download.kstore.space/download/2863/MTV/Michael%20Jackson-We%20Are%20The%20World%EF%BC%88Demo%EF%BC%89.mp4
-🔞歐美_8436,#genre#
+測試_8436,#genre#
 BigAss,http://cdn.adultiptv.net/bigass.m3u8
 Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
 Brunette,http://cdn.adultiptv.net/brunette.m3u8
@@ -803,7 +803,8 @@ BigTits,http://live.redtraffic.xyz/bigtits.m3u8
 Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
 Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
 Threesome,http://live.redtraffic.xyz/threesome.m3u8
-🔞無碼_8436,#genre#
+
+內測_8436,#genre#
 carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
 carib-004,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
 carib-146,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
@@ -870,7 +871,8 @@ pondo-613,https://fc.maa1808.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
 pondo-618,https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
 pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 pondo-793,https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
-🔞番號_8436,#genre#
+
+未整理_8436,#genre#
 AARM-046,https://t15.cdn2020.com:12339/video/m3u8/2022/01/20/fa9172db/index.m3u8
 AARM-066,https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/e61cb482/index.m3u8
 ABP-287,https://t17.cdn2020.com:12341/video/m3u8/2022/03/31/19d5be2b/index.m3u8
