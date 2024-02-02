@@ -1,4 +1,4 @@
-🇹🇼台灣综合,#genre#
+🇹🇼台湾综合,#genre#
 中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8			
 中天新闻,http://lzoq.hk3.20212021.ml.cdn.cloudflare.net/daili/ytb.php?id=WPfPjbOLNfE			
@@ -28,8 +28,8 @@ http://162.19.247.76:22222/live/huashi/index.m3u8
 公视,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0			
 公视,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0			
 公视3台,mitv://generationnexxxt.com:19806/95f2ed538e044aac891abfe6a9ce6ba7
-MOMO購物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-MOMO購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+MOMO购物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+MOMO购物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 国家地理野生,mitv://generationnexxxt.com:19806/22f75ace87a545aab39a2e4cd244bbad
 国家地理,mitv://generationnexxxt.com:19806/37a44d0af7634364a91f2fb8d9b9cf9b
 DISCOVERY,mitv://generationnexxxt.com:19806/9f2e92df32b34a569ad7e6818f4732fb
@@ -291,25 +291,25 @@ Love Nature,mitv://generationnexxxt.com:19806/574be1e2e0054216abe436413ea4221a
 东森洋片,http://107.151.203.111:2209/135/hk.php?id=dsypt
 东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-東森yoyo,http://sc2022.stream-link.org/tv2306.php?id=t26
-中天新聞,http://sc2022.stream-link.org/tv2306.php?id=t03
-華視新聞,http://sc2022.stream-link.org/tv2306.php?id=t04
-民視新聞,http://sc2022.stream-link.org/tv2306.php?id=t06
-寰宇國際新聞,http://sc2022.stream-link.org/tv2306.php?id=t07
-寰宇台灣新聞,http://sc2022.stream-link.org/tv2306.php?id=t08
-台視新聞,http://sc2022.stream-link.org/tv2306.php?id=t12
-中天亞洲台,http://sc2022.stream-link.org/tv2306.php?id=t15
-民視HD,http://sc2022.stream-link.org/tv2306.php?id=t17
-民視台灣台,http://sc2022.stream-link.org/tv2306.php?id=t19
-民視影劇台,http://sc2022.stream-link.org/tv2306.php?id=t21
-民視旅遊台,http://sc2022.stream-link.org/tv2306.php?id=t22
+东森yoyo,http://sc2022.stream-link.org/tv2306.php?id=t26
+中天新闻,http://sc2022.stream-link.org/tv2306.php?id=t03
+华视新闻,http://sc2022.stream-link.org/tv2306.php?id=t04
+民视新闻,http://sc2022.stream-link.org/tv2306.php?id=t06
+寰宇国际新闻,http://sc2022.stream-link.org/tv2306.php?id=t07
+寰宇台湾新闻,http://sc2022.stream-link.org/tv2306.php?id=t08
+台视新闻,http://sc2022.stream-link.org/tv2306.php?id=t12
+中天亚洲台,http://sc2022.stream-link.org/tv2306.php?id=t15
+民视HD,http://sc2022.stream-link.org/tv2306.php?id=t17
+民视台湾台,http://sc2022.stream-link.org/tv2306.php?id=t19
+民视影剧台,http://sc2022.stream-link.org/tv2306.php?id=t21
+民视旅游台,http://sc2022.stream-link.org/tv2306.php?id=t22
 天才衝衝衝,http://sc2022.stream-link.org/tv2306.php?id=t25
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+东森超视34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
@@ -329,13 +329,13 @@ TVBS新闻 HD+,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 无线新闻,http://107.167.12.58:27347/livehttpplay?channel_id=30024
-TVBS財經,http://sc2022.stream-link.org/tv2306.php?id=t14
-TVBS亞洲台,http://sc2022.stream-link.org/tv2306.php?id=t16
+TVBS财经,http://sc2022.stream-link.org/tv2306.php?id=t14
+TVBS亚洲台,http://sc2022.stream-link.org/tv2306.php?id=t16
 TVBS星河,http://r.jdshipin.com/sXuuD
 TVB华语,http://sc2022.stream-link.org/tv2306.php?id=c01
 TVB星河,http://sc2022.stream-link.org/tv2306.php?id=c02
 TVBS亚洲台,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 无线新闻台,http://sc2022.stream-link.org/tv2306.php?id=h04
@@ -358,19 +358,19 @@ TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 民视台湾台 HD+,http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
 民视 HD+,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 东森新闻,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
-三立新聞,http://sc2022.stream-link.org/tv2306.php?id=t10
-三立台灣,http://sc2022.stream-link.org/tv2306.php?id=t23
-三立台灣,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
-三立都會,http://sc2022.stream-link.org/tv2306.php?id=t24
-三立都會,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
+三立新闻,http://sc2022.stream-link.org/tv2306.php?id=t10
+三立台湾,http://sc2022.stream-link.org/tv2306.php?id=t23
+三立台湾,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
+三立都会,http://sc2022.stream-link.org/tv2306.php?id=t24
+三立都会,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 TW台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 TW台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
-人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 中天新闻,http://194.87.101.118:9501/live.m3u8?c=1
 中天亚洲,http://194.87.101.118:9501/live.m3u8?c=3
@@ -1109,7 +1109,7 @@ TVBS欢乐HD,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享�
 龙华戏剧台,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--32
 龙华日韩剧,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--33
 龙华偶像剧,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--34
-纬來日本HD,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--35
+纬来日本HD,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--35
 Taiwan Plus,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--36
 年代新闻,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--37
 东森新闻HD,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--38
