@@ -1,5 +1,6 @@
 muban.mxone5.二级.desc = '.video-info-items:eq(3)&&Text;;;.video-info-actor:eq(1)&&Text;.video-info-actor:eq(0)&&Text';
 muban.mxone5.二级.content = '.sqjj_a--span&&Text';
+muban.mxone5.二级.tab_text = 'body--small&&Text';
 var rule={
 	title:'四个圈影视',
 	host:'https://pg.fenwe078.cf',
@@ -22,6 +23,23 @@ var rule={
 	},
 	searchUrl:'/index.php/vod/search/page/fypage/wd/**.html',
 	class_parse:'.nav-menu-items&&li.nav-menu-item;a--i&&Text;a&&href;.*/(.*?).html',
-	lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=='1'){url=unescape(url)}else if(html.encrypt=='2'){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}",
+	lazy:`js:
+		var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+		var url = html.url;
+		if (html.encrypt == '1') {
+			url = unescape(url)
+		} else if (html.encrypt == '2') {
+			url = unescape(base64Decode(url))
+		}
+		if (/\\.m3u8|\\.mp4/.test(url)) {
+			input = {
+				jx: 0,
+				url: url,
+				parse: 0
+			}
+		} else {
+			input
+		}
+	`,
 	搜索: '.module-items .module-search-item;.video-serial&&title;img&&data-src;.video-serial&&Text;.video-serial&&href;.video-serial&&Text',
 }

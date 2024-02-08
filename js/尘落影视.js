@@ -1,7 +1,6 @@
 // 导航站 https://www.chenluo.wang
 var rule={
     title:'尘落影视',
-    // host:'http://v.zzdacou.cn',
     host:'https://www.chenluo.wang',
     hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"#good&&li:eq(0)&&a&&href");print(src);HOST=src',
     // url:'/whole/fyclass_______0_addtime_fypage.html',
@@ -22,7 +21,24 @@ var rule={
     },
     class_parse: '.navbar-nav&&li;a&&Text;a&&href;/(\\d+).html',
     play_parse:true,
-    lazy:'js:let purl=jsp.pdfh(request(input),"iframe&&src");input={jx:0,url:purl,parse:1}',
+    // lazy:'js:let purl=jsp.pdfh(request(input),"iframe&&src");input={jx:0,url:purl,parse:1}',
+	lazy:`js:
+		input = jsp.pdfh(request(input), "iframe&&src").split('url=')[1];
+        if (/youku|iqiyi|v\\.qq\\.com|pptv|sohu|le\\.com|1905\\.com|mgtv|bilibili|ixigua/.test(input)) {
+			let play_Url = /bilibili/.test(input) ? 'https://jx.xmflv.com/?url=' : 'https://jx.777jiexi.com/player/?url='; // type0的parse
+			input = {
+				jx: 0,
+				url: input,
+				playUrl: play_Url,
+				parse: 1,
+				header: JSON.stringify({
+					'user-agent': 'Mozilla/5.0',
+				}),
+			}
+		} else {
+			input
+		}
+	`,
     limit:6,
     推荐:'*',
     一级:'.movie-item-in;a&&title;img&&src;.qtag&&Text;a&&href',

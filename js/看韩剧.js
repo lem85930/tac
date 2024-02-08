@@ -1,5 +1,6 @@
 muban.首图.二级.title = 'h1&&Text;.data--span:eq(5)&&Text';
 muban.首图.二级.desc = '.data:eq(4)&&Text;;;.data--span:eq(3)&&Text;.data--span:eq(2)&&Text';
+muban.首图.二级.lists = '.myui-content__list:eq(#id) li:not(:matches(APP秒播))';
 var rule={
     title:'看韩剧',
     模板:'首图',
@@ -19,23 +20,21 @@ var rule={
         "User-Agent":"MOBILE_UA",
         "Cookie":"_funcdn_token=15ecdee338f7976141723bc370d27780861128baf03c8ad523ee358d77eb6848;Hm_lvt_193d42d6df9341f3a303004df15e3f0d=1666062561;_clck=jtnlof|1|f5t|0;_clsk=1qend98|1666062751559|7|1|h.clarity.ms/collect;Hm_lpvt_193d42d6df9341f3a303004df15e3f0d=1666062756"
     },
-    // class_parse:'.myui-header__menu&&li:gt(0):lt(6);a--span&&Text;a&&href;/(.*?)/',
     class_parse:'div.myui-panel__head.clearfix;h2&&Text;a&&href;.*/(\\d+).html',
     lazy:`js:
-        pd = jsp.pd;
-        var html = pd(request(input), 'iframe&&src');
-        try {
-            var url = request(html).match(/r url = '(.*?)'/)[1];
-        } catch (e) {
-            var url = pd(request(html), 'iframe&&src');
-        }
-        if (/m3u8|mp4/.test(url)) {
-            input = url
-        } else if (/share/.test(url)) {
-            var purl = JSON.parse(request(url).match(/playlist = '\\[(.*?)\\]'/)[1]).url;
-            input = urljoin2(url, purl)
+        let html = request(input);
+        let url = unescape(html.match(/var now=unescape\\("(.*?)"/)[1]);
+        let pn = html.match(/var pn="(.*?)"/)[1];
+        let jx = 'https://jiexi.ddmz6.com/api/publicApi.php?url=';
+        if (/无尽/.test(pn)) {
+            url = urljoin2(url, request(url).match(/var main = "(.*?)"/)[1])
         } else {
-            input
+            url = request(jx + url + '&code=' + pn).match(/var url = '(.*?)'/)[1]
+        }
+        input = {
+            jx: 0,
+            url: url,
+            parse: 0
         }
     `,
     搜索: '.myui-vodlist__media.clearfix li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href;.text-muted:eq(-1)&&Text',

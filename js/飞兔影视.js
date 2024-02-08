@@ -29,4 +29,22 @@ var rule={
     searchUrl:'/search/**-fypage/',
 	class_parse: 'body&&.hl-nav li:gt(0);a&&Text;a&&href;.*/(\\d+)/',
     cate_exclude:'成人影院',
+    lazy:`js:
+        var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+        var url = html.url;
+        if (html.encrypt == '1') {
+            url = unescape(url)
+        } else if (html.encrypt == '2') {
+            url = unescape(base64Decode(url))
+        }
+        if (/\\.m3u8|\\.mp4/.test(url)) {
+            input = {
+                jx: 0,
+                url: url,
+                parse: 0
+            }
+        } else {
+            input
+        }
+    `,
 }

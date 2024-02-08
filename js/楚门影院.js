@@ -23,5 +23,22 @@ var rule = {
 		51:{cateId:'51'}
 	},
 	class_parse: '.myui-header__menu .hidden-sm:gt(0):lt(6);a&&Text;a&&href;/(\\d+).html',
-	lazy:"js:let html=request(input);input=jsp.pd(html,'.embed-responsive&&iframe&&src')",
+	lazy:`js:
+		var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+		var url = html.url;
+		if (html.encrypt == '1') {
+			url = unescape(url)
+		} else if (html.encrypt == '2') {
+			url = unescape(base64Decode(url))
+		}
+		if (/\\.m3u8|\\.mp4/.test(url)) {
+			input = {
+				jx: 0,
+				url: url,
+				parse: 0
+			}
+		} else {
+			input
+		}
+	`,
 }

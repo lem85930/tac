@@ -1,6 +1,6 @@
 var rule={
     title:'异世界动漫',
-    host:'http://www.ysjdm.net',
+    host:'https://www.lldm.net',
     homeUrl:'/index.php/vod/show/id/22.html',
     // url:'/index.php/vod/show/class/fyclass/id/20/page/fypage.html',
     url:'/index.php/vod/show/fyclassfyfilter.html',
@@ -41,14 +41,18 @@ var rule={
             if (jx.startsWith("/")) {
                 jx = "https:" + jx;
             }
-            input={jx:0,url:jx+url,parse:1,
+            input={
+                jx:0,
+                url:jx+url,
+                parse:1,
                 header: JSON.stringify({
-                    'referer': 'https://ysjdm.net/'
-                })}
+                    'referer': HOST
+                })
+            }
         }
     `,
     limit:6,
-    图片来源:'@Referer=https://api.douban.com/@User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/113.0.0.0%20Safari/537.36',
+    // 图片来源:'@Referer=https://api.douban.com/@User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/113.0.0.0%20Safari/537.36',
     推荐:'*',
     一级:'.vodlist_wi&&li;.lazyload&&title;.lazyload&&data-original;.pic_text&&Text;a&&href',
     二级:{
@@ -56,9 +60,15 @@ var rule={
         "img": ".lazyload&&data-original",
         "desc": "li.data--span:eq(1)&&Text;;;li.data--span:eq(2)&&Text;li.data--span:eq(3)&&Text",
         "content": ".full_text&&span&&Text",
-        "tabs": ".play_source_tab",
-        "tab_text": "a--i&&Text",
-        "lists": ".content_playlist:eq(#id)&&a"
+        "tabs": `js:
+            TABS = [];
+            let tabs = pdfa(html, '#NumTab&&a');
+            tabs.forEach((it) => {
+                TABS.push(pdfh(it, 'a&&alt'))
+            });
+        `,
+        // "lists": ".content_playlist:not(.list_scroll):eq(#id) a"
+        "lists": "div.playlist_full:eq(#id) li"
     },
     搜索:'li.searchlist_item;*;*;*;*',
 }

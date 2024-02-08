@@ -22,7 +22,16 @@ var rule = {
 	},
 	class_parse:'.container&&.tag.text-light;a&&Text;a&&href;.*/(.*?).html',
 	play_parse: true,
-	lazy:'js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;var from=html.from;if(/m3u8/.test(url)){input=url.split("&")[0]}else{input}',
+	lazy:`js:
+		var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+		var url = html.url;
+		var from = html.from;
+		if (/m3u8/.test(url)) {
+			input = url.split("&")[0]
+		} else {
+			input
+		}
+	`,
 	limit: 6,
 	推荐:'.owl-theme-jable .item;*;*;*;*',
 	一级:'#mdym .col-6;h6&&Text;.lazyload&&data-src;.label&&Text;a&&href',

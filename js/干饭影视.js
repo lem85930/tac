@@ -63,8 +63,9 @@ var rule = {
             }
         }
     `,
-    double: false, // 推荐内容是否双层定位
-    推荐: '.tab-content&&li;*;*;;*',
+    double: true, // 推荐内容是否双层定位
+    // 推荐: '.tab-content:gt(0)&&li;*;*;;*',
+    推荐: '.ewave-vodlist;li;*;*;;*',
     一级: '.ewave-vodlist&&li;.lazyload&&title;.lazyload&&data-original;;a&&href',
     二级: {
         "title": "h1&&Text;.data--span:eq(0)&&Text",

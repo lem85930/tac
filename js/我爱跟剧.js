@@ -19,7 +19,7 @@ var rule={
         "yinyue":[{"key":"class","name":"剧情","value":[{"n":"全部","v":""},{"n":"MV","v":"MV"},{"n":"演唱会","v":"演唱会"},{"n":"音频","v":"音频"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"大陆","v":"大陆"},{"n":"韩国","v":"韩国"},{"n":"香港","v":"香港"},{"n":"台湾","v":"台湾"}]},{"key":"lang","name":"语言","value":[{"n":"全部","v":""},{"n":"韩语","v":"韩语"},{"n":"粤语","v":"粤语"},{"n":"日语","v":"日语"},{"n":"英语","v":"英语"},{"n":"泰语","v":"泰语"},{"n":"国语","v":"国语"}]},{"key":"year","name":"时间","value":[{"n":"全部","v":""},{"n":"2024","v":"2024"},{"n":"2023","v":"2023"},{"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},{"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},{"n":"2014","v":"2014"}]},{"key":"letter","name":"字母","value":[{"n":"全部","v":""},{"n":"A","v":"A"},{"n":"B","v":"B"},{"n":"C","v":"C"},{"n":"D","v":"D"},{"n":"E","v":"E"},{"n":"F","v":"F"},{"n":"G","v":"G"},{"n":"H","v":"H"},{"n":"I","v":"I"},{"n":"J","v":"J"},{"n":"K","v":"K"},{"n":"L","v":"L"},{"n":"M","v":"M"},{"n":"N","v":"N"},{"n":"O","v":"O"},{"n":"P","v":"P"},{"n":"Q","v":"Q"},{"n":"R","v":"R"},{"n":"S","v":"S"},{"n":"T","v":"T"},{"n":"U","v":"U"},{"n":"V","v":"V"},{"n":"W","v":"W"},{"n":"X","v":"X"},{"n":"Y","v":"Y"},{"n":"Z","v":"Z"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}]
     },
     class_parse: '.nav-menu-items:eq(1)&&li.grid-item:lt(8);a&&Text;a&&href;.*/(.*?).html',
-	lazy:`js:
+    lazy:`js:
         var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
         var url = html.url;
         if (html.encrypt == '1') {
@@ -27,15 +27,19 @@ var rule={
         } else if (html.encrypt == '2') {
             url = unescape(base64Decode(url))
         }
-        if (/m3u8|mp4/.test(url)) {
-            input = url
+        if (/\\.m3u8|\\.mp4/.test(url)) {
+            input = {
+                jx: 0,
+                url: url,
+                parse: 0
+            }
         } else {
             input
         }
     `,
 
     // searchUrl:'/vodsearch/**----------fypage---.html',
-    searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
+    searchUrl:'/index.php/ajax/suggest?mid=1&wd=**&limit=50',
     detailUrl:'/video/fyid.html', //非必填,二级详情拼接链接
     搜索:'json:list;name;pic;;id',
 }

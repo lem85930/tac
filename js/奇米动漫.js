@@ -1,4 +1,3 @@
-
 var rule={
 	title:'奇米动漫',
 	host:'http://www.qimiqimi.net',
@@ -18,7 +17,24 @@ var rule={
 	class_parse: '#nav li;a&&Text;a&&href;.*/(\\w+).html',
 	cate_exclude:'番组专题|最近更新',
 	play_parse: true,
-	lazy:'',
+	lazy:`js:
+		var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+		var url = html.url;
+		if (html.encrypt == '1') {
+			url = unescape(url)
+		} else if (html.encrypt == '2') {
+			url = unescape(base64Decode(url))
+		}
+		if (/\\.m3u8|\\.mp4/.test(url)) {
+			input = {
+				jx: 0,
+				url: url,
+				parse: 0
+			}
+		} else {
+			input
+		}
+	`,
 	limit:6,
 	推荐:'*;*;*;.text&&Text;*',
 	一级:'.img-list li;a&&title;img&&src;i&&Text;a&&href',
