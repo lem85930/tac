@@ -449,73 +449,73 @@
 081博斯运动二,mitv://generationnexxxt.com:19806/cbd52c51fbab49ae9b3bc0da9137f681
 081博斯运动一,http://154.216.191.59/ycdz/tw220.php?id=34
 087智林体育,mitv://generationnexxxt.com:19806/931c171e2f774f7aa1a92e97f5098c9f
-090HBO强档巨献,mitv://generationnexxxt.com:19806/563a5981b8ad4df085b59ce98bbecb95
-091HBO原创巨献,mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
-092龙华电影,mitv://generationnexxxt.com:19806/1df6f5f0993a46faa17f676518654709
-092龙华电影,http://193.233.206.48:8090/live/rx1/311/cef4866f7bb3ac07d6d4e0c5d4174455/index.m3u8
-092龙华电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
-092龙华电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-093靖天电影,mitv://generationnexxxt.com:19806/d8c581e0e1a24823a3d2110e3584ef8b
-093靖天电影,http://193.233.206.48:8090/live/rx1/110/1e57e8294bfbc464a5295c183435df22/index.m3u8
-094美亚电影,mitv://generationnexxxt.com:19806/a850e570b868424c94319a2652ca7c62
-094美亚电影,http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
-094美亚电影,http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
-094美亚电影,http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
-094美亚电影,http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
-094美亚电影,http://ceshi.huanqiuzhibo.cn/accv.php?id=meiyamovie_twn
-094美亚电影,http://193.233.206.48:8090/live/rx1/375/743e329e59dcc0b3466afb0d88941616/index.m3u8
-094美亚电影,http://66.181.39.224/ml.php?id=meiyamovie_twn
-095星卫电影,mitv://generationnexxxt.com:19806/832bfeb4b3b84dd2a7428f9db69504eb
-095星卫电影,http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
-095星卫电影,http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-095星卫电影,http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
-095星卫电影,http://ceshi.huanqiuzhibo.cn/accv.php?id=xingwei_movie
-095星卫电影,http://193.233.206.48:8090/live/rx1/496/b7004c37c7d01d12a50e1176101dfa05/index.m3u8
-095星卫电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
-095星卫电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-095星卫电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
-095星卫电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-095星卫电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?ct=17874&tid=ma80888ed462f18082236&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-096靖天映画,mitv://generationnexxxt.com:19806/b723859f3ed94e5ba712148b209eefd0
-096靖天映画,http://193.233.206.48:8090/live/rx1/349/f05b14b78f119dead4e637745eb74dcc/index.m3u8
-097WARNER TV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
-098HBO Family,mitv://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
-099壹电视电影,mitv://generationnexxxt.com:19806/1be1329b6d124745a87a16de445d2352
-100影迷数位电影,mitv://generationnexxxt.com:19806/bc069c037478448a9e41dbc3e1d5d0f6
-100影迷数位电影,http://193.233.206.48:8090/live/rx2/497/992bce881fb7742d7470143b32fc849a/index.m3u8
-100影迷数位电影,http://193.233.206.48:8090/live/rx1/2800/5a0a263648417e13d81281e5bbe357c4/index.m3u8
-101爱尔达影剧,mitv://generationnexxxt.com:19806/932d4522f2294c6a926b7ab8027c269f
-101爱尔达影剧,http://ceshi.huanqiuzhibo.cn/accv.php?id=eltayingju_twn
-101爱尔达影剧,http://193.233.206.48:8090/live/rx1/500/841eb93370d3248e65322dade3494e95/index.m3u8
-101爱尔达影剧,http://50.7.238.114:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
-101爱尔达影剧,http://50.7.238.114:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
-102中视新闻,mitv://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
-102中视新闻,https://yt-stream.livednow.com/stream/TCnaIE_SAtM/master.m3u8
-102中视新闻,http://www.terrykang.xyz:35455/youtube/TCnaIE_SAtM
-102中视新闻,http://gwtv.cnv8.tv:8097/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
-102中视新闻,http://ceshi.huanqiuzhibo.cn/accv.php?id=zhongshinews_twn
-102中视新闻,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
-102中视新闻,http://194.87.101.118:9501/live.m3u8?c=6
-103台视新闻,mitv://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
-103台视新闻,https://yt-stream.livednow.com/stream/xL0ch83RAK8/master.m3u8
-103台视新闻,http://www.terrykang.xyz:35455/youtube/xL0ch83RAK8
-103台视新闻,http://sc2022.stream-link.org/tv2306.php?id=t12
-103台视新闻,http://ceshi.huanqiuzhibo.cn/accv.php?id=ttvnews_twn
-103台视新闻,http://198.16.100.90:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
-103台视新闻,http://194.87.101.118:9501/live.m3u8?c=4
-104台视财经,mitv://generationnexxxt.com:19806/e01d7738e33e456a812f7cefbf27b29a
-104台视财经,http://193.233.206.48:8090/live/rx1/300/63f777d39e71741c3b3cce1682eb3f3f/index.m3u8
-105NHK新闻资讯,mitv://generationnexxxt.com:19806/c2da55d84a72418c8f1876c25ec97a1d
-106BBC Earth,mitv://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
-106BBC Earth,http://gwtv.cnv8.tv:8097/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
-106BBC EarthTamil,http://gwtv.cnv8.tv:8097/bbcearthtam_raj/playlist.m3u8?tid=MF2F6939094669390946&ct=19254&tsum=7f5b392d1da73ab5861f925702fa1da0
-106BBC EARTH,http://193.233.206.48:8090/live/rx1/97/45791103e695b39e6e578129630cb50a/index.m3u8
-106BBC First,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-106BBC Lifestyle,mitv://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
-106BBC Lifestyle,http://193.233.206.48:8090/live/rx1/424/921ea97a306d179c99f747a4d39978fb/index.m3u8
-106BBC World News,mitv://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
-106BBC WorldNews,http://gwtv.cnv8.tv:8097/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
-106BBC WorldNews,http://gwtv.cnv8.tv:8097/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+096HBO强档巨献,mitv://generationnexxxt.com:19806/563a5981b8ad4df085b59ce98bbecb95
+097HBO原创巨献,mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
+098龙华电影,mitv://generationnexxxt.com:19806/1df6f5f0993a46faa17f676518654709
+098龙华电影,http://193.233.206.48:8090/live/rx1/311/cef4866f7bb3ac07d6d4e0c5d4174455/index.m3u8
+098龙华电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+098龙华电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+099靖天电影,mitv://generationnexxxt.com:19806/d8c581e0e1a24823a3d2110e3584ef8b
+099靖天电影,http://193.233.206.48:8090/live/rx1/110/1e57e8294bfbc464a5295c183435df22/index.m3u8
+100美亚电影,mitv://generationnexxxt.com:19806/a850e570b868424c94319a2652ca7c62
+100美亚电影,http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+100美亚电影,http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
+100美亚电影,http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+100美亚电影,http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
+100美亚电影,http://ceshi.huanqiuzhibo.cn/accv.php?id=meiyamovie_twn
+100美亚电影,http://193.233.206.48:8090/live/rx1/375/743e329e59dcc0b3466afb0d88941616/index.m3u8
+100美亚电影,http://66.181.39.224/ml.php?id=meiyamovie_twn
+101星卫电影,mitv://generationnexxxt.com:19806/832bfeb4b3b84dd2a7428f9db69504eb
+101星卫电影,http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+101星卫电影,http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+101星卫电影,http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
+101星卫电影,http://ceshi.huanqiuzhibo.cn/accv.php?id=xingwei_movie
+101星卫电影,http://193.233.206.48:8090/live/rx1/496/b7004c37c7d01d12a50e1176101dfa05/index.m3u8
+101星卫电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+101星卫电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+101星卫电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
+101星卫电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+101星卫电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?ct=17874&tid=ma80888ed462f18082236&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+102星卫电影,mitv://generationnexxxt.com:19806/b723859f3ed94e5ba712148b209eefd0
+102星卫电影,http://193.233.206.48:8090/live/rx1/349/f05b14b78f119dead4e637745eb74dcc/index.m3u8
+103WARNER TV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
+104HBO Family,mitv://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
+105壹电视电影,mitv://generationnexxxt.com:19806/1be1329b6d124745a87a16de445d2352
+106影迷数位电影,mitv://generationnexxxt.com:19806/bc069c037478448a9e41dbc3e1d5d0f6
+106影迷数位电影,http://193.233.206.48:8090/live/rx2/497/992bce881fb7742d7470143b32fc849a/index.m3u8
+106影迷数位电影,http://193.233.206.48:8090/live/rx1/2800/5a0a263648417e13d81281e5bbe357c4/index.m3u8
+107爱尔达影剧,mitv://generationnexxxt.com:19806/932d4522f2294c6a926b7ab8027c269f
+107爱尔达影剧,http://ceshi.huanqiuzhibo.cn/accv.php?id=eltayingju_twn
+107爱尔达影剧,http://193.233.206.48:8090/live/rx1/500/841eb93370d3248e65322dade3494e95/index.m3u8
+107爱尔达影剧,http://50.7.238.114:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
+107爱尔达影剧,http://50.7.238.114:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+108中视新闻,mitv://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
+108中视新闻,https://yt-stream.livednow.com/stream/TCnaIE_SAtM/master.m3u8
+108中视新闻,http://www.terrykang.xyz:35455/youtube/TCnaIE_SAtM
+108中视新闻,http://gwtv.cnv8.tv:8097/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
+108中视新闻,http://ceshi.huanqiuzhibo.cn/accv.php?id=zhongshinews_twn
+108中视新闻,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
+108中视新闻,http://194.87.101.118:9501/live.m3u8?c=6
+109台视新闻,mitv://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
+109台视新闻,https://yt-stream.livednow.com/stream/xL0ch83RAK8/master.m3u8
+109台视新闻,http://www.terrykang.xyz:35455/youtube/xL0ch83RAK8
+109台视新闻,http://sc2022.stream-link.org/tv2306.php?id=t12
+109台视新闻,http://ceshi.huanqiuzhibo.cn/accv.php?id=ttvnews_twn
+109台视新闻,http://198.16.100.90:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+109台视新闻,http://194.87.101.118:9501/live.m3u8?c=4
+110台视财经,mitv://generationnexxxt.com:19806/e01d7738e33e456a812f7cefbf27b29a
+110台视财经,http://193.233.206.48:8090/live/rx1/300/63f777d39e71741c3b3cce1682eb3f3f/index.m3u8
+111NHK新闻资讯,mitv://generationnexxxt.com:19806/c2da55d84a72418c8f1876c25ec97a1d
+112BBC Earth,mitv://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
+112BBC Earth,http://gwtv.cnv8.tv:8097/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
+112BBC EarthTamil,http://gwtv.cnv8.tv:8097/bbcearthtam_raj/playlist.m3u8?tid=MF2F6939094669390946&ct=19254&tsum=7f5b392d1da73ab5861f925702fa1da0
+112BBC EARTH,http://193.233.206.48:8090/live/rx1/97/45791103e695b39e6e578129630cb50a/index.m3u8
+112BBC First,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+112BBC Lifestyle,mitv://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
+112BBC Lifestyle,http://193.233.206.48:8090/live/rx1/424/921ea97a306d179c99f747a4d39978fb/index.m3u8
+112BBC World News,mitv://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
+112BBC WorldNews,http://gwtv.cnv8.tv:8097/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
+112BBC WorldNews,http://gwtv.cnv8.tv:8097/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 猪哥亮歌厅秀,http://193.233.206.48:8090/live/rx1/75/8b6dabcf4e721a0328124a5d12cc3ec9/index.m3u8
 中天亚洲,http://sc2022.stream-link.org/tv2306.php?id=t15
 中天亚洲,http://gwtv.cnv8.tv:8097/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
