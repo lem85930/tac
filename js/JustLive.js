@@ -71,7 +71,7 @@ var rule = {
         html.forEach(it => {
             d.push({
                 title: it.roomName,
-                desc: it.ownerName,
+                desc: '👁' + it.online + '  🆙' + it.ownerName,
                 pic_url: it.roomPic,
                 url: it.platForm + '|' + it.roomId
             });
@@ -90,7 +90,7 @@ var rule = {
         html.forEach(it => {
             d.push({
                 title: it.roomName,
-                desc: it.ownerName,
+                desc: '👁' + it.online + '  🆙' + it.ownerName,
                 pic_url: it.roomPic,
                 url: it.platForm + '|' + it.roomId
             });
@@ -98,49 +98,104 @@ var rule = {
         setResult(d);
     `,
     二级: `js:
-        var d = [];
-        if (typeof play_url === "undefined") {
-            var play_url = ""
-        }
-        let platform = input.split("|")[0].replace(HOST+'/','');
-        let roomId = input.split("|")[1];
-        let link = HOST + '/api/live/getRoomInfo?uid=&platform=' + platform + '&roomId=' + roomId;
-        var jo = JSON.parse(request(link)).data;
-        VOD = {
-            vod_id: jo.roomId,
-            vod_name: jo.roomName,
-            vod_pic: jo.roomPic,
-            type_name: jo.platForm.replace("huya", "虎牙").replace("douyu", "斗鱼").replace("cc", "网易CC").replace("bilibili", "哔哩哔哩").replace("douyin", "抖音") + "." + jo.categoryName,
-            vod_content: "🏷分区：" + jo.platForm.replace("huya", "虎牙").replace("douyu", "斗鱼").replace("cc", "网易CC").replace("bilibili", "哔哩哔哩").replace("douyin", "抖音") + "·" + jo.categoryName + " 🏷UP主：" + jo.ownerName + " 🏷人气：" + jo.online + (jo.isLive === 1 ? " 🏷状态：正在直播" : "状态：未开播")
-        };
-        var playurl = JSON.parse(request("http://live.yj1211.work/api/live/getRealUrl?platform=" + jo.platForm + "&roomId=" + jo.roomId)).data;
-        var name = {
-            "OD": "原画",
-            "FD": "流畅",
-            "LD": "标清",
-            "SD": "高清",
-            "HD": "超清",
-            "2K": "2K",
-            "4K": "4K",
-            "FHD": "全高清",
-            "XLD": "极速",
-            "SQ": "普通音质",
-            "HQ": "高音质"
-        };
-        Object.keys(playurl).forEach(function(key) {
-            if (!/ayyuid|to/.test(key)) {
-                d.push({
-                    title: name[key],
-                    url: playurl[key]
-                })
+        try {
+            if (typeof play_url === "undefined") {
+                var play_url = ""
             }
-        });
-        VOD.vod_play_from = "选择画质";
-        VOD.vod_play_url = d.map(function(it) {
-            // return it.title + "$" + it.url
-            return it.title + "$" + play_url + urlencode(it.url + "|" + jo.platForm + "|" + jo.roomId)
-        }).join("#");
-        setResult(d)
+            let platform = input.split("|")[0].replace(HOST+'/','');
+            let roomId = input.split("|")[1];
+            let link = HOST + '/api/live/getRoomInfo?uid=&platform=' + platform + '&roomId=' + roomId;
+            var jo = JSON.parse(request(link)).data;
+            VOD = {
+                vod_id: jo.roomId,
+                vod_name: jo.roomName,
+                vod_pic: jo.roomPic,
+                type_name: jo.platForm.replace("huya", "虎牙").replace("douyu", "斗鱼").replace("cc", "网易CC").replace("bilibili", "哔哩哔哩").replace("douyin", "抖音") + "." + jo.categoryName,
+                vod_director: '🆙 ' + jo.ownerName,
+                vod_content: "🏷分区：" + jo.platForm.replace("huya", "虎牙").replace("douyu", "斗鱼").replace("cc", "网易CC").replace("bilibili", "哔哩哔哩").replace("douyin", "抖音") + "·" + jo.categoryName + " 🏷UP主：" + jo.ownerName + " 🏷人气：" + jo.online + (jo.isLive === 1 ? " 🏷状态：正在直播" : "状态：未开播")
+            };
+            let episodes = JSON.parse(request("http://live.yj1211.work/api/live/getRealUrlMultiSource?platform=" + jo.platForm + "&roomId=" + jo.roomId)).data; //多线路
+            if (Object.keys(episodes).length !== 0) {
+                let playFrom = [];
+                let playList = [];
+                let kplayList = [];
+                Object.keys(episodes).forEach(function(key) {
+                    playFrom.append(key);
+                    kplayList = episodes[key].map(function(it) {
+                        let title = it.qualityName;
+                        let playUrl = it.playUrl
+                        // return title + "$" + play_url + urlencode(playUrl)
+                        return title + "$" + play_url + urlencode(playUrl + "|" + jo.platForm + "|" + jo.roomId)
+                    }).join("#")
+                    playList.append(kplayList);
+                });
+                let vod_play_from = playFrom.join("$$$");
+                let vod_play_url = playList.join("$$$");
+                VOD["vod_play_from"] = vod_play_from;
+                VOD["vod_play_url"] = vod_play_url;
+            } else {
+                var d = [];
+                episodes = JSON.parse(request("http://live.yj1211.work/api/live/getRealUrl?platform=" + jo.platForm + "&roomId=" + jo.roomId)).data; //单线路
+                var name = {
+                    "OD": "原画",
+                    "FD": "流畅",
+                    "LD": "标清",
+                    "SD": "高清",
+                    "HD": "超清",
+                    "2K": "2K",
+                    "4K": "4K",
+                    "FHD": "全高清",
+                    "XLD": "极速",
+                    "SQ": "普通音质",
+                    "HQ": "高音质"
+                };
+                Object.keys(episodes).forEach(function(key) {
+                    if (!/ayyuid|to/.test(key)) {
+                        d.push({
+                            title: name[key],
+                            url: episodes[key]
+                        })
+                    }
+                });
+                d.push(
+                    {
+                        title: "解析1",
+                        url: "http://epg.112114.xyz/huya/" + jo.roomId
+                    },
+                    {
+                        title: "解析2",
+                        url: "https://www.aois.eu.org/live/huya/" + jo.roomId
+                    },
+                    {
+                        title: "解析3",
+                        url: "https://www.goodiptv.club/huya/" + jo.roomId
+                    },
+                    {
+                        title: "解析4",
+                        url: "http://maomao.kandiantv.cn/huya1.php?id=" + jo.roomId
+                    },
+                    {
+                        title: "解析5",
+                        url: "http://43.138.170.29:35455/huya/" + jo.roomId
+                    },
+                    {
+                        title: "解析6",
+                        url: "http://8.210.232.168/php/huya.php?id=" + jo.roomId
+                    },
+                    {
+                        title: "虎牙解析",
+                        url: "http://cfss.cc/cdn/hy/" + jo.roomId + ".flv"
+                    },
+                );
+                VOD["vod_play_from"] = "选择画质";
+                VOD["vod_play_url"] = d.map(function(it) {
+                    return it.title + "$" + play_url + urlencode(it.url + "|" + jo.platForm + "|" + jo.roomId)
+                }).join("#");
+                setResult(d);
+            }
+        } catch (e) {
+            log("获取二级详情页发生错误:" + e.message);
+        }
     `,
     搜索: `js:
         var d = [];
@@ -148,11 +203,25 @@ var rule = {
         html.forEach(it => {
             d.push({
                 title: it.roomName,
-                desc: it.ownerName,
+                 desc: '👁' + it.online + '  🆙' + it.ownerName,
                 pic_url: it.roomPic,
                 url: it.platForm + '|' + it.roomId
             });
         })
         setResult(d);
+    `,
+
+    //是否启用辅助嗅探: 1,0
+    sniffer:1,
+    // 辅助嗅探规则js写法
+    isVideo: `js:
+        log(input);
+        if(/\\/huya/.test(input)) {
+            input = true
+        } else if(/\\.flv?|\\.m3u8?|\\.mp4?/.test(input)){
+            input = true
+        }else{
+            input = false
+        }
     `,
 }
