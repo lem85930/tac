@@ -1,5 +1,19 @@
-台湾,#genre#
+🇹🇼台湾综合,#genre#
+中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+中天新闻,http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w
+中天新闻,http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w
+中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+东森购物34,mitv://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
+东森购物34,mitv://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
+东森购物46,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+东森购物46,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+东森购物47,mitv://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
+东森购物47,mitv://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
+东森购物60,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+东森购物60,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 民視 ,p2p://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
+ETtoday综合,mitv://generationnexxxt.com:19806/8e1b32241c9d4d079a2df7dc99adb312
+ETtoday综合,mitv://generationnexxxt.com:19806/8e1b32241c9d4d079a2df7dc99adb312
 台視 ,p2p://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
 大愛 ,p2p://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
 中視 ,p2p://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
