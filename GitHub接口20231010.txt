@@ -10,6 +10,7 @@ https://raw.githubusercontent.com/sqspot/tac/main/bili.js
 
 https://raw.githubusercontent.com/sqspot/tac/main/18.json
 
+https://raw.githubusercontent.com/sqspot/tac/main/總倉.json
 https://raw.githubusercontent.com/sqspot/tac/main/tac倉.js
 https://raw.githubusercontent.com/sqspot/tac/main/其他倉測試.js
 https://raw.githubusercontent.com/sqspot/tac/main/clan倉.js
