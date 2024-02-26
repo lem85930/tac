@@ -1,0 +1,11 @@
+{"urls":[
+{"name":"jshttp(1)","url":"https://raw.githubusercontent.com/sqspot/tac/main/jshttp(1).js"},
+{"name":"jshttp","url":"https://raw.githubusercontent.com/sqspot/tac/main/jshttp.js"},
+{"name":"tac_js","url":"https://raw.githubusercontent.com/sqspot/tac/main/js.json"},
+{"name":"Cat-JS_js","url":"https://raw.githubusercontent.com/sqspot/Cat-JS/main/js.json"},
+{"name":"bili","url":"https://raw.githubusercontent.com/sqspot/tac/main/bili.js"},
+{"name":"18","url":"https://raw.githubusercontent.com/sqspot/tac/main/18.js"},
+{"name":"FongMi_adult","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json"},
+{"name":"test","url":"https://raw.githubusercontent.com/sqspot/tac/main/test.js"},
+{"name":"短劇","url":"https://raw.githubusercontent.com/sqspot/tac/main/短劇.js"}
+]}
