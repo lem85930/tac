@@ -1,8 +1,9 @@
 {
 "spider":"./f.jar",
 "sites" : [
-{"key":"drpy","name":"豆瓣🍭","type":3,"api":"drpy2.min.js","ext":"./js/豆瓣.js"},
-{"key":"drpy2","name":"豆瓣2🍭","type":3,"api":"drpy2.min.js","ext":"./js/drpy.js"},
+{"key":"lf_js_search","name":"搜索找片子","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js","ext":"18+"},
+{"key":"drpy","name":"豆瓣","type":3,"api":"drpy2.min.js","ext":"./js/豆瓣.js"},
+//{"key":"drpy2","name":"豆瓣2🍭","type":3,"api":"drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"drpy__豆瓣","name":"豆瓣🏛[DRPY]","type":3,"api":"drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"drpy2.min.js","ext":"./js/ikanbotsq.js"},
 {"key":"欧乐影院","name":"🛩歐樂影院♒","type":3,"api":"drpy2.min.js","ext":"./js/欧乐影院.js"},
