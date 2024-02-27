@@ -6,7 +6,7 @@
 //{"key":"drpy2","name":"豆瓣2🍭","type":3,"api":"drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"drpy__豆瓣","name":"豆瓣🏛[DRPY]","type":3,"api":"drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"drpy2.min.js","ext":"./js/ikanbotsq.js"},
-{"key":"drpy_js_荐片","name":"🏆荐片","type":3,"api":"drpy2.min.js","ext":"./js/荐片.js","playerType":"1"}, 
+//{"key":"drpy_js_荐片","name":"🏆荐片","type":3,"api":"drpy2.min.js","ext":"./js/荐片.js","playerType":"1"}, 
 {"key":"欧乐影院","name":"🛩歐樂影院♒","type":3,"api":"drpy2.min.js","ext":"./js/欧乐影院.js"},
 {"key":"独播库","name":"🏆独播库","type":3,"api":"drpy2.min.js","ext":"./js/独播库[飞].js","playerType":"1"},
 {"key":"欧帝影院","name":"🛩欧帝影院","type":3,"api":"drpy2.min.js","ext":"./js/欧帝影院.js"},
