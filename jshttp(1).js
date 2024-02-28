@@ -1,7 +1,7 @@
 {
 "spider":"./f.jar",
 "sites" : [
-{"key":"lf_js_search","name":"搜索🔥祝大家🤩好運🐉來","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js","ext":"18+"},
+{"key":"lf_js_search","name":"🔎搜索影片　　　　🔥祝大家🤩好運🐉來💯","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js","ext":"18+"},
 {"key":"drpy","name":"豆瓣","type":3,"api":"drpy2.min.js","ext":"./js/豆瓣.js"},
 //{"key":"drpy2","name":"豆瓣2🍭","type":3,"api":"drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"drpy__豆瓣","name":"豆瓣🏛[DRPY]","type":3,"api":"drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
@@ -10,7 +10,7 @@
 {"key":"一起看","name":"💬評分/集數 一起看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"./t.jar"},
 {"key":"乐鱼影视","name":"💬集數 乐鱼影视","type":3,"api":"drpy2.min.js","ext":"./js/乐鱼影视.js"},
 {"key":"drpy_js_荐片","name":"🏆荐片","type":3,"api":"drpy2.min.js","ext":"./js/荐片.js","playerType":"1"}, 
-{"key":"drpy_js_4KHDR[磁]","name":""🧲4KHDR","type":3,"api":"drpy2.min.js","ext":"./js/4KHDR[磁].js"},
+{"key":"drpy_js_4KHDR[磁]","name":"🧲4KHDR","type":3,"api":"drpy2.min.js","ext":"./js/4KHDR[磁].js"},
 {"key":"drpy_js_6V新版[磁]","name":"🧲6V新版","type":3,"api":"drpy2.min.js","ext":"./js/6V新版[磁].js"},
 {"key":"drpy_js_磁力熊[磁]","name":"🧲磁力熊","type":3,"api":"drpy2.min.js","ext":"./js/磁力熊[磁].js"},
 {"key":"路飞直播","name":"电视 | 路飞","type":3,"api":"./lib/lf_live10_min.js","ext":"./js/lf_live.json"},
