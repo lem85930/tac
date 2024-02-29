@@ -1,7 +1,7 @@
 {
 "spider":"./f.jar",
 "sites" : [
-{"key":"lf_js_search","name":"🔎搜索影片　　　　🔥祝大家🤩好運🐉來💯","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js","ext":"18+"},
+{"key":"lf_js_search","name":"🔎搜索影片　　　　🔥祝大家🤩好運🐉總來💯","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js","ext":"18+"},
 {"key":"drpy","name":"豆瓣","type":3,"api":"drpy2.min.js","ext":"./js/豆瓣.js"},
 //{"key":"drpy2","name":"豆瓣2🍭","type":3,"api":"drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"drpy__豆瓣","name":"豆瓣🏛[DRPY]","type":3,"api":"drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
@@ -10,7 +10,6 @@
 {"key":"欧乐影院","name":"🛩歐樂影院♒","type":3,"api":"drpy2.min.js","ext":"./js/欧乐影院.js"},
 {"key":"独播库","name":"🏆独播库","type":3,"api":"drpy2.min.js","ext":"./js/独播库[飞].js","playerType":"1"},
 {"key":"欧帝影院","name":"🛩欧帝影院","type":3,"api":"drpy2.min.js","ext":"./js/欧帝影院.js"},
-{"key":"泥巴","name":"🏆泥巴","type":3,"api":"csp_Nbys","searchable":1,"filterable":1,"jar":"./top98_1.jar"},
 //{"key": "星星","name": "🏆星星","type": 3,"api": "csp_Star","searchable": 1},
 {"key":"快看网","name":"🏆快看kk","type":0,"api":"https://kuaikan-api.com/api.php/provide/vod/at/xmlsea","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"優質网","name":"🏆優質zyk","type":0,"api":"https://api.1080zyku.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":1},
@@ -23,6 +22,7 @@
 {"key":"非凡网","name":"🏆非凡ff","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"量子網","name":"🏆量子lz","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]},
 {"key":"天空网","name":"🏆天空tk","type":0,"api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"泥巴","name":"🏆泥巴","type":3,"api":"csp_Nbys","searchable":1,"filterable":1,"jar":"./top98_1.jar"},
 {"key":"U酷網","name":"🏆U酷","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_360影视","name":"官源🏛360","type":3,"api":"drpy2.min.js","ext":"./js/360影视.js"},
 {"key":"drpy_js_百忙无果","name":"官源🏛芒果🔎","type":3,"api":"drpy2.min.js","ext":"./js/百忙无果.js"},
