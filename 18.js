@@ -16,6 +16,20 @@
 "sites":[
 {"key": "免費AV線上看","name": "免費AV線上看","type": 1,"api": "https://c.mdvod.cc/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },  //https://seajav.gitbook.io/untitled/
 {"key": "爱爱影视","name": "爱爱影视","type": 1,"api": "http://www.shangaiys.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 }, //https://aays.vip/   
+
+{"key": "csp_xBPQ_香蕉AV解说","name": "🔞香蕉解说","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "http://akun.work.gd/upload/jar/Yoursmile2.jar","ext": "http://akun.work.gd/upload/xBPQ/新香蕉AV解说.json"},
+{"key": "csp_xBPQ_香蕉资源","name": "🔞香蕉资源","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "http://akun.work.gd/upload/jar/Yoursmile2.jar","ext": "http://akun.work.gd/upload/xBPQ/香蕉资源.json"},
+{"key": "csp_xBPQ_香蕉超清","name": "🔞香蕉超清","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "http://akun.work.gd/upload/jar/Yoursmile2.jar","ext": "http://akun.work.gd/upload/xBPQ/新香蕉超清资源.json"},
+{"key": "csp_xBPQ_香蕉国产","name": "🔞香蕉国产","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "http://akun.work.gd/upload/jar/Yoursmile2.jar","ext": "http://akun.work.gd/upload/xBPQ/新香蕉国产传媒.json"},
+{"key": "csp_xBPQ_香蕉久久热","name": "🔞香蕉久久热","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "http://akun.work.gd/upload/jar/Yoursmile2.jar","ext": "http://akun.work.gd/upload/xBPQ/新香蕉久久热.json"},
+{"key": "csp_xBPQ_香蕉废柴","name": "🔞香蕉废柴","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "http://akun.work.gd/upload/jar/Yoursmile2.jar","ext": "http://akun.work.gd/upload/xBPQ/新香蕉废柴网.json"},
+{"key": "csp_xBPQ_香蕉直播","name": "🔞香蕉直播","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "http://akun.work.gd/upload/jar/Yoursmile2.jar","ext": "http://akun.work.gd/upload/xBPQ/新香蕉实时直播.json"},
+{"key": "csp_JavBus","name": "🔞🧲JavBus(自备梯子)","type": 3,"api": "csp_JavBus","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
+{"key": "csp_JavDb","name": "🔞🧲JavDb","type": 3,"api": "csp_JavDb","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"timeout": 1801,"ext": "http://javdb523.com"},
+{"key": "Cable","name": "🔞CableAV(vpn)","type": 3,"api": "csp_Cable","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 0,"timeout": 60},
+{"key": "PikPakShare1","name": "🔞PikPak分享(vpn)","type": 3,"api": "csp_PikPakShare","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 0,"timeout": 60,"ext": "http://akun.work.gd/upload/lib/tokenm.json$$$http://akun.work.gd/upload/lib/pikpakclass.a.json$$$http://akun.work.gd/upload/lib/pikpakclass.a.json.txt.gz"},
+{"key": "PikPakShare","name": "🔞PikPak分享2(vpn)","type": 3,"api": "csp_PikPakShare","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 0,"timeout": 60,"ext": "http://akun.work.gd/upload/lib/tokenm.json$$$http://akun.work.gd/upload/lib/pikpakclass.a1.json$$$http://akun.work.gd/upload/lib/pikpakclass.a1.json.txt.gz"},
+
 {"key": "美少女资源站","name": "美少女资源站","type": 0,"api": "https://www.msnii.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "淫水机资源站","name": "淫水机资源站","type": 0,"api": "https://www.xrbsp.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "香奶儿资源站","name": "香奶儿资源站","type": 0,"api": "https://www.gdlsp.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
@@ -54,6 +68,18 @@
 {"key": "KOK资源","name": "KOK资源","type": 1,"api": "https://api.vodkok2.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"博民资源","name":"博民资源","type":1,"api":"https://www.bominzy.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0},   
 {"key":"极速官采","name":"极速官采","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","playUrl":"","searchable":1,"quickSearch":1},
+{"key": "csp_xBPQ_香蕉AV解说","name": "🔞香蕉解说","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "http://akun.work.gd/upload/jar/Yoursmile2.jar","ext": "http://akun.work.gd/upload/xBPQ/新香蕉AV解说.json"},
+{"key": "csp_xBPQ_香蕉资源","name": "🔞香蕉资源","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "http://akun.work.gd/upload/jar/Yoursmile2.jar","ext": "http://akun.work.gd/upload/xBPQ/香蕉资源.json"},
+{"key": "csp_xBPQ_香蕉超清","name": "🔞香蕉超清","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "http://akun.work.gd/upload/jar/Yoursmile2.jar","ext": "http://akun.work.gd/upload/xBPQ/新香蕉超清资源.json"},
+{"key": "csp_xBPQ_香蕉国产","name": "🔞香蕉国产","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "http://akun.work.gd/upload/jar/Yoursmile2.jar","ext": "http://akun.work.gd/upload/xBPQ/新香蕉国产传媒.json"},
+{"key": "csp_xBPQ_香蕉久久热","name": "🔞香蕉久久热","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "http://akun.work.gd/upload/jar/Yoursmile2.jar","ext": "http://akun.work.gd/upload/xBPQ/新香蕉久久热.json"},
+{"key": "csp_xBPQ_香蕉废柴","name": "🔞香蕉废柴","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "http://akun.work.gd/upload/jar/Yoursmile2.jar","ext": "http://akun.work.gd/upload/xBPQ/新香蕉废柴网.json"},
+{"key": "csp_xBPQ_香蕉直播","name": "🔞香蕉直播","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "http://akun.work.gd/upload/jar/Yoursmile2.jar","ext": "http://akun.work.gd/upload/xBPQ/新香蕉实时直播.json"},
+{"key": "csp_JavBus","name": "🔞🧲JavBus(自备梯子)","type": 3,"api": "csp_JavBus","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
+{"key": "csp_JavDb","name": "🔞🧲JavDb","type": 3,"api": "csp_JavDb","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"timeout": 1801,"ext": "http://javdb523.com"},
+{"key": "Cable","name": "🔞CableAV(vpn)","type": 3,"api": "csp_Cable","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 0,"timeout": 60},
+{"key": "PikPakShare1","name": "🔞PikPak分享(vpn)","type": 3,"api": "csp_PikPakShare","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 0,"timeout": 60,"ext": "http://akun.work.gd/upload/lib/tokenm.json$$$http://akun.work.gd/upload/lib/pikpakclass.a.json$$$http://akun.work.gd/upload/lib/pikpakclass.a.json.txt.gz"},
+{"key": "PikPakShare","name": "🔞PikPak分享2(vpn)","type": 3,"api": "csp_PikPakShare","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 0,"timeout": 60,"ext": "http://akun.work.gd/upload/lib/tokenm.json$$$http://akun.work.gd/upload/lib/pikpakclass.a1.json$$$http://akun.work.gd/upload/lib/pikpakclass.a1.json.txt.gz"},
 
 {"key":"泥巴18","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"ext":"1"},
 {"key":"18AV","name":"🏆18AV2 無碼","type":3,"api":"csp_Eighteen","searchable":1,"filterable":1},
