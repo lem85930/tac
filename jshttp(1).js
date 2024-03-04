@@ -1,5 +1,5 @@
 {
-"spider":"./f.jar",
+"spider":"./custom_spider.jar",
 "sites" : [
 {"key":"lf_js_search","name":"🔎搜索影片　　　　🔥祝大家🤩好運🐉總來💯","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js","ext":"18+"},
 {"key":"drpy","name":"豆瓣","type":3,"api":"drpy2.min.js","ext":"./js/豆瓣.js"},
