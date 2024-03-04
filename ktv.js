@@ -7,6 +7,6 @@
 {"key":"Iktv","name":"KTV","type":3,"api":"csp_Iktv","searchable":1,"changeable":0},
 {"key":"MV_vod","name":"电视┃MTV","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"Yinyuetai","name":"音悦台","type":3,"api":"csp_Yinyuetai","searchable":1,"changeable":0}
-],
+]
 
 }
