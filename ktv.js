@@ -20,6 +20,16 @@
 
 
 "sites":[
+        {
+            "key":"MTV合集",
+            "name":"MTV合集",
+            "type":1,
+            "api":"https://tvbox-mv-xianlaihuyu.koyeb.app/mv/vod",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "changeable":0
+        },
 {
 			"key": "Iktv",
 			"name": "KTV",
