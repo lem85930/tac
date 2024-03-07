@@ -14,14 +14,14 @@
 {"name":"10086","type":0,"url":"https://agit.ai/VivoMax/Fu/raw/branch/master/Flzb/drzb.txt"}
 ],
 "sites":[
-{"key":"免費AV線上看","name":" 🧨免費AV線上看","type":1,"api":"https://c.mdvod.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},//https://seajav.gitbook.io/untitled/
-{"key":"奥斯卡资源","name":"🧨奥斯卡资源🐷解說","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"泥巴18","name":"🧨泥巴","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"ext":"1"},
-{"key":"9206_csp_JavDb","name":"🧨JavDbcarib","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":1801,"ext":"http://javdb523.com"},
-{"key":"MissAV","name":"🧨MissAV1無碼ijk","type":3,"api":"csp_Miss","searchable":1,"filterable":1},
-{"key":"9206_博天堂","name":"🧨博天堂歐美倫理","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"环亚资源站","name":"🧨环亚全無碼","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
-{"key":"dr_朱古力","name":"🧨朱古力(道长)","type":3,"api":"./lib/drpy2.min.sq.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/朱古力.js"},
+{"key":"免費AV線上看","name":" 🔥免費AV線上看","type":1,"api":"https://c.mdvod.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},//https://seajav.gitbook.io/untitled/
+{"key":"奥斯卡资源","name":"🔥奥斯卡资源🐷解說","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"泥巴18","name":"🔥泥巴","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"ext":"1"},
+{"key":"9206_csp_JavDb","name":"🔥JavDbcarib","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":1801,"ext":"http://javdb523.com"},
+{"key":"MissAV","name":"🔥MissAV1無碼ijk","type":3,"api":"csp_Miss","searchable":1,"filterable":1},
+{"key":"9206_博天堂","name":"🔥博天堂歐美倫理","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"环亚资源站","name":"🔥环亚全無碼","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
+{"key":"dr_朱古力","name":"🔥朱古力(道长)","type":3,"api":"./lib/drpy2.min.sq.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/朱古力.js"},
 {"key":"9206_老色逼资源站","name":"🌅🤩色逼资源站","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"*S猫资源","name":"🌅S猫時間表","type":0,"api":"https://api.maozyapi.com/inc/api.php"},
 {"key":"9206_91md.me","name":"🌅成人03","type":1,"api":"http://91md.me/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
