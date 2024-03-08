@@ -1,6 +1,5 @@
 {
-"sites":{"default":1,
-"data":[
+"sites":[
 {"key":"6U资源","name": "6U资源","api": "http://www.6uzy.cc/inc/apijson_vod.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":1},
 {"key":"花旗资源","name": "花旗资源","api": "https://seacms.huaqi.live/zyapi.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":2},
 {"key":"一点官采","name": "一点官采","api": "https://collect.movurl.xyz/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":3},
@@ -170,10 +169,9 @@
 {"key":"","name": "亚洲成人在线","api": "https://www.caiji01.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":167},
 {"key":"","name": "99资源","api": "http://99zy.pw/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":168},
 {"key":"","name": "水蜜桃","api": "https://smt999.cc/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":169}
-]},
-"iptv":{"default":1,
-"data":[
-{"name":"Ray直播","url":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","type":"remote","epg":"http://epg.112114.xyz","isActive":true,"id":1},
+],
+"lives":[
+{"name":"Ray直播","url":"https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","type":"remote","epg":"http://epg.112114.xyz","isActive":true,"id":1},
 {"name":"月光宝盒直播","url":"http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0","type":"remote","epg":"http://epg.112114.xyz","isActive":true,"id":2},
 {"name":"饭太硬直播","url":"http://ftyyy.tk/live.txt","type":"remote","epg":"http://epg.112114.xyz","isActive":true,"id":3},
 {"name":"俊于直播","url":"http://home.jundie.top:81/Cat/tv/live.txt","type":"remote","epg":"http://epg.112114.xyz","isActive":true,"id":4},
@@ -187,8 +185,8 @@
 {"name":"xxx Japan Si-W","url":"https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Si-W.m3u","type":"remote","epg":"","isActive":true,"id":12},
 {"name":"xxx Japan X","url":"https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan X.m3u","type":"remote","epg":"","isActive":true,"id":13},
 {"name":"xxx Japan Y-Z","url":"https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Y-Z.m3u","type":"remote","epg":"","isActive":true,"id":14}
-]},
-"analyze":{"default":2,"data":[
+],
+"parses":[
 {"id":1,"name":"纯净","url":"https://im1907.top/?jx=","isActive":true},
 {"id":2,"name":"听乐","url":"https://jx.dj6u.com/?url=","isActive":true},
 {"id":3,"name":"YT","url":"https://jx.yangtu.top/?url=","isActive":true},
@@ -222,8 +220,8 @@
 {"id":31,"name":"阳途","url":"https://jx.yangtu.top/?url=","isActive":true},
 {"id":32,"name":"777Player","url":"https://jx.jsonplayer.com/player/?url=","isActive":false},
 {"name":"JY","url":"https://jx.playerjy.com/?url=","isActive":true,"id":250}
-]},
-"drive":{"default":2,"data":[
+],
+"drive":[
 {"name":"🌊神器云","server":"https://al.chirmyram.com","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":1},
 {"name":"🏓小雅","server":"http://alist.xiaoya.pro","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":2},
 {"name":"🎧个人","server":"https://alist.azad.asia/","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":3},
@@ -267,5 +265,5 @@
 {"name":"🎡资源小站","server":"https://960303.xyz/","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":41},
 {"name":"🏝fenwe","server":"http://www.fenwe.tk:5244","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":42},
 {"name":"🎢轻弹浅唱","server":"https://g.xiang.lol","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":43}
-]}
+]
 }
