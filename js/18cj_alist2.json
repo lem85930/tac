@@ -1,18 +1,6 @@
 {
   "vodPic": "",
   "drives": [
-    
-    
-    {
-      "name": "罗汉果",
-      "server": "http://9527.coms.ee:38667/"
-    },
-    
-    {
-      "name": "空目录勿点，就一个罗汉果太孤单了",
-      "server": "http://dns.2023.dns.aiyun.qtwl.icu/"
-    },
-    
 {"name":"🌊神器云","server":"https://al.chirmyram.com","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":1},
 {"name":"🏓小雅","server":"http://alist.xiaoya.pro","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":2},
 {"name":"🎧个人","server":"https://alist.azad.asia/","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":3},
