@@ -27,7 +27,7 @@
 {"key":"环亚资源站","name":"🔥环亚全無碼","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
 {"key":"dr_朱古力","name":"🔥朱古力(道长)","type":3,"api":"drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/朱古力.js"},
 {"key": "csp_Alist1_cj1","name": "☁Alist1️⃣┃网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0,"jar":"./pg.jar","ext":"./js/18cj_alist1.json"},
-{"key": "csp_Alist1_cj2","name": "☁Alist2️⃣┃网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0,"jar":"./pg.jar","ext":"./js/18cj_alist2.json"},
+{"key": "csp_Alist1_cj2","name": "☁Alist🕑┃网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0,"jar":"./pg.jar","ext":"./js/18cj_alist2.json"},
 {"key":"T4-安博","name":"🏆安博(T4)","type":4,"api":"https://tang.serv00.net/power/ub1818","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
 {"key":"9206_老色逼资源站","name":"🌅🤩色逼资源站","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"*S猫资源","name":"🌅S猫時間表","type":0,"api":"https://api.maozyapi.com/inc/api.php"},
