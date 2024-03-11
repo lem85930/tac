@@ -72,8 +72,10 @@ const-string v6, "api_url"
 改成
 https://raw.githubusercontent.com/sqspot/tac/main/jshttp.js
 
-const-string v7, "https://raw.githubusercontent.com/sqspot/tac/main/jshttp.js"
+底圖 res 裡的 W-.png
+搜索 默认
+com.github.tvbox.osc.base
+App
+默认 下一行的 "" 加入
+https://raw.githubusercontent.com/sqspot/tac/main/jshttp.js
 
-const-string v6, "https://raw.githubusercontent.com/sqspot/tac/main/jshttp.js"
-
-const-string v5, "https://raw.githubusercontent.com/sqspot/tac/main/jshttp.js"
