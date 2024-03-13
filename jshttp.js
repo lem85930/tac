@@ -6,6 +6,7 @@
 //{"key":"drpy2","name":"豆瓣2🍭","type":3,"api":"drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"drpy__豆瓣","name":"豆瓣🏛[DRPY]","type":3,"api":"drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"drpy2.min.js","ext":"./js/ikanbotsq.js"},
+{ "key": "YQKan", "name": "🔥一起看APP", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 ,"jar":"./pg.jar"},
 {"key":"T4-安博","name":"🔥安博(T4)","type":4,"api":"https://tang.serv00.net/power/ub1818","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
 {"key":"独播库","name":"🔥独播库","type":3,"api":"drpy2.min.js","ext":"./js/独播库[飞].js","playerType":"1"},
 {"key":"csp_XP_独播库","name":"🔥独播库[XPMF]","type":3,"api":"csp_XPathMacFilter","playerType":0,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/duboku.json"},

@@ -8,7 +8,7 @@
 {"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"drpy2.min.js","ext":"./js/ikanbotsq.js"},
 {"key":"农民","name":"💬評分 農民","type":3,"api":"drpy2.min.js","ext":"./js/农民影视.js"},
 {"key":"一起看","name":"💬評分/集數 一起看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"./t.jar"},
-{ "key": "YQKan", "name": "一起看", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 ,"jar":"./pg.jar"},
+{ "key": "YQKan", "name": "🔥一起看APP", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 ,"jar":"./pg.jar"},
 {"key":"乐鱼影视","name":"💬集數 乐鱼影视","type":3,"api":"drpy2.min.js","ext":"./js/乐鱼影视.js"},
 {"key":"T4-安博","name":"🔥安博(T4)","type":4,"api":"https://tang.serv00.net/power/ub1818","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
 {"key":"独播库","name":"🔥独播库","type":3,"api":"drpy2.min.js","ext":"./js/独播库[飞].js","playerType":"1"},
