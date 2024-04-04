@@ -12,6 +12,7 @@
 {"key":"乐鱼影视","name":"💬集數 乐鱼影视","type":3,"api":"drpy2.min.js","ext":"./js/乐鱼影视.js"},
 {"key":"T4-安博","name":"🔥安博(T4)","type":4,"api":"https://tang.serv00.net/power/ub1818","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
 {"key":"独播库","name":"🔥独播库","type":3,"api":"drpy2.min.js","ext":"./js/独播库[飞].js","playerType":"1"},
+{"key":"duboku","name":"🔥独播库js","type":3,"api":"drpy2.min.js","ext":"./js/duboku.json","playerType":"1"},
 {"key":"csp_XP_独播库","name":"🔥独播库[XPMF]","type":3,"api":"csp_XPathMacFilter","playerType":0,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/duboku.json"},
 {"key":"海外看网","name":"🔥海外看haiwaikan","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"oletv資源f","name":"🔥oletv資源(海外)","type":1,"api":"https://olevod1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
