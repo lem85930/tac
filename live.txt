@@ -1046,7 +1046,21 @@ CCTV3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225647/in
 CCTV3,http://220.180.229.250:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-測試_8436,#genre#
+💋Cyber TV|SP8_8436,#genre#
+松视1台,p2p://135.148.104.228:19806/65965a69000205b2a39437282edd171f
+松视2台,p2p://135.148.104.228:19806/65965a69000aa6b2a394396a278d2960
+松视3台,p2p://135.148.104.228:19806/65965a6a000397c7a3943b7d68302409
+彩虹e台,p2p://135.148.104.228:19806/65965911000021e1a38ef6eb6d960419
+彩虹电影台,p2p://135.148.104.228:19806/659659670009e1e0a390495b56fe0ef5
+LOOK TV,p2p://135.148.104.228:19806/65965b99000447ada398db445ba341d9
+潘朵啦玩美台,p2p://135.148.104.228:19806/b18b7d6f932a44b68dadb6bc37a5df28
+惊艳成人电影台,p2p://135.148.104.228:19806/9f2fedfddd1c44159afc05fbc6d19111
+香蕉台,p2p://135.148.104.228:19806/c56271abc82643f7b8a2a5184f56b80d
+HAPPY,p2p://135.148.104.228:19806/659660790009efada3abe7bb6374465e
+JStar极限台,p2p://135.148.104.228:19806/65965afc0003ca30a39675dd41a40275
+K,p2p://135.148.104.228:19806/659660d600094f04a3ad52d46ed26cbc
+
+測試4_8436,#genre#
 BigAss,http://cdn.adultiptv.net/bigass.m3u8
 Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
 Brunette,http://cdn.adultiptv.net/brunette.m3u8
@@ -1064,7 +1078,7 @@ Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
 Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
 Threesome,http://live.redtraffic.xyz/threesome.m3u8
 
-內測_8436,#genre#
+內測3_8436,#genre#
 carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
 carib-004,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
 carib-146,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
@@ -1132,7 +1146,7 @@ pondo-618,https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
 pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 pondo-793,https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
 
-未整理_8436,#genre#
+未整理6_8436,#genre#
 AARM-046,https://t15.cdn2020.com:12339/video/m3u8/2022/01/20/fa9172db/index.m3u8
 AARM-066,https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/e61cb482/index.m3u8
 ABP-287,https://t17.cdn2020.com:12341/video/m3u8/2022/03/31/19d5be2b/index.m3u8
