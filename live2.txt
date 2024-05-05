@@ -1,4 +1,4 @@
-私密頻道-安博,#genre#
+私密.安博,#genre#
 松視1,https://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
 松视1台,https://z88.ubtvfans.com/live/rx3/2905/daf5dc8e6ec09a9f9fa07764441d1ebc/index.m3u8
 松视2台,https://z88.ubtvfans.com/live/rx3/2906/786522c38e02f6af5fea35725319e11a/index.m3u8
@@ -47,7 +47,7 @@ FAKE AGENT,https://z88.ubtvfans.com/live/rx4/3100/dbefa736bf8672b31f85be095d2267
 FAKE AGENT UK,https://z88.ubtvfans.com/live/rx4/3101/f2ecc13e9909655c1d073bb2ed9ce2bf/index.m3u8
 FAKE COP,https://z88.ubtvfans.com/live/rx4/3102/c7b0ba56b04abe5eb387ce96a7ca129d/index.m3u8
 
-💋Cyber TV|SP8,#genre#
+💋Cyber TV,#genre#
 松视1台,p2p://135.148.104.228:19806/65965a69000205b2a39437282edd171f
 松视2台,p2p://135.148.104.228:19806/65965a69000aa6b2a394396a278d2960
 松视3台,p2p://135.148.104.228:19806/65965a6a000397c7a3943b7d68302409

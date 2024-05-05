@@ -1,4 +1,4 @@
-台灣頻道-安博,#genre#
+台灣.安博,#genre#
 民視,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 民視,https://z88.ubtvfans.com/live/rx1/336/a355146f49dc8ec7fb97ab46e4c9857d/index.m3u8
 民視,https://z88.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
@@ -209,7 +209,7 @@ CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/
 靖天卡通,https://z88.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
 大愛一臺,https://z88.ubtvfans.com/live/rx6/11/79c9c9e7e7068753ca822e3598e19eec/index.m3u8
 
-🇹🇼台湾综合-晴天1,#genre#
+台湾.晴天1,#genre#
 中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 中天新闻,http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w
 中天新闻,http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w
@@ -699,7 +699,7 @@ MTV ,p2p://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 東森購物1,p2p://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
 東森購物2,p2p://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
 
-台灣-七星,#genre#
+台灣.七星,#genre#
 设置偏好设置,
 开启玩转原力,
 大概缓冲4秒,
@@ -1057,7 +1057,7 @@ J2(B),P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
 
 凤凰资讯台(B),P2p://generationnexxxt.com:19806/65fd6d04000e7c8036352c8637e97c89
 
-港澳頻道-安博,#genre#
+港澳.安博,#genre#
 TVB翡翠,https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
 TVB翡翠,https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
 TVB明珠,https://z88.ubtvfans.com/live/rx1/2437/43f3e7d06eeb53f3057cb2780fd11a50/index.m3u8
@@ -1101,7 +1101,7 @@ TVBE,https://z88.ubtvfans.com/live/rx3/1245/f5b6ce19b6aaa9c28323d9f2839a8985/ind
 城市電視,https://z88.ubtvfans.com/live/rx4/1289/6d27646c74e37586febfa8be982bf1be/index.m3u8
 TVB星河,https://z88.ubtvfans.com/live/rx4/1079/9371abf6b38ee5057462d8573a71736d/index.m3u8
 TVB經典,https://z88.ubtvfans.com/live/rx4/1083/067958a5c51d052f7bcc3f3bd1a3a8ff/index.m3u8
-新聞頻道-安博,#genre#
+新聞.安博,#genre#
 HOY资讯台,https://z88.ubtvfans.com/live/rx1/395/2afff7b9574d72ee839084fcdde78ff7/index.m3u8
 HKIBC,https://z88.ubtvfans.com/live/rx1/354/e2ebb99d1a004b25246d5311e7a0c278/index.m3u8
 三立新聞,https://z88.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
@@ -1169,7 +1169,7 @@ Channels,https://z88.ubtvfans.com/live/rx6/1495/02f7540135a7934d578929d8620aec83
 ABC News Australia,https://z88.ubtvfans.com/live/rx6/2769/bc0dcfc3979f4ea45c8c897a07ce51e0/index.m3u8
 FRANCE 24,https://z88.ubtvfans.com/live/rx6/1042/431c36701047742d2dbc22cb72272da1/index.m3u8
 CNN Indonesia,https://z88.ubtvfans.com/live/rx5/1145/46a22817c4f7afa657f2fdde79d86a01/index.m3u8
-影視頻道-安博,#genre#
+影視.安博,#genre#
 龍華日韓,https://z88.ubtvfans.com/live/rx1/382/897ab118ac4987dd9fb8743cdef65216/index.m3u8
 東森戲劇,https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
 東森戲劇,https://z88.ubtvfans.com/live/rx1/321/12c06b14bb78a7a24864a9716e0ace8e/index.m3u8
@@ -1232,7 +1232,7 @@ TVB功夫台,https://z88.ubtvfans.com/live/rx1/168/83b003eeef5ee14257bc64c8a32eb
 新兵日記,https://z88.ubtvfans.com/live/rx6/264/23083b43bd840220fdc5af900585eb00/index.m3u8
 藍色水玲瓏,https://z88.ubtvfans.com/live/rx6/1690/793a99d8f84e154a445914e41bc1c209/index.m3u8
 新玫瑰瞳鈴眼,https://z88.ubtvfans.com/live/rx6/2555/d16f0dd1c094d04fdee3d491c1f098c2/index.m3u8
-體育頻道-安博,#genre#
+體育.安博,#genre#
 緯來體育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
 緯來體育,https://z88.ubtvfans.com/live/rx3/2732/afc9e5d491c22c48ea99acb467665268/index.m3u8
 NBA(TW),https://z88.ubtvfans.com/live/rx1/71/e9bcba1bedb0d3bbf4b81a17360a59ab/index.m3u8
@@ -1343,7 +1343,7 @@ Astro Sp5,https://z88.ubtvfans.com/live/rx3/2432/c408bb9ddb2042813bf949dac9cf681
 Sport TV 1,https://z88.ubtvfans.com/live/rx1/1779/af3c2582a145776f0d35d1e96229c627/index.m3u8
 Sport TV 2,https://z88.ubtvfans.com/live/rx1/1785/6422dd842ca3f805e2fa14b4767278f7/index.m3u8
 Sport TV 3,https://z88.ubtvfans.com/live/rx1/2135/ef2e9ca7d4307a5cc6bdf6e17098a0a7/index.m3u8
-紀實頻道-安博,#genre#
+紀實.安博,#genre#
 亞洲旅遊,https://z88.ubtvfans.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8
 探索頻道,https://z88.ubtvfans.com/live/rx1/2817/3c1ec0ba462c6dd57356127d915de800/index.m3u8
 探索頻道,https://z88.ubtvfans.com/live/rx1/1035/0081cba3900d45c5a31c20b53ef72e28/index.m3u8
@@ -1384,7 +1384,7 @@ History,https://z88.ubtvfans.com/live/rx3/1413/381cc3f81c47399a643a5b5ad0ce30a7/
 Food Network 英,https://z88.ubtvfans.com/live/rx3/1421/3fd81712bc2e8557bf439b21561ea4e9/index.m3u8
 
 
-台灣新聞-七星,#genre#
+新聞.七星,#genre#
 中视新闻台,P2p://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
 寰宇新闻台,P2p://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
 华视新闻,P2p://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
@@ -1455,7 +1455,7 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c658
 非凡新闻台(B),P2p://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
 
 
-少兒頻道-安博,#genre#
+少兒.安博,#genre#
 Leigha Marina,https://z88.ubtvfans.com/live/rx6/313/4396273dc2b1fbb9f3e4ef07af3b773c/index.m3u8
 MOMO親子,https://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
 MOMO親子,https://z88.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
@@ -1497,7 +1497,7 @@ Beep Beep,https://z88.ubtvfans.com/live/rx6/3015/f270d739f6e0bc11bb2095230e4563d
 Super Heroes,https://z88.ubtvfans.com/live/rx6/2978/ce1f4fa827249995f5753e058545d453/index.m3u8
 Winnie,https://z88.ubtvfans.com/live/rx6/3018/19d17c2b1a13b95b49abefe2cb0e1726/index.m3u8
 Bebefinn,https://z88.ubtvfans.com/live/rx6/489/61e04f306677de01b1b719e8a56e7352/index.m3u8
-音樂宗教-安博,#genre#
+音樂宗教.安博,#genre#
 好消息,https://z88.ubtvfans.com/live/rx1/104/ee07571be25fcadb0ba2b662aef072db/index.m3u8
 好消息2,https://z88.ubtvfans.com/live/rx1/363/4f45e054be8b9d43aef8e866812fd1dd/index.m3u8
 輕柔音樂,https://z88.ubtvfans.com/live/rx6/393/263500d6c93cbcf2bf751cd085acbfd0/index.m3u8
@@ -1538,7 +1538,7 @@ SupremeMasterTV,https://z88.ubtvfans.com/live/rx6/323/d5baa4b1937a9f8e30f811482c
 鳥鳴音樂,https://z88.ubtvfans.com/live/rx6/1407/894306f2b41aa85e2cdb6fd0e1e367d0/index.m3u8
 GRASS COTTON,https://z88.ubtvfans.com/live/rx6/3221//index.m3u8
 Heavenly Harp Music,https://z88.ubtvfans.com/live/rx6/2540/6b27c84e9d8b03571ed8e0638c190d0f/index.m3u8
-大陸頻道-安博,#genre#
+大陸.安博,#genre#
 CGTN English,https://z88.ubtvfans.com/live/rx3/2362//index.m3u8
 CGTN Documentary,https://z88.ubtvfans.com/live/rx3/2363//index.m3u8
 CGTN Français,https://z88.ubtvfans.com/live/rx3/2364//index.m3u8
@@ -1598,7 +1598,7 @@ CCTV16,https://z88.ubtvfans.com/live/rx1/2821/e00bc8abdb50b2a016e41028e1dffee2/i
 天津衛視,https://z88.ubtvfans.com/live/rx1/1093/adeb7b360467105c8d33e687502e109b/index.m3u8
 江西衛視,https://z88.ubtvfans.com/live/rx1/1097/6e9413a31431921c54782277b6fb20bd/index.m3u8
 新疆衛視,https://z88.ubtvfans.com/live/rx1/1026/f132bd0fa604fc62e3dac4fee0c20ec2/index.m3u8
-にっぽん-安博,#genre#
+日本.安博,#genre#
 JapaNews24,https://z88.ubtvfans.com/live/rx6/425/2068e40104b77f2e3a1e14c002c9f2a3/index.m3u8
 スカイA,https://z88.ubtvfans.com/live/rx3/2433/adb519b8f66daf5107d7e36c2af94718/index.m3u8
 ANN/テレ朝,https://z88.ubtvfans.com/live/rx6/1502/f582321dca00d3a457c43c04e6bd65c9/index.m3u8
@@ -1666,7 +1666,7 @@ Disney チャンネル,https://z88.ubtvfans.com/live/rx3/290/87ba9a05c08b10b414e
 衛星劇場,https://z88.ubtvfans.com/live/rx3/2345/35579bf9a6e28c16c606bda562bd77dd/index.m3u8
 日テレG＋,https://z88.ubtvfans.com/live/rx3/2434/3cc1a8075697dce56630f6cea53d2674/index.m3u8
 兵庫県の最新,https://z88.ubtvfans.com/live/rx6/1142/eb0ac00063ec44ee66912bffe57afc32/index.m3u8
-한국-安博,#genre#
+韓國.安博,#genre#
 KBS드라마1,https://z88.ubtvfans.com/live/rx3/2348/a94fdbc2122e280faea173cf161ea96f/index.m3u8
 MBC드라마넷,https://z88.ubtvfans.com/live/rx3/2349/821ef5f05ed85ce69a10cac68030f84d/index.m3u8
 I.NET,https://z88.ubtvfans.com/live/rx3/2351/1c624ea0f0cf3e9c779763fd14f66fc7/index.m3u8
@@ -1723,7 +1723,7 @@ EBS KIDS,https://z88.ubtvfans.com/live/rx6/3007/024ca279704d26c4911d890bf1e4c287
 EBS PLUS1,https://z88.ubtvfans.com/live/rx6/3008/48ef33bf0d3170d8e148bd3bf270c8ac/index.m3u8
 EBS PLUS2,https://z88.ubtvfans.com/live/rx6/3009/c8a9fe2a630d5cf87c471fca8d0fc4c9/index.m3u8
 EBSe,https://z88.ubtvfans.com/live/rx6/3010/34ad6c4f9831b9e6912278a6226aa5a5/index.m3u8
-美國頻道-安博,#genre#
+美國.安博,#genre#
 Sinovision,https://z88.ubtvfans.com/live/rx3/1101/be621502c23b0b5c0302a2f5e1233ccc/index.m3u8
 TLC,https://z88.ubtvfans.com/live/rx3/1206/296aead782b0784427bcaa08367a05ef/index.m3u8
 FOX,https://z88.ubtvfans.com/live/rx3/1218/474f36b8c7bfc435538b3fd5a80611c2/index.m3u8
@@ -1874,7 +1874,7 @@ TNT,https://z88.ubtvfans.com/live/rx3/1524/c4ac4270be08a04afaeb129bbf098a98/inde
 ksat12,https://z88.ubtvfans.com/live/rx3/2428/e0902011d15c1642ee6d00f75ebfee8d/index.m3u8
 National Geographic,https://z88.ubtvfans.com/live/rx6/294/7868630ad0bc70634068f8d708b87f21/index.m3u8
 Syfy,https://z88.ubtvfans.com/live/rx3/1537/091885eb490ed1db9379931e26297e6b/index.m3u8
-加拿大-安博,#genre#
+加拿大.安博,#genre#
 The Weather Network,https://z88.ubtvfans.com/live/rx3/1251/1f4185e77e8b5f5fa1b8d6b3d0078891/index.m3u8
 CP 24 Canada,https://z88.ubtvfans.com/live/rx3/1247/1ee88c8bc1c3e39842c2a3ceaa160ded/index.m3u8
 CBC,https://z88.ubtvfans.com/live/rx4/1252/3ddd565e46374991d0dd3581e090e175/index.m3u8
@@ -1918,7 +1918,7 @@ Business Network News,https://z88.ubtvfans.com/live/rx4/1250/e2ce3217a9632ab63c1
 CTV News,https://z88.ubtvfans.com/live/rx4/1249/53e336806040332d201775d186a96f90/index.m3u8
 CBC News,https://z88.ubtvfans.com/live/rx4/1248/05a4509c5daf39f946dc2a3796f9aab1/index.m3u8
 Crave 4,https://z88.ubtvfans.com/live/rx4/1272/7b8eb211a915b519355836f176b8e543/index.m3u8
-英國頻道-安博,#genre#
+英國.安博,#genre#
 GB News,https://z88.ubtvfans.com/live/rx6/77/3fa5a68553a8d34e7d619f50a550f725/index.m3u8
 bt espn hd,https://z88.ubtvfans.com/live/rx3/2790/307ab85822ddee4608c78c405dbbfc0f/index.m3u8
 TalkTV,https://z88.ubtvfans.com/live/rx6/309/3aa5f4723a63fcbaaf52711a6a3bc5a2/index.m3u8
@@ -1987,7 +1987,7 @@ sky sports the open,https://z88.ubtvfans.com/live/rx3/2784/e32b44aae452b510488bc
 sky sports action,https://z88.ubtvfans.com/live/rx3/2785/be5ca7bb3313efaf79329d995231ee0e/index.m3u8
 sky sports cricket,https://z88.ubtvfans.com/live/rx3/2786/17193ae25ae60386e99025e4ecee0e5e/index.m3u8
 sky sports main event,https://z88.ubtvfans.com/live/rx3/2787/b36ca34d30cea8854e589082cb2641f0/index.m3u8
-法國頻道-安博,#genre#
+法國.安博,#genre#
 FRANCE 24,https://z88.ubtvfans.com/live/rx6/1042/431c36701047742d2dbc22cb72272da1/index.m3u8
 Franceinfo,https://z88.ubtvfans.com/live/rx6/376/ad9c234bc70aa25573d9d4ccab1d44c9/index.m3u8
 Euronews français,https://z88.ubtvfans.com/live/rx6/1017/9af6cb53c9bdd82a0cf753e11646f16a/index.m3u8
@@ -2006,7 +2006,7 @@ Paramount,https://z88.ubtvfans.com/live/rx3/2233/a67129ecd73e43ad5772f6d9a8f033c
 Paris premiere,https://z88.ubtvfans.com/live/rx3/2235/91d2ba76f73800d726d0b13a72cb0ea0/index.m3u8
 TF1 HD,https://z88.ubtvfans.com/live/rx3/2236/08a1d51885ed1a6051f95ce4851b8815/index.m3u8
 Toute Lhistoire,https://z88.ubtvfans.com/live/rx3/2238/a19ebbe181ea4f08566f2ea240071080/index.m3u8
-意大利-安博,#genre#
+意大利.安博,#genre#
 Sky Calcio,https://z88.ubtvfans.com/live/rx3/2737/7d2cb9ecea6a1db5a21ce3b4d138be9e/index.m3u8
 SKY SPORT NBA,https://z88.ubtvfans.com/live/rx4/2738/6b76bf51f583760b06a34d6ee263f659/index.m3u8
 SKY SPORT ARENA,https://z88.ubtvfans.com/live/rx4/2739/600bc71354ec9dc7ea1d780bd8da2659/index.m3u8
@@ -2016,7 +2016,7 @@ Inter TV,https://z88.ubtvfans.com/live/rx3/1599/82701175762fa9ff57bd9d590a2203a2
 Deejay TV,https://z88.ubtvfans.com/live/rx3/1601/4ea1a5aa9ef4ef89bf1ef7b7f2d6242f/index.m3u8
 Rai Sport,https://z88.ubtvfans.com/live/rx3/1613/6d9571af10a2d5522e50a221a5a79818/index.m3u8
 Italia 1,https://z88.ubtvfans.com/live/rx3/1616/b04a868816b9541cca43213997b431d1/index.m3u8
-新馬頻道-安博,#genre#
+新馬.安博,#genre#
 CNA 24,https://z88.ubtvfans.com/live/rx6/15/8fa4bc37b13aef429e32aec04a2b7a5b/index.m3u8
 AEC,https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8
 AEC,https://z88.ubtvfans.com/live/rx3/2745/9e39f15f04e377d91b58e759bca6be30/index.m3u8
@@ -2064,10 +2064,10 @@ Suria,https://z88.ubtvfans.com/live/rx4/1076/14daefa2383cb23fb2f439f52ee1e1d5/in
 OKEY,https://z88.ubtvfans.com/live/rx3/1075/8e3de68ea08ff1957cda7b44479179ab/index.m3u8
 AXN,https://z88.ubtvfans.com/live/rx3/1044/40b9b1e709c0b85254f3fd3198f55b30/index.m3u8
 BNC,https://z88.ubtvfans.com/live/rx3/1045/b3a0b442b617cb21d536709c9945ec0b/index.m3u8
-菲律賓-安博,#genre#
+菲律賓.安博,#genre#
 DZRH TV,https://z88.ubtvfans.com/live/rx6/1425/9612fe346d7319bf6c9d4f8984b5f9f2/index.m3u8
 UNTV,https://z88.ubtvfans.com/live/rx6/1501/7d0161050c5e64d767942a804a9a4c76/index.m3u8
-泰國頻道-安博,#genre#
+泰國.安博,#genre#
 Channel 3,https://z88.ubtvfans.com/live/rx4/2315/1d3517aa2aaf1fcd9059b1a106c4cc58/index.m3u8
 Channel 5,https://z88.ubtvfans.com/live/rx4/2316/569f7071167ffae03a3772cca697541f/index.m3u8
 Channel 7,https://z88.ubtvfans.com/live/rx4/2317/20630fd0f98ec16d8f26b0e53fec7ba3/index.m3u8
@@ -2091,7 +2091,7 @@ JKN,https://z88.ubtvfans.com/live/rx4/2247/bf01d6b1f47857f77e16df7a92d9aef5/inde
 Thai PBS,https://z88.ubtvfans.com/live/rx4/1047/ad265f48143840f1589dbaf78c7ac998/index.m3u8
 NEWS1,https://z88.ubtvfans.com/live/rx4/1608/347d8a1abf931a717c4122d2714814c2/index.m3u8
 Thailand ch3,https://z88.ubtvfans.com/live/rx4/1839/c19cc0fdeb84e5e414a73602e5cdd837/index.m3u8
-印尼頻道-安博,#genre#
+印尼.安博,#genre#
 CNN Indonesia,https://z88.ubtvfans.com/live/rx5/1145/46a22817c4f7afa657f2fdde79d86a01/index.m3u8
 Metro TV,https://z88.ubtvfans.com/live/rx6/2577/9231ebfe24029622b7490d2ed286230d/index.m3u8
 tvOne,https://z88.ubtvfans.com/live/rx6/2734/9f2acddf209c31348b8b4ec8710510d2/index.m3u8
@@ -2226,7 +2226,7 @@ TVone,https://z88.ubtvfans.com/live/rx4/1487/5cd59fa0c3b89dc2dec9117c9d8978db/in
 BeritaSatu,https://z88.ubtvfans.com/live/rx4/1488/fc896f45d9faad04611abd1fd0a721c7/index.m3u8
 TVMU,https://z88.ubtvfans.com/live/rx4/1490/20d8394d898595f2f7f2ab322d45e4c2/index.m3u8
 DAAI TV,https://z88.ubtvfans.com/live/rx4/2936/522eb7c67aa87a1313275fc7b3c5be9f/index.m3u8
-越南頻道-安博,#genre#
+越南.安博,#genre#
 HTV7 HD,https://z88.ubtvfans.com/live/rx4/2251/ed8acc12f688ba81598b23bf15e5a9db/index.m3u8
 HTV9 HD,https://z88.ubtvfans.com/live/rx4/2253/ad61da6dd9e25dd567c5ce99b46019ce/index.m3u8
 HTV1,https://z88.ubtvfans.com/live/rx4/2254/bfb4f1fecc5555ea06b811541c7608e1/index.m3u8
@@ -2240,7 +2240,7 @@ ANTV HD,https://z88.ubtvfans.com/live/rx4/1301/48d3578b98738314b50b34cc242140a7/
 HBTV,https://z88.ubtvfans.com/live/rx4/1302/2c674322003825ea98fd77d80d9feec6/index.m3u8
 KienGiangTV,https://z88.ubtvfans.com/live/rx6/1309/1e08e3f2bc55ff4e229980ba37af8ee7/index.m3u8
 KienGiangTV1,https://z88.ubtvfans.com/live/rx6/1310/eb0c9cb3dd6a47b74f85bbe015a436cb/index.m3u8
-土耳其-安博,#genre#
+土耳其.安博,#genre#
 A SPOR,https://z88.ubtvfans.com/live/rx4/2367/8d4d2f4717beeca1f472d4aeafa6b86d/index.m3u8
 TRT 1 HD,https://z88.ubtvfans.com/live/rx4/2368/ea8d00e8bb84ed427cc7a51dd3a2392e/index.m3u8
 SHOW TV HD,https://z88.ubtvfans.com/live/rx4/2369/dc0cfe0d825739b36714f9602bec9323/index.m3u8
@@ -2266,7 +2266,7 @@ TRT SPOR HD,https://z88.ubtvfans.com/live/rx4/2388/02bf1f78f07b6ee1b581394b81c1d
 BEIN SPORTS 1 HD,https://z88.ubtvfans.com/live/rx4/2389/59b2fa306c36ef9865b4319f20501e5c/index.m3u8
 BEIN SPORTS 2 HD,https://z88.ubtvfans.com/live/rx4/2390/179bff9e7775b2548bb1b75fade1f929/index.m3u8
 ULUSAL TV,https://z88.ubtvfans.com/live/rx4/2391/5ad381a69943724f9970c720c33e5731/index.m3u8
-巴西-安博,#genre#
+巴西.安博,#genre#
 Globo RBS TV,https://z88.ubtvfans.com/live/rx1/1668/656641f8b5168de1b3bbe96b24cb984b/index.m3u8
 Gloobinho,https://z88.ubtvfans.com/live/rx1/1684/65a89aa91f95bf56d28d1090ece5db7c/index.m3u8
 Globo RJ,https://z88.ubtvfans.com/live/rx1/1688/4786c6bae89a4b9307081a11197c7fe3/index.m3u8
@@ -2279,7 +2279,7 @@ Sport TV 1,https://z88.ubtvfans.com/live/rx1/1779/af3c2582a145776f0d35d1e96229c6
 Sport TV 2,https://z88.ubtvfans.com/live/rx1/1785/6422dd842ca3f805e2fa14b4767278f7/index.m3u8
 Sport TV 3,https://z88.ubtvfans.com/live/rx1/2135/ef2e9ca7d4307a5cc6bdf6e17098a0a7/index.m3u8
 Globo News,https://z88.ubtvfans.com/live/rx1/1489/c46f248515e29e711f4552ff4d099126/index.m3u8
-भारत-安博,#genre#
+भारत.安博,#genre#
 WION,https://z88.ubtvfans.com/live/rx6/303/80b339752d69bfe35c415ea5dfbb5546/index.m3u8
 ZeeNews,https://z88.ubtvfans.com/live/rx6/465/8204aec8833f0de7e58fd88264f2ae97/index.m3u8
 ABP Majha,https://z88.ubtvfans.com/live/rx6/1782/26d57c6682e6f9662856d542dda2cd77/index.m3u8
@@ -2300,7 +2300,7 @@ Starplus,https://z88.ubtvfans.com/live/rx4/1469/ed1f157d2b950e0a237b4cb976d0a9f5
 Picture,https://z88.ubtvfans.com/live/rx4/1470/874bb1516f41a9cb984e45d5df8c1ff6/index.m3u8
 Asianet,https://z88.ubtvfans.com/live/rx4/1471/7202a8bb350e62ff7c51f3d8268714e4/index.m3u8
 Times Now,https://z88.ubtvfans.com/live/rx4/1472/1014dc5a4e987a128a11a36a3c714149/index.m3u8
-俄羅斯-安博,#genre#
+俄羅斯.安博,#genre#
 RT News,https://z88.ubtvfans.com/live/rx4/2564/8b2917eae744d18b6cf6423bfbafef7d/index.m3u8
 Москва 24,https://z88.ubtvfans.com/live/rx4/2574/b8c8e47719ee10665e371bd8620e5251/index.m3u8
 RT Documentary,https://z88.ubtvfans.com/live/rx4/2611/322cc5ef9af6f8a91f8745b188bb04c2/index.m3u8
