@@ -1451,6 +1451,7 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c658
 年代新闻(B),P2p://generationnexxxt.com:19806/65fa6ea5000ec21a2a83897e03cd44bb
 非凡新闻台(B),P2p://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
 Litv影視,#genre#
+parse=1 
 4民視第一台,https://www.litv.tv/channel/watch/4gtv-4gtv003
 5民視台灣台,https://www.litv.tv/channel/watch/4gtv-4gtv001
 6民視,https://www.litv.tv/channel/watch/4gtv-4gtv155
@@ -1860,6 +1861,7 @@ Litv影視,#genre#
 946空中聖經學院,https://www.litv.tv/channel/watch/litv-vchannel946
 947蒙福卡通台,https://www.litv.tv/channel/watch/litv-vchannel947
 4GTV豪華套餐,#genre#
+parse=1 
 4民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
 5民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
 6民視,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
