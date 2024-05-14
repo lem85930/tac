@@ -1,3 +1,7 @@
+Js=youtube
+Decoder=3
+Aspect=0
+
 少兒.安博,#genre#
 Leigha Marina,https://z88.ubtvfans.com/live/rx6/313/4396273dc2b1fbb9f3e4ef07af3b773c/index.m3u8
 MOMO親子,https://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
