@@ -1,0 +1,6 @@
+[
+{"name":"4gtv","url":"https://raw.githubusercontent.com/sqspot/tac/main/4gtv.txt"},
+{"name":"live","url":"https://raw.githubusercontent.com/sqspot/tac/main/live.txt"},
+{"name":"18","url":"https://raw.githubusercontent.com/sqspot/tac/main/live2.txt"},
+{"name":"live3","url":"https://raw.githubusercontent.com/sqspot/tac/main/live3.txt"}
+]
