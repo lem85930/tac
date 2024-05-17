@@ -85,6 +85,7 @@
 {"key":"夜貓_qiyue","name":"😾七月蓝光","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/P6lDcb/%E4%B8%83%E6%9C%88%E5%BD%B1%E8%A7%86.json","jar":"./Xymz.jar"},
 {"key":"夜貓_hanju","name":"😾天天韩剧","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/Lyl2SD/%E5%A4%A9%E5%A4%A9%E9%9F%A9%E5%89%A7.json","jar":"./Xymz.jar"},
 {"key":"夜貓_csp_miai","name":"😾米爱蓝光","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/beMAHp/%E7%B1%B3%E7%88%B1%E5%BD%B1%E8%A7%86.json","jar":"./Xymz.jar"},
+{"key":"道长直播2点播2","name":"📺电视直播","type":3,"api":"./lib/live2cms.js","ext":"./live2tv_sq.txt"},
 {"key":"ikanbot2","name":"爱看机器人2","type":3,"api":"drpy2.min.js","ext":"./js/ikanbot2.js"},
 {"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"drpy2.min.js","ext":"./js/ikanbot3.js"}
 ],
