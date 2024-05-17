@@ -179,6 +179,7 @@
 {"key":"直播转点播","name":"🐼️┃电视┃直播","type":3,"searchable":0,"api":"./lib/live2vod.js","ext":"./lib/feimaolive.json"},
 {"key":"道长直播2点播2","name":"📺电视直播","type":3,"api":"./lib/live2cms.js","ext":"./live2tv_sq.txt"},
 {"key":"直播转点播2","name":"🐼️电视直播","type":3,"searchable":0,"api":"./lib/live2vod.js","ext":"./live2tv_sq.txt"},
+{"key":"油管新聞","name":"📺YouTube新聞直播","type":3,"api":"./youtube.js","ext":"./YouTube.txt"},
 {"key":"ikanbot2","name":"爱看机器人2","type":3,"api":"drpy2.min.js","ext":"./js/ikanbot2.js"},
 {"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"drpy2.min.js","ext":"./js/ikanbot3.js"}
 ],
