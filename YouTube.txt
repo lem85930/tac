@@ -1,23 +1,20 @@
-Js=youtube.js
-Decoder=3
-Aspect=0
-
 油管新聞,#genre#
 
-TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-三立新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
 三立財經,https://www.youtube.com/watch?v=CKjSm5ZeehE
-中天新聞,https://www.youtube.com/watch?v=OcvOEPFHwdw
-東森新聞,https://www.youtube.com/watch?v=R2iMq5LKXco
+中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
+東森新聞,https://www.youtube.com/watch?v=O8qvO4qn6R4
 EBC東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-寰宇新聞,https://www.youtube.com/watch?v=B7Zp3d6xXWw
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-NBC NEW,https://www.youtube.com/watch?v=0IUbD_4ytuo
-凤凰卫视,https://www.youtube.com/watch?v=dmDg7NfUoSw
-东森财经股市,https://www.youtube.com/watch?v=LbS-xQ67fos
-KOMPASTV,https://www.youtube.com/watch?v=4rmf-lk3ito
-东京新宿,https://www.youtube.com/watch?v=DjdUEyjx8GM
+NBC NEW,https://www.youtube.com/watch?v=S-vJ-gID7TY
+東森財經股市,https://www.youtube.com/watch?v=WHEPzbFA3hw
+公共電視,https://www.youtube.com/watch?v=C6gYqSHLRw4
+公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
+CCTV新聞,https://www.youtube.com/watch?v=bEZYrBMYNNg

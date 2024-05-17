@@ -180,7 +180,7 @@
 {"key":"道长直播2点播2","name":"📺电视直播","type":3,"api":"./lib/live2cms.js","ext":"./live2tv_sq_s.txt"},
 {"key":"直播转点播2","name":"🐼️电视直播","type":3,"searchable":0,"api":"./lib/live2vod.js","ext":"./live2tv_sq_s.txt"},
 {"key":"油管新聞","name":"📺YouTube新聞直播","type":3,"api":"./youtube.js","ext":"./YouTube.txt"},
-{"key": "Youtube","name": "❤Youtube","type": 3,"style":{ "type":"oval" },"api": "https://qu.ax/Mud.js",/*"searchable": 1,"changeable": 1,*/"ext": "https://qu.ax/USvO.txt"},
+{"key": "Youtube","name": "❤Youtube","type": 3,"style":{ "type":"oval" },"api": "https://qu.ax/Mud.js","ext": "./YouTube.txt"},
 {"key":"网络直播转点播","name":"❤💻电视 | 直播","type":3,"style":{ "type":"oval" },"api":"https://qu.ax/dFpK.js","ext":"https://qu.ax/uChb.json"},
 {"key":"ikanbot2","name":"爱看机器人2","type":3,"api":"drpy2.min.js","ext":"./js/ikanbot2.js"},
 {"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"drpy2.min.js","ext":"./js/ikanbot3.js"}
