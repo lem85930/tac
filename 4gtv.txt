@@ -174,8 +174,6 @@ Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 (大街)動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 (大街)八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 緯來體育臺,http://125.227.210.55:8155/VideoInput/play.ts
-🈲驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
-🍌香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
 三立臺灣臺,http://125.227.210.55:8160/VideoInput/play.ts
 Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
@@ -186,7 +184,6 @@ JTV,http://125.227.210.55:8169/VideoInput/play.ts
 TVBS新聞臺,http://125.227.210.55:8186/VideoInput/play.ts
 食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
 TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
-👅奧視🔞3,http://125.227.210.55:8917/VideoInput/play.ts
 💖TV5臺,http://125.227.210.55:15533/VideoInput/play.ts
 💖YTN臺,http://125.227.210.55:17478/VideoInput/play.ts
 💖NHK JAPAN臺,http://125.227.210.55:35802/VideoInput/play.ts
@@ -196,9 +193,7 @@ TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
 💖BBC臺,http://125.227.210.55:44350/VideoInput/play.ts
 💖KOREA臺,http://125.227.210.55:48553/VideoInput/play.ts
 💖Mainu臺,http://125.227.210.55:51359/VideoInput/play.ts
-🔮奧視2,http://125.227.210.55:55643/VideoInput/play.ts
 💖NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
-💖Sex ❌Girl,http://125.227.210.55:62698/VideoInput/play.ts
 📺歐飛嗅探,#genre#
 parse=1 
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -459,100 +454,6 @@ TVBS台劇台,video://https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=22
 超人力霸王整套看,video://https://www.4gtv.tv/channel/4gtv-live015?set=1&ch=22
 花系列 經典劇場,video://https://www.4gtv.tv/channel/4gtv-live016?set=1&ch=22
 
-🏐排球少年,#genre#
-parse=1
-playerType=2
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-S1E1,https://www.ofiii.com/vod/64896/1/E1
-S1E2,https://www.ofiii.com/vod/64896/1/E2
-S1E3,https://www.ofiii.com/vod/64896/1/E3
-S1E4,https://www.ofiii.com/vod/64896/1/E4
-S1E5,https://www.ofiii.com/vod/64896/1/E5
-S1E6,https://www.ofiii.com/vod/64896/1/E6
-S1E7,https://www.ofiii.com/vod/64896/1/E7
-S1E8,https://www.ofiii.com/vod/64896/1/E8
-S1E9,https://www.ofiii.com/vod/64896/1/E9
-S1E10,https://www.ofiii.com/vod/64896/1/E10
-S1E11,https://www.ofiii.com/vod/64896/1/E11
-S1E12,https://www.ofiii.com/vod/64896/1/E12
-S1E13,https://www.ofiii.com/vod/64896/1/E13
-S1E14,https://www.ofiii.com/vod/64896/1/E14
-S1E15,https://www.ofiii.com/vod/64896/1/E15
-S1E16,https://www.ofiii.com/vod/64896/1/E16
-S1E17,https://www.ofiii.com/vod/64896/1/E17
-S1E18,https://www.ofiii.com/vod/64896/1/E18
-S1E19,https://www.ofiii.com/vod/64896/1/E19
-S1E20,https://www.ofiii.com/vod/64896/1/E20
-S1E21,https://www.ofiii.com/vod/64896/1/E21
-S1E22,https://www.ofiii.com/vod/64896/1/E22
-S1E23,https://www.ofiii.com/vod/64896/1/E23
-S1E24,https://www.ofiii.com/vod/64896/1/E24
-S1E25,https://www.ofiii.com/vod/64896/1/E25
-S1OAD,https://www.ofiii.com/vod/64896/1/SE129192
-S2E1,https://www.ofiii.com/vod/64896/2/E1
-S2E2,https://www.ofiii.com/vod/64896/2/E2
-S2E3,https://www.ofiii.com/vod/64896/2/E3
-S2E4,https://www.ofiii.com/vod/64896/2/E4
-S2E5,https://www.ofiii.com/vod/64896/2/E5
-S2E6,https://www.ofiii.com/vod/64896/2/E6
-S2E7,https://www.ofiii.com/vod/64896/2/E7
-S2E8,https://www.ofiii.com/vod/64896/2/E8
-S2E9,https://www.ofiii.com/vod/64896/2/E9
-S2E10,https://www.ofiii.com/vod/64896/2/E10
-S2E11,https://www.ofiii.com/vod/64896/2/E11
-S2E12,https://www.ofiii.com/vod/64896/2/E12
-S2E13,https://www.ofiii.com/vod/64896/2/E13
-S2E14,https://www.ofiii.com/vod/64896/2/E14
-S2E15,https://www.ofiii.com/vod/64896/2/E15
-S2E16,https://www.ofiii.com/vod/64896/2/E16
-S2E17,https://www.ofiii.com/vod/64896/2/E17
-S2E18,https://www.ofiii.com/vod/64896/2/E18
-S2E19,https://www.ofiii.com/vod/64896/2/E19
-S2E20,https://www.ofiii.com/vod/64896/2/E20
-S2E21,https://www.ofiii.com/vod/64896/2/E21
-S2E22,https://www.ofiii.com/vod/64896/2/E22
-S2E23,https://www.ofiii.com/vod/64896/2/E23
-S2E24,https://www.ofiii.com/vod/64896/2/E24
-S2E25,https://www.ofiii.com/vod/64896/2/E25
-S2OAD,https://www.ofiii.com/vod/64896/2/SE129358
-S3E1,https://www.ofiii.com/vod/64896/3/E1
-S3E2,https://www.ofiii.com/vod/64896/3/E2
-S3E3,https://www.ofiii.com/vod/64896/3/E3
-S3E4,https://www.ofiii.com/vod/64896/3/E4
-S3E5,https://www.ofiii.com/vod/64896/3/E5
-S3E6,https://www.ofiii.com/vod/64896/3/E6
-S3E7,https://www.ofiii.com/vod/64896/3/E7
-S3E8,https://www.ofiii.com/vod/64896/3/E8
-S3E9,https://www.ofiii.com/vod/64896/3/E9
-S3E10,https://www.ofiii.com/vod/64896/3/E10
-S3特集,https://www.ofiii.com/vod/64896/3/SE129359
-S4E1,https://www.ofiii.com/vod/64896/4/E1
-S4E2,https://www.ofiii.com/vod/64896/4/E2
-S4E3,https://www.ofiii.com/vod/64896/4/E3
-S4E4,https://www.ofiii.com/vod/64896/4/E4
-S4E5,https://www.ofiii.com/vod/64896/4/E5
-S4E6,https://www.ofiii.com/vod/64896/4/E6
-S4E7,https://www.ofiii.com/vod/64896/4/E7
-S4E8,https://www.ofiii.com/vod/64896/4/E8
-S4E9,https://www.ofiii.com/vod/64896/4/E9
-S4E10,https://www.ofiii.com/vod/64896/4/E10
-S4E11,https://www.ofiii.com/vod/64896/4/E11
-S4E12,https://www.ofiii.com/vod/64896/4/E12
-S4E13,https://www.ofiii.com/vod/64896/4/E13
-S4E14,https://www.ofiii.com/vod/64896/4/E14
-S4E15,https://www.ofiii.com/vod/64896/4/E15
-S4E16,https://www.ofiii.com/vod/64896/4/E16
-S4E17,https://www.ofiii.com/vod/64896/4/E17
-S4E18,https://www.ofiii.com/vod/64896/4/E18
-S4E19,https://www.ofiii.com/vod/64896/4/E19
-S4E20,https://www.ofiii.com/vod/64896/4/E20
-S4E21,https://www.ofiii.com/vod/64896/4/E21
-S4E22,https://www.ofiii.com/vod/64896/4/E22
-S4E23,https://www.ofiii.com/vod/64896/4/E23
-S4E24,https://www.ofiii.com/vod/64896/4/E24
-S4E25,https://www.ofiii.com/vod/64896/4/E25
-S4OVA,https://www.ofiii.com/vod/64896/4/SE129360
-
 📺歐美色情,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -597,12 +498,10 @@ Playboy+,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6242/index.m3u8
 
 
 🔞🈲成人_,#genre#
-
-💖Sex ❌Girl,http://125.227.210.55:62698/VideoInput/play.ts
-🔮奧視2,http://125.227.210.55:55643/VideoInput/play.ts
+🈲驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
+🍌香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
 👅奧視🔞3,http://125.227.210.55:8917/VideoInput/play.ts
-驚艷台,http://125.227.210.55:8156/VideoInput/play.ts
-香蕉台,http://125.227.210.55:8159/VideoInput/play.ts
+🔮奧視2,http://125.227.210.55:55643/VideoInput/play.ts
 松視1,http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
 松視2,http://z88.ubtvfans.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
 松視3,http://z88.ubtvfans.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
@@ -664,7 +563,7 @@ Pornbox8,http://cord-cutter.net:8080/YT6bvC/100111/159957
 Pornbox9,http://cord-cutter.net:8080/YT6bvC/100111/159963
 Miamitv,https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
 MiaMitv,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-IBiza 🔞 🈲,#genre#
+IBiza ,#genre#
 IBiza1㊙NYX,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 IBiza1㊙NYX,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 IBiza2🌬TVBS新聞,https://cdn1.ibizastream.biz:441/free/Stream2/playlist.m3u8
