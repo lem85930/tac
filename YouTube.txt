@@ -1,3 +1,4 @@
-#🔥YouTube新聞，耐心等很久的轉圓圈，就會有畫面。
+#🔥👉YouTube新聞👈🔥
 ./YouTube2.txt
-
+#耐心等很久的轉圓圈，就會有畫面。
+./YouTube2.txt
