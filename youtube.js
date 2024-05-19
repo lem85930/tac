@@ -59,7 +59,7 @@ function getAddress(field) {
 //return url0.match(/streams\/(.+)/)[1];
              live = live[l].match(/v=(.+)/)[1];
 // return l;
-             url0 = 'https://m.youtube.com/watch?v='+live;
+             url0 = 'https://www.youtube.com/watch?v='+live;
 //             url1 = url0+'?app=desktop';
           } else {
              return JSON.stringify({ error: '該頻道目前無直播！' });
@@ -174,7 +174,7 @@ function getAddress(field) {
     }
 
     if ( shorts == 1 ) {
-       var object = { url: 'https://m.youtube.com/shorts/'+id, headers: JSON.stringify(headers) };
+       var object = { url: 'https://www.youtube.com/shorts/'+id, headers: JSON.stringify(headers) };
        var res = get.call(object);
 
        var next_id = res.match(/\\\/shorts\\\/(.{11})/g);
@@ -207,23 +207,3 @@ function getAddress(field) {
     return JSON.stringify({ url: url, headers: headers });
 
 }
-
-YouTube新聞,#genre#
-TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
-三立財經,https://www.youtube.com/watch?v=CKjSm5ZeehE
-中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
-東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
-EBC東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
-華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
-寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
-鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
-公共電視,https://www.youtube.com/watch?v=C6gYqSHLRw4
-NBC NEW,https://www.youtube.com/watch?v=--ZdMGK9Hn0
-CCTV新聞,https://www.youtube.com/watch?v=bEZYrBMYNNg
-
