@@ -1449,4 +1449,3 @@ now新闻台(B),P2p://generationnexxxt.com:19806/5c263253cf5241b1a155f0b1b85edea
 东森新闻台(B),P2p://generationnexxxt.com:19806/7bbf7bf4cb8f4a58893f6b5017a9fe05
 TVBS新闻台(B),P2p://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65804
 年代新闻(B),P2p://generationnexxxt.com:19806/65fa6ea5000ec21a2a83897e03cd44bb
-非凡新闻台(B),P2p://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
