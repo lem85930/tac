@@ -12,6 +12,13 @@
 噴處女,http://12204.vod.adultiptv.net/ph570fa1df46d2f/play.m3u8
 
 私密.安博,#genre#
+精艷臺(型男),http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+潘多拉完美臺(型男),http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
+香蕉臺(型男),http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
+松視1臺(型男),http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
+松視2臺(型男),http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
+松視3臺(型男),http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
+
 松視1,https://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
 松视1台,https://z88.ubtvfans.com/live/rx3/2905/daf5dc8e6ec09a9f9fa07764441d1ebc/index.m3u8
 松视2台,https://z88.ubtvfans.com/live/rx3/2906/786522c38e02f6af5fea35725319e11a/index.m3u8
