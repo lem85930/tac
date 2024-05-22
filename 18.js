@@ -11,9 +11,6 @@
 "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png"
 }],
-{"name":"Adult","type":0,"url":"https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
-{"name":"10086","type":0,"url":"https://agit.ai/VivoMax/Fu/raw/branch/master/Flzb/drzb.txt"}
-],
 "sites":[
 {"key":"免費AV線上看","name":" 🔥免費AV線上看","type":1,"api":"https://c.mdvod.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},//https://seajav.gitbook.io/untitled/
 {"key":"奥斯卡资源","name":"🔥奥斯卡资源🐷解說","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
