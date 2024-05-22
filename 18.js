@@ -3,14 +3,14 @@
 //"spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;9060b67dfec8782aca6e79ba17c0979b",
 "spider":"./custom_spider.jar",
 
-"lives":[
-{
-"name":"18源",
+"lives":[{
+"name":"自選",
 "type":0,
-"url":"./18源.txt",
+"url":"https://raw.githubusercontent.com/sqspot/tac/main/4gtvs.txt",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
 "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png"
-},
+}],
 {"name":"Adult","type":0,"url":"https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
 {"name":"10086","type":0,"url":"https://agit.ai/VivoMax/Fu/raw/branch/master/Flzb/drzb.txt"}
 ],
