@@ -1,5 +1,13 @@
 {
 "spider":"./custom_spider.jar",
+"lives":[{
+"name":"自選",
+"type":0,
+"url":"https://raw.githubusercontent.com/sqspot/tac/main/4gtv.txt",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
+}],
 "sites" : [
 {"key":"lf_js_search","name":"🔎搜索影片　　　　🔥祝大家🤩好運🐉總來💯","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js","ext":"18+"},
 {"key":"drpy","name":"豆瓣","type":3,"api":"drpy2.min.js","ext":"./js/豆瓣.js"},
@@ -90,14 +98,6 @@
 {"key":"ikanbot2","name":"爱看机器人2","type":3,"api":"drpy2.min.js","ext":"./js/ikanbot2.js"},
 {"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"drpy2.min.js","ext":"./js/ikanbot3.js"}
 ],
-"lives":[{
-"name":"自選",
-"type":3,
-"url":"./live4.txt",
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png"
-}],
 "parses":[
 {"name":"超嗅探","type":3,"url":"Web"},
 {"name":"西瓜嗅探1","type":0,"url":"https://t1.qlplayer.cyou/player/analysis.php?v=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header":{"User-Agent":"Dart/3.0(dart:io)"}}},
