@@ -20,6 +20,7 @@
 {"key":"MissAV","name":"🔥MissAV1無碼ijk","type":3,"api":"csp_Miss","searchable":1,"filterable":1},
 {"key": "dr_Missav","name": "Missav(道长)","type": 3,"api": "drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./js/Missav.js"},
 {"key":"csp_XBPQ_Miss AV","name":"Miss AV[翻墙]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./zy.jar","ext":"./js/Miss AV.json"},
+{"key": "csp_xBPQ_香蕉直播","name": "香蕉┃直播","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "./jar/Yoursmile2.jar","ext": "./js/新香蕉实时直播.json"},
 {"key":"9206_博天堂","name":"🔥博天堂歐美倫理","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"环亚资源站","name":"🔥环亚全無碼","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
 {"key":"dr_朱古力","name":"🔥朱古力(道长)","type":3,"api":"drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/朱古力.js"},
