@@ -190,6 +190,8 @@
 {"key":"直播转点播s","name":"❤💻电视直播♒","type":3,"style":{ "type":"oval" },"api":"./lib/live2cms.js","ext":"./live2tv_sq_s.txt"},
 {"key":"直播转点播","name":"❤💻电视直播","type":3,"style":{ "type":"oval" },"api":"./lib/live2cms.js","ext":"./live2tv_sq.txt"},
 {"key": "Youtube","name": "❤📺YouTube新聞直播","type": 3,"style":{ "type":"oval" },"api": "./Mud.js","ext": "./YouTube.txt"},
+{"key":"ikanbot猫","name":"🔥爱看机器人(猫爪壳)","type":3,"api":"drpy2.min.js","ext":"./js/ikanbot.js"},
+{"key":"ikanbot非猫","name":"🔥爱看机器人(非猫爪壳)","type":3,"api":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/ikanbot.js"},
 {"key":"ikanbot2","name":"爱看机器人2","type":3,"api":"drpy2.min.js","ext":"./js/ikanbot2.js"},
 {"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"drpy2.min.js","ext":"./js/ikanbot3.js"}
 ],

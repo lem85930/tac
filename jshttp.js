@@ -96,6 +96,8 @@
 {"key":"夜貓_csp_miai","name":"😾米爱蓝光","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/beMAHp/%E7%B1%B3%E7%88%B1%E5%BD%B1%E8%A7%86.json","jar":"./Xymz.jar"},
 {"key":"直播转点播","name":"❤💻电视直播","type":3,"style":{ "type":"oval" },"api":"./lib/live2cms.js","ext":"./live2tv_sq.txt"},
 {"key": "Youtube","name": "❤📺YouTube新聞直播","type": 3,"style":{ "type":"oval" },"api": "./Mud.js","ext": "./YouTube.txt"},
+{"key":"ikanbot猫","name":"🔥爱看机器人(猫爪壳)","type":3,"api":"drpy2.min.js","ext":"./js/ikanbot.js"},
+{"key":"ikanbot非猫","name":"🔥爱看机器人(非猫爪壳)","type":3,"api":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/ikanbot.js"},
 {"key":"ikanbot2","name":"爱看机器人2","type":3,"api":"drpy2.min.js","ext":"./js/ikanbot2.js"},
 {"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"drpy2.min.js","ext":"./js/ikanbot3.js"}
 ],
