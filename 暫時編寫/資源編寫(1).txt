@@ -1,5 +1,0 @@
-{"key":"xxxx資源","name":"🔥xxxx資源","type":1,"api":"yyyy","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"xxxx資源","type":0,"url":"zzzz"},
-
-
-
