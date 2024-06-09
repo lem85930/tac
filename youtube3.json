@@ -4,91 +4,23 @@
 {"type_id":"中天新聞","type_name":"中天新聞"},
 {"type_id":"民視新聞","type_name":"民視新聞"},
 {"type_id":"三立新聞","type_name":"三立新聞"},
-{"type_id":"東森財經新聞","type_name":"東森財經新聞"},
+{"type_id":"EBC 東森財經","type_name":"東森財經新聞"},
 {"type_id":"理財達人秀","type_name":"理財達人秀"},
 {"type_id":"錢線百分百","type_name":"錢線百分百"},
-{"type_id":"東森財經股市","type_name":"東森財經股市"},
-{"type_id":"三立財經新聞","type_name":"三立財經新聞"},
-{"type_id":"鏡新聞","type_name":"鏡新聞"},
-{"type_id":"寰宇新聞台","type_name":"寰宇新聞台"},
-{"type_id":"寰宇新聞台灣台","type_name":"寰宇新聞台灣台"},
+{"type_id":"EBC東森財經股市","type_name":"東森財經股市"},
+{"type_id":"三立iNEWS 24小時 CH48","type_name":"三立財經新聞"},
+{"type_id":"mnews Taiwan","type_name":"鏡新聞"},
+{"type_id":"寰宇新聞台 24小時","type_name":"寰宇新聞台"},
+{"type_id":"🔴寰宇新聞 台灣台","type_name":"寰宇新聞台灣台"},
 {"type_id":"台視新聞","type_name":"台視新聞"},
 {"type_id":"中視新聞","type_name":"中視新聞"},
-{"type_id":"華視新聞","type_name":"華視新聞"},
-{"type_id":"公視新聞","type_name":"公視新聞"},
-{"type_id":"公共電視","type_name":"公共電視"},
+{"type_id":"Taiwan CTS News","type_name":"華視新聞"},
+{"type_id":"PNN Taiwan News 24h","type_name":"公視新聞"},
+{"type_id":"公共電視 13頻道","type_name":"公共電視"},
 {"type_id":"其他","type_name":"其他"}
 ],
 	
 	"filters":{
-"🔴 TVBS NEWS 55台":
-	[{"key":"tid","name":"中文","value":[{"n":"默認","v":
-	"TVBS NEWS"
-	}]}],
-"中天新聞":
-	[{"key":"tid","name":"中文","value":[{"n":"默認","v":
-	"【#中天新聞不斷電直播Live】 CTI中天新聞24小時HD新聞直播 │ CTITV Taiwan News HD Live｜台湾のHDニュース放送｜ 대만 HD 뉴스 방송"
-	}]}],
-"三立新聞":
-	[{"key":"tid","name":"中文","value":[{"n":"默認","v":
-	"三立新聞 24小時直播 LIVE 三立+｜SET+ 24hrs LIVE news│台湾 SET+ 24hrs ニュースオンライン放送│대만 채널 SET+ 뉴스 생방송"
-	}]}],
-"民視新聞":
-	[{"key":"tid","name":"中文","value":[{"n":"默認","v":
-	"🟢LIVE 民視新聞 FTV 新聞直播｜Taiwan News Live｜台湾ニュース Live｜대만 뉴스 방송 Live"
-	}]}],
-"中視新聞":
-	[{"key":"tid","name":"中文","value":[{"n":"默認","v":
-	"中視新聞LIVE直播頻道24小時線上直播｜Taiwan CTV news HD 24h live news |台湾のCTV ニュースHD 대만 24시간 뉴스채널  | (生放送)"
-	}]}],
-"東森財經新聞":
-	[{"key":"tid","name":"中文","value":[{"n":"默認","v":
-	"EBC 東森財經新聞24小時線上直播｜Taiwan EBC Financial News｜台湾 EBC 金融ニュース｜대만 뉴스 생방송"
-	}]}],
-"東森財經股市":
-	[{"key":"tid","name":"中文","value":[{"n":"默認","v":
-	"【看盤不中斷】EBC東森財經股市24小時直播｜Taiwan EBC Financial News 24hr Live｜台湾 EBC 金融ニュース24 時間オンライン放送｜대만 뉴스 생방송"
-	}]}],
-"錢線百分百":
-	[{"key":"tid","name":"中文","value":[{"n":"默認","v":
-	"【錢線百分百】"
-	}]}],
-"理財達人秀":
-	[{"key":"tid","name":"中文","value":[{"n":"默認","v":
-	"【理財達人秀】"
-	}]}],
-"三立財經新聞":
-	[{"key":"tid","name":"中文","value":[{"n":"默認","v":
-	"三立iNEWS 24小時 CH48新聞直播 ON AIR │SET iNEWS LIVE│SET iNEWS ニュースオンライン生放送"
-	}]}],
-"鏡新聞":
-	[{"key":"tid","name":"中文","value":[{"n":"默認","v":
-	"鏡新聞 線上看 24小時 新聞直播｜mnews Taiwan News 24H Live｜台湾のニュース24時間オンライン放送"
-	}]}],
-"寰宇新聞台":
-	[{"key":"tid","name":"中文","value":[{"n":"默認","v":
-	"寰宇新聞台 24小時線上直播｜GlobalNewsTV 24h live news｜ 台湾のニュース24時間ライブ配信中 ｜대만 뉴스 생방송"
-	}]}],
-"寰宇新聞台灣台":
-	[{"key":"tid","name":"中文","value":[{"n":"默認","v":
-	"🔴寰宇新聞 台灣台｜ 24小時線上直播｜TaiwanNewsTV 24h live news｜ 台湾のニュース24時間ライブ配信中 ｜대만 뉴스 생방송"
-	}]}],
-"台視新聞":
-	[{"key":"tid","name":"中文","value":[{"n":"默認","v":
-	"台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브"
-	}]}],
-"華視新聞":
-	[{"key":"tid","name":"中文","value":[{"n":"默認","v":
-	"#LIVE: 華視新聞直播 CH52 | Taiwan CTS News | 台湾のニュースを24時間配信 | 대만 24시간 뉴스채널 | 24小時 線上看 LIVE新聞【On Air】"
-	}]}],
-"公視新聞":
-	[{"key":"tid","name":"中文","value":[{"n":"默認","v":
-	"公視新聞 PTS News  24小時線上直播 ｜PNN Taiwan News 24h Live｜台湾の最新ニュース24時間配信中｜대만 뉴스 라이브 스트리밍 #live"
-	}]}],
-"公共電視":
-	[{"key":"tid","name":"中文","value":[{"n":"默認","v":
-	"公共電視 13頻道 網路直播 PTS Live"
-	}]}],
 "其他":[{"key":"other","name":"其他",
 		"value":[
 					{"n":"TikTok","v":"TikTok"},
