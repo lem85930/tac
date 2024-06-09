@@ -84,7 +84,7 @@
 		},
 		{
 			"key":"Youtubeorg",
-			"name":"Youtube",
+			"name":"Youtubeorg",
 			"type":3,
 			"api": "csp_Youtube",
 			"searchable": 1,
