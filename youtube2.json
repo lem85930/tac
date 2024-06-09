@@ -18,7 +18,8 @@
 {"type_id":"公視新聞","type_name":"公視新聞"},
 {"type_id":"公共電視","type_name":"公共電視"},
 {"type_id":"其他","type_name":"其他"}
-	],
+],
+	
 	"filters":{
 "TVBS新聞":
 	[{"key":"tid","name":"中文","value":[{"n":"默認","v":
@@ -88,18 +89,19 @@
 	[{"key":"tid","name":"中文","value":[{"n":"默認","v":
 	"公共電視 13頻道 網路直播 PTS Live"
 	},]}],
-"其他":[{"key":"tid","name":"中文",
+"其他":[{"key":"other","name":"其他",
 		"value":[
-					{"n":"默認","v":""},
-					{"n":"Live","v":"live sports"},
+					{"n":"TikTok","v":"TikTok"},
+					{"n":"Live","v":"sports"},
 					{"n":"Games","v":"live games"},
 					{"n":"Soccer","v":"live soccer"},
 					{"n":"NBA","v":"NBA"},
 					{"n":"Extreme","v":"extreme sports"},
 					{"n":"InDoor","v":"indoor sports"},
 					{"n":"OutDoor","v":"outdoor sports"},
-					{"n":"Workout","v":"workout"}
-				]}]},
+					{"n":"Workout","v":"workout"}]
+				},]
+},
 	"jx":0,
 	"parse":0
 }
