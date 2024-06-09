@@ -101,9 +101,9 @@
 				"ratio": 1.5
 			}
 		},
-{"key":"Youtube","name":"Youtube","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./lib/youtube.json","type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbcdocumentary#nationalgeographicdocumentary","codecs":","style":{"type":"rect","ratio":1.5}},
+{"key":"Youtube","name":"Youtube","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./lib/youtube.json","type":"直播#新聞#劇集#電影#綜藝#紀錄片#音樂#體育#動物#風光#放鬆#4K#HDR#movie#music#documentary#bbcdocumentary#nationalgeographicdocumentary","codecs":""},"style":{"type":"rect","ratio":1.5}},
 
-		{
+{
 			"key":"bili",
 			"name":"B站 | Bili[jar]",
 			"type":3,
