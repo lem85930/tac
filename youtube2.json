@@ -90,6 +90,7 @@
 	},]}],
 "其他":[{"key":"tid","name":"中文",
 		"value":[
+					{"n":"默認","v":""},
 					{"n":"Live","v":"live sports"},
 					{"n":"Games","v":"live games"},
 					{"n":"Soccer","v":"live soccer"},
