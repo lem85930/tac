@@ -25,7 +25,7 @@
 {"key":"索尼","name":"🔥索尼sn","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"天空网","name":"🔥天空tk","type":0,"api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"欧帝影院","name":"🔥欧帝影院","type":3,"api":"drpy2.min.js","ext":"./js/欧帝影院.js"},
-{"key":"Youtube","name":"🎯Youtube👉","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./youtube.json","type":"直播#新聞#劇集#電影#綜藝#紀錄片#音樂#體育#動物#風光#放鬆#4K#HDR#movie#music#documentary#bbcdocumentary#nationalgeographicdocumentary","keywords":"排行榜,HOT,TRENDS,熱門話題,熱門趨勢,熱門綜藝,熱門電影,熱門電視劇,小姐姐","codecs":""},"style":{"type":"rect","ratio":1.5}},
+{"key":"Youtube","name":"🛗Youtube⏩","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./youtube.json","type":"直播#新聞#劇集#電影#綜藝#紀錄片#音樂#體育#動物#風光#放鬆#4K#HDR#movie#music#documentary#bbcdocumentary#nationalgeographicdocumentary","keywords":"排行榜,HOT,TRENDS,熱門話題,熱門趨勢,熱門綜藝,熱門電影,熱門電視劇,小姐姐","codecs":""},"style":{"type":"rect","ratio":1.5}},
 {"key":"泥巴","name":"🔥泥巴","type":3,"api":"csp_Nbys","searchable":1,"filterable":1,"jar":"./top98_1.jar"},
 {"key":"多瑙影视","name":"🈵多瑙影视♒","type":3,"api":"drpy2.min.js","ext":"./js/多瑙影视.js"},
 {"key":"索尼2","name":"🔥索尼2","type":0,"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
