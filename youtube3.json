@@ -27,10 +27,10 @@
 		{"n":"公共電視","v":"公共電視 13頻道 網路直播 PTS Live"}
 	]},
 	{key":"tid",name":"English","value":[
-					{"n":"Live","v":"live"},
-					{"n":"Games","v":"live games"},
-					{"n":"CNN","v":"live CNN"},
-					{"n":"BBC","v":"live BBC"}
+		{"n":"Live","v":"live"},
+		{"n":"Games","v":"live games"},
+		{"n":"CNN","v":"live CNN"},
+		{"n":"BBC","v":"live BBC"}
 	]}
 ],
 
