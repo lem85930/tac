@@ -26,7 +26,7 @@
 		{"n":"公視新聞","v":"公視新聞 PTS News  24小時線上直播"},
 		{"n":"公共電視","v":"公共電視 13頻道 網路直播 PTS Live"}
 	]},
-	{key":"tid",name":"English","value":[
+	{"key":"tid",name":"English","value":[
 		{"n":"Live","v":"live"},
 		{"n":"Games","v":"live games"},
 		{"n":"CNN","v":"live CNN"},
